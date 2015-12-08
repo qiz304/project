@@ -44,13 +44,11 @@ See the project homepage [here](http://hackersforhumanhealth.me).
 
 Contributors
 -----
-
-
+In alphabetical order
 
 
 Authors | | | |
 --- | --- | --- | ---
-[Cameron Davidson-Pilon](http://www.camdp.com) |  [Stef Gibson](http://stefgibson.com) | [Vincent Ohprecio](http://bigsnarf.wordpress.com/) |[Lars Buitinck](https://github.com/larsman)
-[Paul Magwene](http://github.com/pmagwene) |  [Matthias Bussonnier](https://github.com/Carreau) | [Jens Rantil](https://github.com/JensRantil) |  [y-p](https://github.com/y-p)
+[Alejandro Covarrubias] |  [Jacob Lurye] | [Eliud Oloo] |[Qiu-Yue Zhong]
 
 
