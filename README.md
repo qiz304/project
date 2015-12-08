@@ -1,15 +1,11 @@
 
 =======
-# project
-CS109 Final Project
->>>>>>> b20d204a98ddc102443fa113e5b87779ae3d7a23
-
-#Investigating Link Between Health and Happiness
-
-#### *Using Twitter Data*
+# CS109 FINAL PROJECT
 
 
+#Is There A Link Between Health and Happiness?
 
+#### *An Investigation Using Twitter Data*
 
 The scientific goal of this project is to come up with a way to measure average happiness state-by state using sentiment analysis of Twitter data and then to determine how well the happiness of a state correlates with public health statistics such as morbidity, mortality, healthcare quality and other criteria.
 
