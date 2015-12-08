@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# project
+cscie 109 project
+>>>>>>> b20d204a98ddc102443fa113e5b87779ae3d7a23
 #[Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 #### *Using Python and PyMC*
 
@@ -9,6 +14,7 @@ The Bayesian method is the natural approach to inference, yet it is hidden from 
 
 <div style="float: right; margin-left: 30px;"><img title="created by Stef Gibson at StefGibson.com"style="float: right;margin-left: 30px;" src="http://i.imgur.com/6DKYbPb.png?1" align=right height = 350 /></div>
 
+<<<<<<< HEAD
 After some recent success of Bayesian methods in machine-learning competitions, I decided to investigate the subject again. Even with my mathematical background, it took me three straight-days of reading examples and trying to put the pieces together to understand the methods. There was simply not enough literature bridging theory to practice. The problem with my misunderstanding was the disconnect between Bayesian mathematics and probabilistic programming. That being said, I suffered then so the reader would not have to now. This book attempts to bridge the gap.
 
 If Bayesian inference is the destination, then mathematical analysis is a particular path to towards it. On the other hand, computing power is cheap enough that we can afford to take an alternate route via probabilistic programming. The latter path is much more useful, as it denies the necessity of mathematical intervention at each step, that is, we remove often-intractable mathematical analysis as a prerequisite to Bayesian inference. Simply put, this latter computational path proceeds via small intermediate jumps from beginning to end, where as the first path proceeds by enormous leaps, often landing far away from our target. Furthermore, without a strong mathematical background, the analysis required by the first path cannot even take place.
@@ -192,3 +198,5 @@ Contact the main author, Cam Davidson-Pilon at cam.davidson.pilon@gmail.com or [
 
 
 ![Imgur](http://i.imgur.com/Zb79QZb.png)
+=======
+>>>>>>> b20d204a98ddc102443fa113e5b87779ae3d7a23
