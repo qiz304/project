@@ -33,8 +33,7 @@ See the project homepage [here](http://hackersforhumanhealth.me).
 * [**ch04_Model_Testing_and_Selection**](http://nbviewer.ipython.org/urls/raw.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/master/Chapter4_TheGreatestTheoremNeverTold/Chapter4.ipynb)
     - How to sort Reddit comments from best to worst (not as easy as you think)
     
-* [**ch05_Model_Deployment**](http://nbviewer.ipython.org/urls/raw.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/master/Chapter5_LossFunctions/Chapter5.ipynb)
-    The 
+* [**ch05_Model_Deployment**](http://nbviewer.ipython.org/urls/raw.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/master/Chapter5_LossFunctions/Chapter5.ipynb) 
     - Winning solution to the Kaggle Dark World's competition
     
 
