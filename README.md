@@ -18,23 +18,22 @@ Contents
 See the project homepage [here](http://hackersforhumanhealth.me).
 
 
-
 * [**Prologue:**](http://nbviewer.ipython.org/urls/raw.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/master/Prologue/Prologue.ipynb).
 
-* [**ch01_Data_Collection_And_Preparation**](http://nbviewer.ipython.org/urls/raw.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/master/Chapter1_Introduction/Chapter1.ipynb)
+* [**ch01_Data_Collection_And_Preparation**](ch01_Data_Collection_And_Preparation/ch01.ipynb)
     - Inferring human b
     
-* [**ch02_Exploratory_Data_Analysis**](http://nbviewer.ipython.org/urls/raw.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/master/Chapter2_MorePyMC/Chapter2.ipynb)
+* [**ch02_Exploratory_Data_Analysis**](ch02_Exploratory_Data_Analysis/ch02.ipynb)
     - Det
     
-* [**ch03_Model_Building**](http://nbviewer.ipython.org/urls/raw.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/master/Chapter3_MCMC/Chapter3.ipynb)
-    - Bayesian clustering with mixture models
+* [**ch03_Model_Building**](ch03_Model_Building/ch03.ipynb)
+    - Bayesian clust
     
-* [**ch04_Model_Testing_and_Selection**](http://nbviewer.ipython.org/urls/raw.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/master/Chapter4_TheGreatestTheoremNeverTold/Chapter4.ipynb)
-    - How to sort Reddit comments from best to worst (not as easy as you think)
+* [**ch04_Model_Testing_and_Selection**](ch04_Model_Testing_and_Selection/ch04.ipynb)
+    - How to sort Reddit comme
     
-* [**ch05_Model_Deployment**](http://nbviewer.ipython.org/urls/raw.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/master/Chapter5_LossFunctions/Chapter5.ipynb) 
-    - Winning solution to the Kaggle Dark World's competition
+* [**ch05_Model_Deployment**](ch05_Model_Deployment/ch05.ipynb) 
+    - Winning 
     
 
 Contributors
