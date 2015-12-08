@@ -1,18 +1,19 @@
-<<<<<<< HEAD
+
 =======
 # project
-cscie 109 project
+CS109 Final Project
 >>>>>>> b20d204a98ddc102443fa113e5b87779ae3d7a23
-#[Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
-#### *Using Python and PyMC*
+
+#Investigating Link Between Health and Happiness
+
+#### *Using Twitter Data*
 
 
 
 
-The Bayesian method is the natural approach to inference, yet it is hidden from readers behind chapters of slow, mathematical analysis. The typical text on Bayesian inference involves two to three chapters on probability theory, then enters what Bayesian inference is. Unfortunately, due to mathematical intractability of most Bayesian models, the reader is only shown simple, artificial examples. This can leave the user with a *so-what* feeling about Bayesian inference. In fact, this was the author's own prior opinion.
+The scientific goal of this project is to come up with a way to measure average happiness state-by state using sentiment analysis of Twitter data and then to determine how well the happiness of a state correlates with public health statistics such as morbidity, mortality, healthcare quality and other criteria.
 
-
-<div style="float: right; margin-left: 30px;"><img title="created by Stef Gibson at StefGibson.com"style="float: right;margin-left: 30px;" src="http://i.imgur.com/6DKYbPb.png?1" align=right height = 350 /></div>
+<div style="float: right; margin-left: 30px;"><img title="created by Stef Gibson at StefGibson.com"style="float: right;margin-left: 30px;" src="http://www.massage1.com/wp-content/uploads/healthhappiness.jpg" align=right height = 350 /></div>
 
 <<<<<<< HEAD
 After some recent success of Bayesian methods in machine-learning competitions, I decided to investigate the subject again. Even with my mathematical background, it took me three straight-days of reading examples and trying to put the pieces together to understand the methods. There was simply not enough literature bridging theory to practice. The problem with my misunderstanding was the disconnect between Bayesian mathematics and probabilistic programming. That being said, I suffered then so the reader would not have to now. This book attempts to bridge the gap.
