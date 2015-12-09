@@ -5,10 +5,10 @@ import sys
 reload(sys)
 sys.setdefaultencoding("utf-8")
 
-ckey = 'ZJVEFsSUBp0HHOBKNzUL6VMiK'
-csecret = 'O4wwq8dmwQIc5tKdTziPH2VHnQZwRmr8pRQFm9WC9cOzagpBkV'
-atoken = '2977080466-vKSmZOk6XSfVVBZ12EctWlcZeEeYbk60T72IfBq'
-asecret = 'KP1gOYPYKHgunDC6TOXUqYkBPt1QW7zz0deVcO9EP11TW'
+ckey = ''
+csecret = ''
+atoken = ''
+asecret = ''
 
 oauth = OAuth(atoken, asecret, ckey, csecret)
 

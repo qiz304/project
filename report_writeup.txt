@@ -1,0 +1,41 @@
+1_Overview and Motivation: 
+Provide an overview of the project goals and the motivation for it. Consider that this will be read by people who did not see your project proposal.
+Related Work: Anything that inspired you, such as a paper, a web site, or something we discussed in class.
+
+It is often assumed that health and hapiness are closely interlinked but quatifiabe evidence to that effect is hard to come by.  One of the many reasons for this that hapiness is nebulous and diffuse concept -- easy to recorgnize in oneself but hard to detect, much less measure, in others.  Infact othe very definition of happiness is aontoversial,.  Is it contentment, excitement, ....  How then can one purot to measure what thy canot define?  Weel, we do not putport to measure hapiness in its purest form but rahher when we reffer to hapiness in this work, we are reffering to "Twitter Hapiness" in other words, japiness as expressed in twitter, which we recorgnize may be different from true hapiness, whatever that is.  Contentment, infat the very idea of meeasuring hapiness sounds lika futile task yet one for which intrest never wanes.but hard to .  data 
+
+Never the less, if there was ever a time when one could make a reasonable attempt at quantifying hapinees, it is now -- whthat ha with social media explosion that allows people to express them selve more volume, frequency and persitence due to recorded nature form that can be parsed ananalyzed after the fact.  nad most important;y more freurnly.  
+in this work we do not claim to be abe to 
+
+
+
+Hapiness affect health outcomes ot do health outcomes affect hapiness
+
+
+
+number of variables that are available for making the prediction
+number 9of observations -- tweets 450000,  probably modre data would be good but time a factor so we only ised a third
+
+wrote a scrip to parse the json file and produce a reformatted json file containig aonly US tweets and a state column parsed the json file
+Json Viewer to make it easier to see the fields
+http://jsonviewer.stack.hu/
+Json validator to validate output script
+http://jsonlint.com/
+
+02_Initial Questions: What questions are you trying to answer? How did these questions evolve over the course of the project? What new questions did you consider in the course of your analysis? - Data: Source, scraping method, cleanup, storage, etc.
+
+
+onemillion tweets dataset
+
+out own scripts one to to harvest data from twitter and one to process and clean it
+out script -- getting location data -- stste and county using geopy geocoded, timed out, next time use solution proposed by 
+gps good if you wabnt o be more precise street level -- use soluti0n proposed by BF on piazza 
+
+
+
+03_Exploratory Data Analysis: What visualizations did you use to look at your data in different ways? What are the different statistical methods you considered? Justify the decisions you made, and show any major changes to your ideas. How did you reach these conclusions?
+
+04_Final Analysis: What did you learn about the data? How did you answer the questions? How can you justify your answers?
+
+
+05_Presentation: Present your final results in a compelling and engaging way using text, visualizations, images, and videos on your project web site.
