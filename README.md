@@ -13,13 +13,10 @@ Demo provided with screencast
 <http://hackersforhumanhealth.me/screencast.html>
 
 ## Details for teaching team
-Login credentials provided to verify application functionalities:
-Email:user@test.com
-Password:test123 
-Teaching team can create users and groups as needed to verify functionalities
+
 
 ## Outside code
-*Makes use of pure css side menu template from http://purecss.io/layouts/ 
+*Live URL makes use of pure css side menu template http://purecss.io/layouts/ 
 
 
 
