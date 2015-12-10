@@ -1,0 +1,3276 @@
+Edition,Report Type,Measure Name,State Name,Rank,Value,Score,Lower CI,Upper CI
+2014,Annual,Air Pollution,Alabama,36,10,0.06,,
+2014,Annual,Air Pollution,Alaska,1,4.9,-2,,
+2014,Annual,Air Pollution,Arizona,35,9.9,0,,
+2014,Annual,Air Pollution,Arkansas,42,10.3,0.22,,
+2014,Annual,Air Pollution,California,50,13.9,2,,
+2014,Annual,Air Pollution,Colorado,7,6.8,-1.73,,
+2014,Annual,Air Pollution,Connecticut,19,8.7,-0.67,,
+2014,Annual,Air Pollution,Delaware,40,10.2,0.17,,
+2014,Annual,Air Pollution,Florida,10,7.4,-1.4,,
+2014,Annual,Air Pollution,Georgia,42,10.3,0.22,,
+2014,Annual,Air Pollution,Hawaii,19,8.7,-0.67,,
+2014,Annual,Air Pollution,Idaho,44,10.4,0.28,,
+2014,Annual,Air Pollution,Illinois,47,11.4,0.84,,
+2014,Annual,Air Pollution,Indiana,48,11.7,1.01,,
+2014,Annual,Air Pollution,Iowa,32,9.6,-0.17,,
+2014,Annual,Air Pollution,Kansas,22,8.8,-0.61,,
+2014,Annual,Air Pollution,Kentucky,44,10.4,0.28,,
+2014,Annual,Air Pollution,Louisiana,26,9.2,-0.39,,
+2014,Annual,Air Pollution,Maine,12,7.6,-1.29,,
+2014,Annual,Air Pollution,Maryland,36,10,0.06,,
+2014,Annual,Air Pollution,Massachusetts,13,7.7,-1.23,,
+2014,Annual,Air Pollution,Michigan,22,8.8,-0.61,,
+2014,Annual,Air Pollution,Minnesota,14,8,-1.06,,
+2014,Annual,Air Pollution,Mississippi,27,9.3,-0.34,,
+2014,Annual,Air Pollution,Missouri,36,10,0.06,,
+2014,Annual,Air Pollution,Montana,4,6.3,-2,,
+2014,Annual,Air Pollution,Nebraska,14,8,-1.06,,
+2014,Annual,Air Pollution,Nevada,27,9.3,-0.34,,
+2014,Annual,Air Pollution,New Hampshire,11,7.5,-1.34,,
+2014,Annual,Air Pollution,New Jersey,24,9,-0.5,,
+2014,Annual,Air Pollution,New Mexico,9,7.1,-1.56,,
+2014,Annual,Air Pollution,New York,18,8.5,-0.78,,
+2014,Annual,Air Pollution,North Carolina,24,9,-0.5,,
+2014,Annual,Air Pollution,North Dakota,3,5.4,-2,,
+2014,Annual,Air Pollution,Ohio,46,10.9,0.56,,
+2014,Annual,Air Pollution,Oklahoma,33,9.7,-0.11,,
+2014,Annual,Air Pollution,Oregon,8,6.9,-1.68,,
+2014,Annual,Air Pollution,Pennsylvania,48,11.7,1.01,,
+2014,Annual,Air Pollution,Rhode Island,17,8.4,-0.84,,
+2014,Annual,Air Pollution,South Carolina,30,9.5,-0.22,,
+2014,Annual,Air Pollution,South Dakota,4,6.3,-2,,
+2014,Annual,Air Pollution,Tennessee,30,9.5,-0.22,,
+2014,Annual,Air Pollution,Texas,40,10.2,0.17,,
+2014,Annual,Air Pollution,Utah,39,10.1,0.11,,
+2014,Annual,Air Pollution,Vermont,6,6.4,-1.96,,
+2014,Annual,Air Pollution,Virginia,19,8.7,-0.67,,
+2014,Annual,Air Pollution,Washington,16,8.1,-1.01,,
+2014,Annual,Air Pollution,West Virginia,34,9.8,-0.06,,
+2014,Annual,Air Pollution,Wisconsin,27,9.3,-0.34,,
+2014,Annual,Air Pollution,Wyoming,2,5,-2,,
+2014,Annual,Air Pollution,United States,,9.9,,,
+2014,Annual,Air Pollution,District of Columbia,,11.3,,,
+2014,Annual,All Determinants,Alaska,29,-0.058,,,
+2014,Annual,All Determinants,Alabama,41,-0.335,,,
+2014,Annual,All Determinants,United States,,,,,
+2014,Annual,All Determinants,Arkansas,49,-0.655,,,
+2014,Annual,All Determinants,Arizona,28,-0.008,,,
+2014,Annual,All Determinants,California,17,0.294,,,
+2014,Annual,All Determinants,Colorado,11,0.35,,,
+2014,Annual,All Determinants,Connecticut,4,0.56,,,
+2014,Annual,All Determinants,District of Columbia,,,,,
+2014,Annual,All Determinants,Delaware,33,-0.126,,,
+2014,Annual,All Determinants,Florida,31,-0.098,,,
+2014,Annual,All Determinants,Georgia,40,-0.292,,,
+2014,Annual,All Determinants,Hawaii,3,0.567,,,
+2014,Annual,All Determinants,Iowa,25,0.074,,,
+2014,Annual,All Determinants,Idaho,20,0.229,,,
+2014,Annual,All Determinants,Illinois,30,-0.066,,,
+2014,Annual,All Determinants,Indiana,39,-0.257,,,
+2014,Annual,All Determinants,Kansas,27,0.003,,,
+2014,Annual,All Determinants,Kentucky,47,-0.487,,,
+2014,Annual,All Determinants,Louisiana,48,-0.53,,,
+2014,Annual,All Determinants,Massachusetts,2,0.597,,,
+2014,Annual,All Determinants,Maryland,16,0.305,,,
+2014,Annual,All Determinants,Maine,18,0.289,,,
+2014,Annual,All Determinants,Michigan,32,-0.1,,,
+2014,Annual,All Determinants,Minnesota,7,0.4,,,
+2014,Annual,All Determinants,Missouri,37,-0.241,,,
+2014,Annual,All Determinants,Mississippi,50,-0.661,,,
+2014,Annual,All Determinants,Montana,23,0.162,,,
+2014,Annual,All Determinants,North Carolina,36,-0.173,,,
+2014,Annual,All Determinants,North Dakota,13,0.333,,,
+2014,Annual,All Determinants,Nebraska,10,0.36,,,
+2014,Annual,All Determinants,New Hampshire,5,0.518,,,
+2014,Annual,All Determinants,New Jersey,12,0.337,,,
+2014,Annual,All Determinants,New Mexico,34,-0.164,,,
+2014,Annual,All Determinants,Nevada,42,-0.373,,,
+2014,Annual,All Determinants,New York,9,0.37,,,
+2014,Annual,All Determinants,Ohio,38,-0.249,,,
+2014,Annual,All Determinants,Oklahoma,45,-0.444,,,
+2014,Annual,All Determinants,Oregon,8,0.376,,,
+2014,Annual,All Determinants,Pennsylvania,26,0.054,,,
+2014,Annual,All Determinants,Rhode Island,15,0.307,,,
+2014,Annual,All Determinants,South Carolina,46,-0.448,,,
+2014,Annual,All Determinants,South Dakota,21,0.182,,,
+2014,Annual,All Determinants,Tennessee,44,-0.429,,,
+2014,Annual,All Determinants,Texas,35,-0.172,,,
+2014,Annual,All Determinants,Utah,6,0.468,,,
+2014,Annual,All Determinants,Virginia,19,0.241,,,
+2014,Annual,All Determinants,Vermont,1,0.709,,,
+2014,Annual,All Determinants,Washington,14,0.33,,,
+2014,Annual,All Determinants,Wisconsin,22,0.165,,,
+2014,Annual,All Determinants,West Virginia,43,-0.403,,,
+2014,Annual,All Determinants,Wyoming,24,0.118,,,
+2014,Annual,All Outcomes,Alaska,6,0.183,,,
+2014,Annual,All Outcomes,Alabama,49,-0.329,,,
+2014,Annual,All Outcomes,United States,,,,,
+2014,Annual,All Outcomes,Arkansas,45,-0.279,,,
+2014,Annual,All Outcomes,Arizona,32,-0.03,,,
+2014,Annual,All Outcomes,California,24,0.054,,,
+2014,Annual,All Outcomes,Colorado,4,0.223,,,
+2014,Annual,All Outcomes,Connecticut,7,0.178,,,
+2014,Annual,All Outcomes,District of Columbia,,,,,
+2014,Annual,All Outcomes,Delaware,37,-0.1,,,
+2014,Annual,All Outcomes,Florida,36,-0.051,,,
+2014,Annual,All Outcomes,Georgia,32,-0.03,,,
+2014,Annual,All Outcomes,Hawaii,1,0.344,,,
+2014,Annual,All Outcomes,Iowa,13,0.142,,,
+2014,Annual,All Outcomes,Idaho,16,0.108,,,
+2014,Annual,All Outcomes,Illinois,31,-0.012,,,
+2014,Annual,All Outcomes,Indiana,41,-0.124,,,
+2014,Annual,All Outcomes,Kansas,18,0.074,,,
+2014,Annual,All Outcomes,Kentucky,43,-0.265,,,
+2014,Annual,All Outcomes,Louisiana,44,-0.273,,,
+2014,Annual,All Outcomes,Massachusetts,11,0.144,,,
+2014,Annual,All Outcomes,Maryland,25,0.05,,,
+2014,Annual,All Outcomes,Maine,29,0.014,,,
+2014,Annual,All Outcomes,Michigan,38,-0.105,,,
+2014,Annual,All Outcomes,Minnesota,2,0.326,,,
+2014,Annual,All Outcomes,Missouri,34,-0.04,,,
+2014,Annual,All Outcomes,Mississippi,50,-0.339,,,
+2014,Annual,All Outcomes,Montana,15,0.117,,,
+2014,Annual,All Outcomes,North Carolina,40,-0.114,,,
+2014,Annual,All Outcomes,North Dakota,5,0.217,,,
+2014,Annual,All Outcomes,Nebraska,12,0.143,,,
+2014,Annual,All Outcomes,New Hampshire,8,0.16,,,
+2014,Annual,All Outcomes,New Jersey,14,0.136,,,
+2014,Annual,All Outcomes,New Mexico,30,-0.01,,,
+2014,Annual,All Outcomes,Nevada,26,0.039,,,
+2014,Annual,All Outcomes,New York,28,0.019,,,
+2014,Annual,All Outcomes,Ohio,39,-0.109,,,
+2014,Annual,All Outcomes,Oklahoma,47,-0.299,,,
+2014,Annual,All Outcomes,Oregon,27,0.032,,,
+2014,Annual,All Outcomes,Pennsylvania,35,-0.045,,,
+2014,Annual,All Outcomes,Rhode Island,22,0.06,,,
+2014,Annual,All Outcomes,South Carolina,42,-0.193,,,
+2014,Annual,All Outcomes,South Dakota,9,0.155,,,
+2014,Annual,All Outcomes,Tennessee,46,-0.285,,,
+2014,Annual,All Outcomes,Texas,21,0.063,,,
+2014,Annual,All Outcomes,Utah,3,0.261,,,
+2014,Annual,All Outcomes,Virginia,23,0.058,,,
+2014,Annual,All Outcomes,Vermont,10,0.145,,,
+2014,Annual,All Outcomes,Washington,19,0.069,,,
+2014,Annual,All Outcomes,Wisconsin,20,0.067,,,
+2014,Annual,All Outcomes,West Virginia,48,-0.31,,,
+2014,Annual,All Outcomes,Wyoming,17,0.091,,,
+2014,Annual,Binge Drinking,Alabama,2,11.2,-1.8,12.4,9.9
+2014,Annual,Binge Drinking,Alaska,43,19.5,0.87,21.3,17.8
+2014,Annual,Binge Drinking,Arizona,10,13.4,-1.09,15.4,11.4
+2014,Annual,Binge Drinking,Arkansas,6,12.5,-1.38,14,11.1
+2014,Annual,Binge Drinking,California,34,17.4,0.19,18.5,16.4
+2014,Annual,Binge Drinking,Colorado,39,18.5,0.55,19.4,17.5
+2014,Annual,Binge Drinking,Connecticut,37,18.2,0.45,19.6,16.8
+2014,Annual,Binge Drinking,Delaware,28,17,0.06,18.5,15.5
+2014,Annual,Binge Drinking,Florida,19,15.6,-0.39,16.6,14.6
+2014,Annual,Binge Drinking,Georgia,9,13.1,-1.19,14.2,12
+2014,Annual,Binge Drinking,Hawaii,38,18.3,0.48,19.6,17
+2014,Annual,Binge Drinking,Idaho,14,14.9,-0.61,16.4,13.4
+2014,Annual,Binge Drinking,Illinois,48,21.8,1.61,23.5,20.1
+2014,Annual,Binge Drinking,Indiana,16,15,-0.58,16,14
+2014,Annual,Binge Drinking,Iowa,47,21.7,1.57,23,20.3
+2014,Annual,Binge Drinking,Kansas,18,15.4,-0.45,16,14.7
+2014,Annual,Binge Drinking,Kentucky,10,13.4,-1.09,14.5,12.3
+2014,Annual,Binge Drinking,Louisiana,21,16.3,-0.16,18.2,14.5
+2014,Annual,Binge Drinking,Maine,31,17.2,0.13,18.4,16
+2014,Annual,Binge Drinking,Maryland,12,14.2,-0.84,15.2,13.2
+2014,Annual,Binge Drinking,Massachusetts,42,19.4,0.84,20.5,18.3
+2014,Annual,Binge Drinking,Michigan,40,18.9,0.67,19.9,17.9
+2014,Annual,Binge Drinking,Minnesota,46,21,1.35,22.2,19.8
+2014,Annual,Binge Drinking,Mississippi,5,12.4,-1.41,13.6,11.1
+2014,Annual,Binge Drinking,Missouri,31,17.2,0.13,18.7,15.7
+2014,Annual,Binge Drinking,Montana,45,20.8,1.29,22,19.6
+2014,Annual,Binge Drinking,Nebraska,44,20,1.03,21,18.9
+2014,Annual,Binge Drinking,Nevada,17,15.2,-0.51,17.1,13.2
+2014,Annual,Binge Drinking,New Hampshire,26,16.8,0,18.2,15.5
+2014,Annual,Binge Drinking,New Jersey,21,16.3,-0.16,17.3,15.3
+2014,Annual,Binge Drinking,New Mexico,13,14.5,-0.74,15.6,13.3
+2014,Annual,Binge Drinking,New York,34,17.4,0.19,18.5,16.2
+2014,Annual,Binge Drinking,North Carolina,8,13,-1.22,14.1,12
+2014,Annual,Binge Drinking,North Dakota,50,23.8,2,25.3,22.3
+2014,Annual,Binge Drinking,Ohio,29,17.1,0.1,18.2,16
+2014,Annual,Binge Drinking,Oklahoma,7,12.7,-1.32,13.7,11.6
+2014,Annual,Binge Drinking,Oregon,23,16.5,-0.1,17.8,15.2
+2014,Annual,Binge Drinking,Pennsylvania,31,17.2,0.13,18.1,16.2
+2014,Annual,Binge Drinking,Rhode Island,36,17.8,0.32,19.3,16.4
+2014,Annual,Binge Drinking,South Carolina,14,14.9,-0.61,16,13.9
+2014,Annual,Binge Drinking,South Dakota,41,19.2,0.77,20.8,17.6
+2014,Annual,Binge Drinking,Tennessee,1,9.6,-2,10.8,8.4
+2014,Annual,Binge Drinking,Texas,25,16.7,-0.03,17.8,15.5
+2014,Annual,Binge Drinking,Utah,4,12.3,-1.45,13.1,11.5
+2014,Annual,Binge Drinking,Vermont,29,17.1,0.1,18.5,15.8
+2014,Annual,Binge Drinking,Virginia,20,15.9,-0.29,17.1,14.8
+2014,Annual,Binge Drinking,Washington,26,16.8,0,17.8,15.8
+2014,Annual,Binge Drinking,West Virginia,2,11.2,-1.8,12.2,10.1
+2014,Annual,Binge Drinking,Wisconsin,49,22.5,1.83,24.2,20.8
+2014,Annual,Binge Drinking,Wyoming,24,16.6,-0.06,18.1,15.1
+2014,Annual,Binge Drinking,United States,,16.8,,16.8,16.3
+2014,Annual,Binge Drinking,District of Columbia,,22.4,,24.5,20.2
+2014,Annual,Cancer Deaths,Alabama,43,211.5,1.25,213.8,209.2
+2014,Annual,Cancer Deaths,Alaska,27,191.8,0.11,199.4,184.3
+2014,Annual,Cancer Deaths,Arizona,5,170.2,-1.14,172,168.3
+2014,Annual,Cancer Deaths,Arkansas,46,214.9,1.45,217.9,211.9
+2014,Annual,Cancer Deaths,California,6,171,-1.09,171.8,170.2
+2014,Annual,Cancer Deaths,Colorado,3,163,-1.56,165.1,160.8
+2014,Annual,Cancer Deaths,Connecticut,9,177,-0.75,179.4,174.6
+2014,Annual,Cancer Deaths,Delaware,37,201.9,0.69,207.1,196.7
+2014,Annual,Cancer Deaths,Florida,15,182.7,-0.42,183.7,181.7
+2014,Annual,Cancer Deaths,Georgia,29,192.3,0.14,194,190.5
+2014,Annual,Cancer Deaths,Hawaii,2,155.3,-2,158.9,151.6
+2014,Annual,Cancer Deaths,Idaho,8,174.6,-0.89,178.5,170.8
+2014,Annual,Cancer Deaths,Illinois,34,197.9,0.46,199.3,196.4
+2014,Annual,Cancer Deaths,Indiana,42,208.2,1.06,210.3,206.2
+2014,Annual,Cancer Deaths,Iowa,27,191.8,0.11,194.5,189.1
+2014,Annual,Cancer Deaths,Kansas,25,190.9,0.06,193.9,188
+2014,Annual,Cancer Deaths,Kentucky,50,228.3,2,230.8,225.7
+2014,Annual,Cancer Deaths,Louisiana,47,217.4,1.59,219.9,214.8
+2014,Annual,Cancer Deaths,Maine,40,205.4,0.9,209.5,201.4
+2014,Annual,Cancer Deaths,Maryland,20,187.7,-0.13,189.8,185.6
+2014,Annual,Cancer Deaths,Massachusetts,19,186.8,-0.18,188.6,184.9
+2014,Annual,Cancer Deaths,Michigan,35,199.7,0.57,201.3,198.1
+2014,Annual,Cancer Deaths,Minnesota,13,180.9,-0.52,182.9,178.8
+2014,Annual,Cancer Deaths,Mississippi,49,223.7,1.96,226.9,220.6
+2014,Annual,Cancer Deaths,Missouri,39,204.8,0.86,206.8,202.8
+2014,Annual,Cancer Deaths,Montana,11,179.8,-0.58,184.4,175.3
+2014,Annual,Cancer Deaths,Nebraska,16,184.7,-0.3,188.3,181.2
+2014,Annual,Cancer Deaths,Nevada,22,188,-0.11,191.2,184.8
+2014,Annual,Cancer Deaths,New Hampshire,26,191.6,0.1,195.8,187.4
+2014,Annual,Cancer Deaths,New Jersey,18,185.5,-0.25,187.1,183.9
+2014,Annual,Cancer Deaths,New Mexico,4,167.1,-1.32,170.3,163.9
+2014,Annual,Cancer Deaths,New York,10,179.7,-0.59,180.8,178.6
+2014,Annual,Cancer Deaths,North Carolina,33,196.2,0.36,197.8,194.6
+2014,Annual,Cancer Deaths,North Dakota,7,173.7,-0.94,179.2,168.3
+2014,Annual,Cancer Deaths,Ohio,41,207.7,1.03,209.1,206.2
+2014,Annual,Cancer Deaths,Oklahoma,45,214.1,1.4,216.8,211.4
+2014,Annual,Cancer Deaths,Oregon,30,192.4,0.14,194.9,190
+2014,Annual,Cancer Deaths,Pennsylvania,36,200.3,0.6,201.6,198.9
+2014,Annual,Cancer Deaths,Rhode Island,24,189.9,0,194.5,185.4
+2014,Annual,Cancer Deaths,South Carolina,38,203.5,0.79,205.8,201.1
+2014,Annual,Cancer Deaths,South Dakota,21,187.9,-0.12,193,182.7
+2014,Annual,Cancer Deaths,Tennessee,44,213.5,1.37,215.6,211.5
+2014,Annual,Cancer Deaths,Texas,14,182.5,-0.43,183.6,181.5
+2014,Annual,Cancer Deaths,Utah,1,145.7,-2,148.7,142.6
+2014,Annual,Cancer Deaths,Vermont,32,195.6,0.33,201.5,189.6
+2014,Annual,Cancer Deaths,Virginia,23,189.5,-0.02,191.3,187.8
+2014,Annual,Cancer Deaths,Washington,16,184.7,-0.3,186.6,182.8
+2014,Annual,Cancer Deaths,West Virginia,48,220.5,1.77,224.1,216.9
+2014,Annual,Cancer Deaths,Wisconsin,31,193.2,0.19,195.2,191.1
+2014,Annual,Cancer Deaths,Wyoming,12,180.2,-0.56,186.7,173.7
+2014,Annual,Cancer Deaths,District of Columbia,,201.4,,208.3,194.5
+2014,Annual,Cancer Deaths,United States,,189.9,,190.2,189.6
+2014,Annual,Cardiovascular Deaths,Alabama,49,329.2,2,332.1,326.2
+2014,Annual,Cardiovascular Deaths,Alaska,14,219.2,-0.86,227.8,210.5
+2014,Annual,Cardiovascular Deaths,Arizona,10,216.1,-0.94,218.2,214.1
+2014,Annual,Cardiovascular Deaths,Arkansas,47,313.7,1.66,317.3,310
+2014,Annual,Cardiovascular Deaths,California,23,234.4,-0.45,235.3,233.4
+2014,Annual,Cardiovascular Deaths,Colorado,2,197.1,-1.45,199.5,194.7
+2014,Annual,Cardiovascular Deaths,Connecticut,11,216.5,-0.93,219,213.9
+2014,Annual,Cardiovascular Deaths,Delaware,29,246.9,-0.12,252.7,241.1
+2014,Annual,Cardiovascular Deaths,Florida,15,223,-0.76,224.1,222
+2014,Annual,Cardiovascular Deaths,Georgia,38,273,0.58,275.1,270.8
+2014,Annual,Cardiovascular Deaths,Hawaii,3,199.1,-1.4,203.1,195.1
+2014,Annual,Cardiovascular Deaths,Idaho,20,230.7,-0.55,235.2,226.2
+2014,Annual,Cardiovascular Deaths,Illinois,32,253.9,0.07,255.5,252.3
+2014,Annual,Cardiovascular Deaths,Indiana,39,274.4,0.61,276.7,272
+2014,Annual,Cardiovascular Deaths,Iowa,26,245.4,-0.16,248.3,242.4
+2014,Annual,Cardiovascular Deaths,Kansas,27,245.6,-0.15,248.8,242.4
+2014,Annual,Cardiovascular Deaths,Kentucky,43,297.3,1.23,300.3,294.3
+2014,Annual,Cardiovascular Deaths,Louisiana,46,307.5,1.5,310.6,304.4
+2014,Annual,Cardiovascular Deaths,Maine,9,215.4,-0.96,219.5,211.3
+2014,Annual,Cardiovascular Deaths,Maryland,30,250.7,-0.02,253.1,248.3
+2014,Annual,Cardiovascular Deaths,Massachusetts,4,206.9,-1.19,208.8,205
+2014,Annual,Cardiovascular Deaths,Michigan,42,282.4,0.83,284.2,280.5
+2014,Annual,Cardiovascular Deaths,Minnesota,1,184.7,-1.78,186.8,182.6
+2014,Annual,Cardiovascular Deaths,Mississippi,50,346,2,350,342
+2014,Annual,Cardiovascular Deaths,Missouri,41,281.1,0.79,283.5,278.8
+2014,Annual,Cardiovascular Deaths,Montana,16,224.8,-0.71,229.9,219.8
+2014,Annual,Cardiovascular Deaths,Nebraska,17,224.9,-0.71,228.7,221.1
+2014,Annual,Cardiovascular Deaths,Nevada,36,271.9,0.55,275.9,267.9
+2014,Annual,Cardiovascular Deaths,New Hampshire,7,213.8,-1,218.2,209.4
+2014,Annual,Cardiovascular Deaths,New Jersey,28,246.8,-0.12,248.6,245
+2014,Annual,Cardiovascular Deaths,New Mexico,12,217,-0.92,220.8,213.3
+2014,Annual,Cardiovascular Deaths,New York,35,260.8,0.25,262.1,259.6
+2014,Annual,Cardiovascular Deaths,North Carolina,31,252.2,0.02,254,250.3
+2014,Annual,Cardiovascular Deaths,North Dakota,18,226.8,-0.66,232.8,220.7
+2014,Annual,Cardiovascular Deaths,Ohio,40,274.6,0.62,276.3,272.9
+2014,Annual,Cardiovascular Deaths,Oklahoma,48,322,1.89,325.3,318.7
+2014,Annual,Cardiovascular Deaths,Oregon,5,210.5,-1.09,213.1,208
+2014,Annual,Cardiovascular Deaths,Pennsylvania,34,259.7,0.22,261.2,258.3
+2014,Annual,Cardiovascular Deaths,Rhode Island,19,229.1,-0.6,233.9,224.3
+2014,Annual,Cardiovascular Deaths,South Carolina,37,272.2,0.56,275,269.4
+2014,Annual,Cardiovascular Deaths,South Dakota,21,233.1,-0.49,238.7,227.5
+2014,Annual,Cardiovascular Deaths,Tennessee,44,300.6,1.31,303.1,298.1
+2014,Annual,Cardiovascular Deaths,Texas,33,255.3,0.1,256.6,254
+2014,Annual,Cardiovascular Deaths,Utah,6,212.2,-1.05,216,208.4
+2014,Annual,Cardiovascular Deaths,Vermont,13,218.4,-0.88,224.7,212.1
+2014,Annual,Cardiovascular Deaths,Virginia,25,241.1,-0.28,243.1,239
+2014,Annual,Cardiovascular Deaths,Washington,8,214.8,-0.98,216.8,212.7
+2014,Annual,Cardiovascular Deaths,West Virginia,45,303.7,1.4,308,299.5
+2014,Annual,Cardiovascular Deaths,Wisconsin,24,236.8,-0.39,239,234.6
+2014,Annual,Cardiovascular Deaths,Wyoming,22,233.6,-0.48,241.1,226
+2014,Annual,Cardiovascular Deaths,District of Columbia,,288.2,,296.5,280
+2014,Annual,Cardiovascular Deaths,United States,,251.4,,251.7,251.1
+2014,Annual,Children in Poverty,Alabama,43,26.4,0.327,32.5,20.3
+2014,Annual,Children in Poverty,Alaska,17,15.9,-0.201,22.4,9.4
+2014,Annual,Children in Poverty,Arizona,47,27.2,0.367,31.1,23.3
+2014,Annual,Children in Poverty,Arkansas,40,23.8,0.196,32,15.6
+2014,Annual,Children in Poverty,California,33,20.3,0.02,22.3,18.3
+2014,Annual,Children in Poverty,Colorado,6,14,-0.296,18.7,9.3
+2014,Annual,Children in Poverty,Connecticut,14,15.3,-0.231,19.2,11.4
+2014,Annual,Children in Poverty,Delaware,36,22.7,0.141,29.2,16.2
+2014,Annual,Children in Poverty,Florida,29,19.3,-0.03,22.6,16
+2014,Annual,Children in Poverty,Georgia,37,23.2,0.166,28.5,17.9
+2014,Annual,Children in Poverty,Hawaii,3,12.7,-0.362,17,8.4
+2014,Annual,Children in Poverty,Idaho,20,16,-0.196,21.7,10.3
+2014,Annual,Children in Poverty,Illinois,25,17.7,-0.111,21.2,14.2
+2014,Annual,Children in Poverty,Indiana,13,14.7,-0.261,20,9.4
+2014,Annual,Children in Poverty,Iowa,10,14.3,-0.281,17.4,11.2
+2014,Annual,Children in Poverty,Kansas,27,18.1,-0.09,23,13.2
+2014,Annual,Children in Poverty,Kentucky,50,31.8,2,38.3,25.3
+2014,Annual,Children in Poverty,Louisiana,44,26.5,0.332,33.2,19.8
+2014,Annual,Children in Poverty,Maine,35,20.9,0.05,27.4,14.4
+2014,Annual,Children in Poverty,Maryland,14,15.3,-0.231,19,11.6
+2014,Annual,Children in Poverty,Massachusetts,14,15.3,-0.231,20.8,9.8
+2014,Annual,Children in Poverty,Michigan,31,19.8,-0.005,24.1,15.5
+2014,Annual,Children in Poverty,Minnesota,6,14,-0.296,17.9,10.1
+2014,Annual,Children in Poverty,Mississippi,49,30.5,0.533,37.6,23.4
+2014,Annual,Children in Poverty,Missouri,31,19.8,-0.005,24.7,14.9
+2014,Annual,Children in Poverty,Montana,33,20.3,0.02,29.9,10.7
+2014,Annual,Children in Poverty,Nebraska,10,14.3,-0.281,19.2,9.4
+2014,Annual,Children in Poverty,Nevada,42,25.3,0.271,32,18.6
+2014,Annual,Children in Poverty,New Hampshire,5,13.5,-0.322,17.8,9.2
+2014,Annual,Children in Poverty,New Jersey,21,16.5,-0.171,21.2,11.8
+2014,Annual,Children in Poverty,New Mexico,48,28.7,0.442,37.9,19.5
+2014,Annual,Children in Poverty,New York,30,19.5,-0.02,22.6,16.4
+2014,Annual,Children in Poverty,North Carolina,46,26.8,0.347,33.5,20.1
+2014,Annual,Children in Poverty,North Dakota,8,14.1,-0.291,22.1,6.1
+2014,Annual,Children in Poverty,Ohio,22,16.9,-0.151,21.2,12.6
+2014,Annual,Children in Poverty,Oklahoma,26,17.8,-0.106,25.2,10.4
+2014,Annual,Children in Poverty,Oregon,24,17,-0.146,23.7,10.3
+2014,Annual,Children in Poverty,Pennsylvania,22,16.9,-0.151,21,12.8
+2014,Annual,Children in Poverty,Rhode Island,37,23.2,0.166,29.3,17.1
+2014,Annual,Children in Poverty,South Carolina,28,18.5,-0.07,24.2,12.8
+2014,Annual,Children in Poverty,South Dakota,4,13,-0.347,19.3,6.7
+2014,Annual,Children in Poverty,Tennessee,45,26.7,0.342,33,20.4
+2014,Annual,Children in Poverty,Texas,41,24.2,0.216,27.3,21.1
+2014,Annual,Children in Poverty,Utah,1,9.2,-2,12.5,5.9
+2014,Annual,Children in Poverty,Vermont,2,12.1,-0.392,17.2,7
+2014,Annual,Children in Poverty,Virginia,12,14.5,-0.271,18.6,10.4
+2014,Annual,Children in Poverty,Washington,17,15.9,-0.201,21,10.8
+2014,Annual,Children in Poverty,West Virginia,39,23.3,0.171,30.4,16.2
+2014,Annual,Children in Poverty,Wisconsin,17,15.9,-0.201,20.4,11.4
+2014,Annual,Children in Poverty,Wyoming,8,14.1,-0.291,18.2,10
+2014,Annual,Children in Poverty,United States,,19.9,,20.7,19.1
+2014,Annual,Children in Poverty,District of Columbia,,37.2,,46,28.4
+2014,Annual,Chlamydia,Alabama,48,637.6,1.58,,
+2014,Annual,Chlamydia,Alaska,49,755.8,2,,
+2014,Annual,Chlamydia,Arizona,34,469.6,0.11,,
+2014,Annual,Chlamydia,Arkansas,44,565.4,0.95,,
+2014,Annual,Chlamydia,California,28,444.9,-0.1,,
+2014,Annual,Chlamydia,Colorado,23,422.7,-0.3,,
+2014,Annual,Chlamydia,Connecticut,12,364.9,-0.8,,
+2014,Annual,Chlamydia,Delaware,37,489.2,0.28,,
+2014,Annual,Chlamydia,Florida,19,407.4,-0.43,,
+2014,Annual,Chlamydia,Georgia,43,534,0.67,,
+2014,Annual,Chlamydia,Hawaii,32,461.2,0.04,,
+2014,Annual,Chlamydia,Idaho,6,287.1,-1.48,,
+2014,Annual,Chlamydia,Illinois,42,526.1,0.61,,
+2014,Annual,Chlamydia,Indiana,29,452.7,-0.03,,
+2014,Annual,Chlamydia,Iowa,15,371.5,-0.74,,
+2014,Annual,Chlamydia,Kansas,17,387.8,-0.6,,
+2014,Annual,Chlamydia,Kentucky,18,395.3,-0.54,,
+2014,Annual,Chlamydia,Louisiana,47,597.9,1.23,,
+2014,Annual,Chlamydia,Maine,2,257,-1.74,,
+2014,Annual,Chlamydia,Maryland,30,455.3,-0.01,,
+2014,Annual,Chlamydia,Massachusetts,10,357.5,-0.87,,
+2014,Annual,Chlamydia,Michigan,36,481.6,0.22,,
+2014,Annual,Chlamydia,Minnesota,8,337.8,-1.04,,
+2014,Annual,Chlamydia,Mississippi,50,774,2,,
+2014,Annual,Chlamydia,Missouri,33,463.1,0.06,,
+2014,Annual,Chlamydia,Montana,16,383.4,-0.64,,
+2014,Annual,Chlamydia,Nebraska,13,366.2,-0.79,,
+2014,Annual,Chlamydia,Nevada,20,408.9,-0.42,,
+2014,Annual,Chlamydia,New Hampshire,1,233,-1.95,,
+2014,Annual,Chlamydia,New Jersey,7,309.2,-1.29,,
+2014,Annual,Chlamydia,New Mexico,45,571.4,1,,
+2014,Annual,Chlamydia,New York,40,516.5,0.52,,
+2014,Annual,Chlamydia,North Carolina,41,524,0.59,,
+2014,Annual,Chlamydia,North Dakota,24,425.2,-0.27,,
+2014,Annual,Chlamydia,Ohio,31,460.3,0.03,,
+2014,Annual,Chlamydia,Oklahoma,27,444.2,-0.11,,
+2014,Annual,Chlamydia,Oregon,9,347.5,-0.95,,
+2014,Annual,Chlamydia,Pennsylvania,25,431.6,-0.22,,
+2014,Annual,Chlamydia,Rhode Island,21,410.3,-0.4,,
+2014,Annual,Chlamydia,South Carolina,46,580.2,1.08,,
+2014,Annual,Chlamydia,South Dakota,35,476.2,0.17,,
+2014,Annual,Chlamydia,Tennessee,39,507.9,0.45,,
+2014,Annual,Chlamydia,Texas,38,494.8,0.33,,
+2014,Annual,Chlamydia,Utah,4,270.3,-1.63,,
+2014,Annual,Chlamydia,Vermont,5,275.2,-1.58,,
+2014,Annual,Chlamydia,Virginia,26,431.8,-0.22,,
+2014,Annual,Chlamydia,Washington,11,360.1,-0.84,,
+2014,Annual,Chlamydia,West Virginia,3,258.2,-1.73,,
+2014,Annual,Chlamydia,Wisconsin,22,415.4,-0.36,,
+2014,Annual,Chlamydia,Wyoming,14,370,-0.76,,
+2014,Annual,Chlamydia,United States,,456.7,,,
+2014,Annual,Chlamydia,District of Columbia,,1101.6,,,
+2014,Annual,Cholesterol Check,Alabama,19,77.6,0.32,79.4,75.8
+2014,Annual,Cholesterol Check,Alaska,48,70.1,-1.7,72.1,68.1
+2014,Annual,Cholesterol Check,Arizona,45,72.6,-1.03,75.3,70
+2014,Annual,Cholesterol Check,Arkansas,46,72.3,-1.11,74.3,70.3
+2014,Annual,Cholesterol Check,California,29,75.2,-0.32,76.3,74.1
+2014,Annual,Cholesterol Check,Colorado,25,76.4,0,77.4,75.3
+2014,Annual,Cholesterol Check,Connecticut,2,83.1,1.81,84.5,81.6
+2014,Annual,Cholesterol Check,Delaware,9,81,1.24,82.7,79.3
+2014,Annual,Cholesterol Check,Florida,12,79.5,0.84,80.6,78.4
+2014,Annual,Cholesterol Check,Georgia,21,77.5,0.3,78.9,76.1
+2014,Annual,Cholesterol Check,Hawaii,27,75.8,-0.16,77.3,74.4
+2014,Annual,Cholesterol Check,Idaho,49,69.3,-1.92,71.2,67.4
+2014,Annual,Cholesterol Check,Illinois,35,74,-0.65,75.8,72.2
+2014,Annual,Cholesterol Check,Indiana,31,74.5,-0.51,75.7,73.2
+2014,Annual,Cholesterol Check,Iowa,28,75.7,-0.19,77.1,74.3
+2014,Annual,Cholesterol Check,Kansas,43,73.3,-0.84,74.1,72.5
+2014,Annual,Cholesterol Check,Kentucky,22,77,0.16,78.4,75.6
+2014,Annual,Cholesterol Check,Louisiana,26,76.2,-0.05,78.4,74
+2014,Annual,Cholesterol Check,Maine,5,81.4,1.35,82.7,80.2
+2014,Annual,Cholesterol Check,Maryland,7,81.2,1.3,82.4,80
+2014,Annual,Cholesterol Check,Massachusetts,1,84,2,85,82.9
+2014,Annual,Cholesterol Check,Michigan,13,79.4,0.81,80.5,78.3
+2014,Annual,Cholesterol Check,Minnesota,22,77,0.16,78.3,75.7
+2014,Annual,Cholesterol Check,Mississippi,34,74.3,-0.57,76,72.6
+2014,Annual,Cholesterol Check,Missouri,38,73.9,-0.67,75.6,72.2
+2014,Annual,Cholesterol Check,Montana,39,73.8,-0.7,75.1,72.5
+2014,Annual,Cholesterol Check,Nebraska,35,74,-0.65,75.2,72.8
+2014,Annual,Cholesterol Check,Nevada,35,74,-0.65,76.5,71.5
+2014,Annual,Cholesterol Check,New Hampshire,4,81.7,1.43,83.2,80.3
+2014,Annual,Cholesterol Check,New Jersey,9,81,1.24,82.1,79.9
+2014,Annual,Cholesterol Check,New Mexico,47,71,-1.46,72.4,69.5
+2014,Annual,Cholesterol Check,New York,6,81.3,1.32,82.5,80.1
+2014,Annual,Cholesterol Check,North Carolina,14,79.2,0.76,80.5,77.9
+2014,Annual,Cholesterol Check,North Dakota,42,73.5,-0.78,75.1,72
+2014,Annual,Cholesterol Check,Ohio,18,78.2,0.49,79.4,77
+2014,Annual,Cholesterol Check,Oklahoma,41,73.6,-0.76,75,72.2
+2014,Annual,Cholesterol Check,Oregon,33,74.4,-0.54,76,72.7
+2014,Annual,Cholesterol Check,Pennsylvania,19,77.6,0.32,78.8,76.5
+2014,Annual,Cholesterol Check,Rhode Island,3,81.9,1.48,83.5,80.3
+2014,Annual,Cholesterol Check,South Carolina,17,78.5,0.57,79.8,77.3
+2014,Annual,Cholesterol Check,South Dakota,44,72.8,-0.97,74.7,70.9
+2014,Annual,Cholesterol Check,Tennessee,8,81.1,1.27,82.7,79.4
+2014,Annual,Cholesterol Check,Texas,30,74.8,-0.43,76.2,73.4
+2014,Annual,Cholesterol Check,Utah,50,68.3,-2,69.5,67.2
+2014,Annual,Cholesterol Check,Vermont,15,78.8,0.65,80.3,77.2
+2014,Annual,Cholesterol Check,Virginia,11,80.1,1,81.5,78.8
+2014,Annual,Cholesterol Check,Washington,31,74.5,-0.51,75.7,73.3
+2014,Annual,Cholesterol Check,West Virginia,16,78.7,0.62,80.1,77.2
+2014,Annual,Cholesterol Check,Wisconsin,24,76.6,0.05,78.3,74.9
+2014,Annual,Cholesterol Check,Wyoming,39,73.8,-0.7,75.7,72
+2014,Annual,Cholesterol Check,United States,0,76.4,0,77.4,76.9
+2014,Annual,Cholesterol Check,District of Columbia,0,80.9,0,83.1,78.7
+2014,Annual,Colorectal Cancer Screening,Alabama,23,67.7,0.089,67.8,67.5
+2014,Annual,Colorectal Cancer Screening,Alaska,49,58.4,-1.633,58.6,58.1
+2014,Annual,Colorectal Cancer Screening,Arizona,40,60.5,-1.243,60.7,60.3
+2014,Annual,Colorectal Cancer Screening,Arkansas,48,58.4,-1.626,58.6,58.2
+2014,Annual,Colorectal Cancer Screening,California,18,68.7,0.276,68.8,68.5
+2014,Annual,Colorectal Cancer Screening,Colorado,24,67.2,-0.006,67.3,67
+2014,Annual,Colorectal Cancer Screening,Connecticut,5,74,1.263,74.2,73.9
+2014,Annual,Colorectal Cancer Screening,Delaware,7,73.6,1.176,73.8,73.3
+2014,Annual,Colorectal Cancer Screening,Florida,22,67.8,0.106,67.9,67.6
+2014,Annual,Colorectal Cancer Screening,Georgia,17,69.3,0.396,69.5,69.1
+2014,Annual,Colorectal Cancer Screening,Hawaii,26,66.7,-0.091,66.9,66.5
+2014,Annual,Colorectal Cancer Screening,Idaho,37,62.6,-0.848,62.8,62.4
+2014,Annual,Colorectal Cancer Screening,Illinois,36,63,-0.772,63.2,62.8
+2014,Annual,Colorectal Cancer Screening,Indiana,38,62.3,-0.917,62.4,62.1
+2014,Annual,Colorectal Cancer Screening,Iowa,20,68.4,0.222,68.6,68.2
+2014,Annual,Colorectal Cancer Screening,Kansas,27,66.7,-0.096,66.8,66.5
+2014,Annual,Colorectal Cancer Screening,Kentucky,31,64.9,-0.424,65.1,64.8
+2014,Annual,Colorectal Cancer Screening,Louisiana,39,61.5,-1.05,61.7,61.4
+2014,Annual,Colorectal Cancer Screening,Maine,3,75.5,1.539,75.7,75.4
+2014,Annual,Colorectal Cancer Screening,Maryland,10,72.3,0.95,72.5,72.2
+2014,Annual,Colorectal Cancer Screening,Massachusetts,1,78,1.994,78.1,77.9
+2014,Annual,Colorectal Cancer Screening,Michigan,11,71.6,0.811,71.7,71.4
+2014,Annual,Colorectal Cancer Screening,Minnesota,9,72.5,0.987,72.7,72.4
+2014,Annual,Colorectal Cancer Screening,Mississippi,45,59.8,-1.376,59.9,59.6
+2014,Annual,Colorectal Cancer Screening,Missouri,29,66.1,-0.198,66.3,65.9
+2014,Annual,Colorectal Cancer Screening,Montana,47,59.4,-1.448,59.5,59.2
+2014,Annual,Colorectal Cancer Screening,Nebraska,35,63.2,-0.739,63.3,63.1
+2014,Annual,Colorectal Cancer Screening,Nevada,43,60.2,-1.306,60.4,59.9
+2014,Annual,Colorectal Cancer Screening,New Hampshire,2,77.4,1.894,77.6,77.3
+2014,Annual,Colorectal Cancer Screening,New Jersey,34,63.8,-0.635,63.9,63.6
+2014,Annual,Colorectal Cancer Screening,New Mexico,46,59.7,-1.393,59.8,59.5
+2014,Annual,Colorectal Cancer Screening,New York,12,71.4,0.783,71.6,71.2
+2014,Annual,Colorectal Cancer Screening,North Carolina,13,70.3,0.58,70.5,70.2
+2014,Annual,Colorectal Cancer Screening,North Dakota,44,59.9,-1.348,60.1,59.7
+2014,Annual,Colorectal Cancer Screening,Ohio,30,65.2,-0.378,65.3,65
+2014,Annual,Colorectal Cancer Screening,Oklahoma,41,60.4,-1.261,60.6,60.2
+2014,Annual,Colorectal Cancer Screening,Oregon,21,67.9,0.12,68.1,67.6
+2014,Annual,Colorectal Cancer Screening,Pennsylvania,19,68.7,0.269,68.8,68.5
+2014,Annual,Colorectal Cancer Screening,Rhode Island,4,74.4,1.331,74.6,74.2
+2014,Annual,Colorectal Cancer Screening,South Carolina,25,67.1,-0.017,67.2,67
+2014,Annual,Colorectal Cancer Screening,South Dakota,33,63.8,-0.631,64,63.6
+2014,Annual,Colorectal Cancer Screening,Tennessee,28,66.6,-0.115,66.8,66.4
+2014,Annual,Colorectal Cancer Screening,Texas,42,60.3,-1.285,60.4,60.1
+2014,Annual,Colorectal Cancer Screening,Utah,14,69.9,0.5,70.1,69.7
+2014,Annual,Colorectal Cancer Screening,Vermont,6,73.6,1.193,73.8,73.4
+2014,Annual,Colorectal Cancer Screening,Virginia,16,69.4,0.407,69.6,69.2
+2014,Annual,Colorectal Cancer Screening,Washington,15,69.8,0.48,69.9,69.7
+2014,Annual,Colorectal Cancer Screening,West Virginia,32,64.8,-0.45,65,64.6
+2014,Annual,Colorectal Cancer Screening,Wisconsin,8,73,1.07,73.2,72.8
+2014,Annual,Colorectal Cancer Screening,Wyoming,50,58,-1.7,58.2,57.8
+2014,Annual,Colorectal Cancer Screening,United States,,67.2,,,
+2014,Annual,Colorectal Cancer Screening,District of Columbia,0,68.8,,,
+2014,Annual,"Dental Visit, Annual",Alaska,23,67.4,1.003,69.4,65.5
+2014,Annual,"Dental Visit, Annual",Alabama,46,58.6,0.872,60.2,57.1
+2014,Annual,"Dental Visit, Annual",Arkansas,50,54.9,-2,56.8,53
+2014,Annual,"Dental Visit, Annual",Arizona,36,61.6,0.917,63.5,59.7
+2014,Annual,"Dental Visit, Annual",California,26,67,0.997,68.1,65.8
+2014,Annual,"Dental Visit, Annual",Colorado,29,65.3,0.972,66.4,64.1
+2014,Annual,"Dental Visit, Annual",Connecticut,2,76.1,1.132,77.4,74.8
+2014,Annual,"Dental Visit, Annual",District of Columbia,0,71.1,,73.6,68.7
+2014,Annual,"Dental Visit, Annual",Delaware,14,70,1.042,71.8,68.3
+2014,Annual,"Dental Visit, Annual",Florida,42,59.8,0.89,61.5,58
+2014,Annual,"Dental Visit, Annual",Georgia,33,64.1,0.954,65.8,62.4
+2014,Annual,"Dental Visit, Annual",Hawaii,12,70.4,1.048,72,68.8
+2014,Annual,"Dental Visit, Annual",Iowa,9,71.1,1.058,72.5,69.8
+2014,Annual,"Dental Visit, Annual",Idaho,18,67.6,1.006,69.7,65.4
+2014,Annual,"Dental Visit, Annual",Illinois,27,66.9,0.996,68.8,65.1
+2014,Annual,"Dental Visit, Annual",Indiana,34,62.6,0.932,64,61.3
+2014,Annual,"Dental Visit, Annual",Kansas,24,67.3,1.001,68.5,66.1
+2014,Annual,"Dental Visit, Annual",Kentucky,41,60.3,0.897,61.7,58.9
+2014,Annual,"Dental Visit, Annual",Louisiana,48,56.1,0.835,57.8,54.4
+2014,Annual,"Dental Visit, Annual",Massachusetts,1,76.2,1.134,77.1,75.3
+2014,Annual,"Dental Visit, Annual",Maryland,6,72.7,1.082,74.1,71.3
+2014,Annual,"Dental Visit, Annual",Maine,29,65.3,0.972,66.5,64.1
+2014,Annual,"Dental Visit, Annual",Michigan,17,68,1.012,69.3,66.8
+2014,Annual,"Dental Visit, Annual",Minnesota,3,74.8,1.113,75.9,73.7
+2014,Annual,"Dental Visit, Annual",Missouri,35,61.8,0.92,63.5,60.1
+2014,Annual,"Dental Visit, Annual",Mississippi,49,55.4,-2,57.1,53.8
+2014,Annual,"Dental Visit, Annual",Montana,38,61,0.908,62.3,59.6
+2014,Annual,"Dental Visit, Annual",North Carolina,32,64.9,0.966,66,63.8
+2014,Annual,"Dental Visit, Annual",North Dakota,25,67.2,1,69,65.3
+2014,Annual,"Dental Visit, Annual",Nebraska,18,67.6,1.006,68.6,66.6
+2014,Annual,"Dental Visit, Annual",New Hampshire,5,73.1,1.088,74.6,71.5
+2014,Annual,"Dental Visit, Annual",New Jersey,8,71.2,1.06,72.3,70.1
+2014,Annual,"Dental Visit, Annual",New Mexico,39,60.9,0.906,62.3,59.6
+2014,Annual,"Dental Visit, Annual",Nevada,40,60.8,0.905,62.9,58.8
+2014,Annual,"Dental Visit, Annual",New York,22,67.5,1.004,69.3,65.8
+2014,Annual,"Dental Visit, Annual",Ohio,18,67.6,1.006,68.7,66.4
+2014,Annual,"Dental Visit, Annual",Oklahoma,44,58.9,0.876,60.3,57.5
+2014,Annual,"Dental Visit, Annual",Oregon,29,65.3,0.972,67,63.5
+2014,Annual,"Dental Visit, Annual",Pennsylvania,15,68.5,1.019,69.5,67.5
+2014,Annual,"Dental Visit, Annual",Rhode Island,4,73.6,1.095,75.3,71.9
+2014,Annual,"Dental Visit, Annual",South Carolina,43,59.6,0.887,60.9,58.3
+2014,Annual,"Dental Visit, Annual",South Dakota,10,70.9,1.055,72.5,69.3
+2014,Annual,"Dental Visit, Annual",Tennessee,37,61.4,0.914,63.1,59.8
+2014,Annual,"Dental Visit, Annual",Texas,45,58.8,0.875,60.2,57.3
+2014,Annual,"Dental Visit, Annual",Utah,16,68.4,1.018,69.5,67.2
+2014,Annual,"Dental Visit, Annual",Virginia,12,70.4,1.048,71.8,69
+2014,Annual,"Dental Visit, Annual",Vermont,11,70.8,1.054,72.3,69.3
+2014,Annual,"Dental Visit, Annual",Washington,18,67.6,1.006,68.6,66.5
+2014,Annual,"Dental Visit, Annual",Wisconsin,7,72,1.071,73.8,70.1
+2014,Annual,"Dental Visit, Annual",West Virginia,47,56.4,0.839,58,54.8
+2014,Annual,"Dental Visit, Annual",Wyoming,28,66,0.982,68,64
+2014,Annual,"Dental Visit, Annual",United States,,67.2,,,
+2014,Annual,Dentists,Alabama,48,43.8,-1.557,,
+2014,Annual,Dentists,Alaska,3,80.9,1.617,,
+2014,Annual,Dentists,Arizona,28,55,-0.599,,
+2014,Annual,Dentists,Arkansas,50,41.7,-1.736,,
+2014,Annual,Dentists,California,7,78,1.364,,
+2014,Annual,Dentists,Colorado,11,69.4,0.631,,
+2014,Annual,Dentists,Connecticut,6,79.1,1.456,,
+2014,Annual,Dentists,Delaware,43,47.7,-1.223,,
+2014,Annual,Dentists,Florida,29,54.7,-0.625,,
+2014,Annual,Dentists,Georgia,45,47.3,-1.262,,
+2014,Annual,Dentists,Hawaii,5,79.2,1.468,,
+2014,Annual,Dentists,Idaho,22,59.3,-0.233,,
+2014,Annual,Dentists,Illinois,12,67.5,0.471,,
+2014,Annual,Dentists,Indiana,42,48.6,-1.145,,
+2014,Annual,Dentists,Iowa,27,55.7,-0.538,,
+2014,Annual,Dentists,Kansas,33,52,-0.855,,
+2014,Annual,Dentists,Kentucky,25,56.4,-0.483,,
+2014,Annual,Dentists,Louisiana,39,49.6,-1.067,,
+2014,Annual,Dentists,Maine,35,51.1,-0.933,,
+2014,Annual,Dentists,Maryland,8,74.7,1.082,,
+2014,Annual,Dentists,Massachusetts,1,85.6,2,,
+2014,Annual,Dentists,Michigan,18,62.3,0.022,,
+2014,Annual,Dentists,Minnesota,17,62.4,0.031,,
+2014,Annual,Dentists,Mississippi,49,41.9,-1.724,,
+2014,Annual,Dentists,Missouri,38,49.9,-1.035,,
+2014,Annual,Dentists,Montana,20,61.6,-0.036,,
+2014,Annual,Dentists,Nebraska,16,63.4,0.116,,
+2014,Annual,Dentists,Nevada,32,53.6,-0.72,,
+2014,Annual,Dentists,New Hampshire,14,64.9,0.242,,
+2014,Annual,Dentists,New Jersey,2,83,1.789,,
+2014,Annual,Dentists,New Mexico,41,48.9,-1.12,,
+2014,Annual,Dentists,New York,4,79.5,1.496,,
+2014,Annual,Dentists,North Carolina,47,46.7,-1.312,,
+2014,Annual,Dentists,North Dakota,26,56.1,-0.504,,
+2014,Annual,Dentists,Ohio,30,54,-0.684,,
+2014,Annual,Dentists,Oklahoma,37,50.2,-1.013,,
+2014,Annual,Dentists,Oregon,10,70.6,0.733,,
+2014,Annual,Dentists,Pennsylvania,15,63.6,0.132,,
+2014,Annual,Dentists,Rhode Island,23,59.1,-0.254,,
+2014,Annual,Dentists,South Carolina,44,47.6,-1.231,,
+2014,Annual,Dentists,South Dakota,31,53.6,-0.718,,
+2014,Annual,Dentists,Tennessee,36,50.9,-0.949,,
+2014,Annual,Dentists,Texas,40,48.9,-1.12,,
+2014,Annual,Dentists,Utah,13,67.3,0.447,,
+2014,Annual,Dentists,Vermont,21,60,-0.172,,
+2014,Annual,Dentists,Virginia,19,61.6,-0.036,,
+2014,Annual,Dentists,Washington,9,72.3,0.88,,
+2014,Annual,Dentists,West Virginia,46,47.3,-1.263,,
+2014,Annual,Dentists,Wisconsin,24,58.3,-0.318,,
+2014,Annual,Dentists,Wyoming,34,51.7,-0.88,,
+2014,Annual,Dentists,United States,,62,,,
+2014,Annual,Dentists,District of Columbia,0,107.6,,,
+2014,Annual,Diabetes,Alabama,50,13.8,2,14.9,12.8
+2014,Annual,Diabetes,Alaska,2,7.1,-1.56,8.1,6
+2014,Annual,Diabetes,Arizona,35,10.7,0.68,12.2,9.1
+2014,Annual,Diabetes,Arkansas,44,11.5,1.18,12.6,10.4
+2014,Annual,Diabetes,California,30,10.2,0.37,11,9.4
+2014,Annual,Diabetes,Colorado,1,6.5,-1.93,7,6
+2014,Annual,Diabetes,Connecticut,8,8.3,-0.81,9.1,7.6
+2014,Annual,Diabetes,Delaware,41,11.1,0.93,12.1,10
+2014,Annual,Diabetes,Florida,42,11.2,1,11.9,10.5
+2014,Annual,Diabetes,Georgia,37,10.8,0.75,11.6,10
+2014,Annual,Diabetes,Hawaii,9,8.4,-0.75,9.3,7.5
+2014,Annual,Diabetes,Idaho,9,8.4,-0.75,9.3,7.4
+2014,Annual,Diabetes,Illinois,28,9.9,0.19,10.9,8.8
+2014,Annual,Diabetes,Indiana,39,11,0.87,11.7,10.3
+2014,Annual,Diabetes,Iowa,20,9.3,-0.19,10.1,8.6
+2014,Annual,Diabetes,Kansas,22,9.6,0,10,9.1
+2014,Annual,Diabetes,Kentucky,33,10.6,0.62,11.4,9.9
+2014,Annual,Diabetes,Louisiana,45,11.6,1.25,12.8,10.5
+2014,Annual,Diabetes,Maine,22,9.6,0,10.4,8.9
+2014,Annual,Diabetes,Maryland,26,9.8,0.12,10.5,9.1
+2014,Annual,Diabetes,Massachusetts,11,8.5,-0.68,9.2,7.9
+2014,Annual,Diabetes,Michigan,31,10.4,0.5,11,9.7
+2014,Annual,Diabetes,Minnesota,4,7.4,-1.37,8.2,6.6
+2014,Annual,Diabetes,Mississippi,48,12.9,2,13.8,11.9
+2014,Annual,Diabetes,Missouri,22,9.6,0,10.5,8.7
+2014,Annual,Diabetes,Montana,5,7.7,-1.18,8.3,7
+2014,Annual,Diabetes,Nebraska,16,9.2,-0.25,9.8,8.5
+2014,Annual,Diabetes,Nevada,22,9.6,0,11.1,8.1
+2014,Annual,Diabetes,New Hampshire,16,9.2,-0.25,10,8.3
+2014,Annual,Diabetes,New Jersey,16,9.2,-0.25,9.9,8.5
+2014,Annual,Diabetes,New Mexico,35,10.7,0.68,11.6,9.8
+2014,Annual,Diabetes,New York,33,10.6,0.62,11.4,9.7
+2014,Annual,Diabetes,North Carolina,43,11.4,1.12,12.2,10.6
+2014,Annual,Diabetes,North Dakota,14,8.9,-0.44,9.7,8.1
+2014,Annual,Diabetes,Ohio,31,10.4,0.5,11.1,9.6
+2014,Annual,Diabetes,Oklahoma,39,11,0.87,11.8,10.3
+2014,Annual,Diabetes,Oregon,16,9.2,-0.25,10.1,8.3
+2014,Annual,Diabetes,Pennsylvania,29,10.1,0.31,10.8,9.4
+2014,Annual,Diabetes,Rhode Island,20,9.3,-0.19,10.1,8.4
+2014,Annual,Diabetes,South Carolina,47,12.5,1.81,13.3,11.7
+2014,Annual,Diabetes,South Dakota,15,9.1,-0.31,10.1,8
+2014,Annual,Diabetes,Tennessee,46,12.2,1.62,13.4,11.1
+2014,Annual,Diabetes,Texas,38,10.9,0.81,11.8,10
+2014,Annual,Diabetes,Utah,2,7.1,-1.56,7.6,6.6
+2014,Annual,Diabetes,Vermont,6,7.8,-1.12,8.5,7
+2014,Annual,Diabetes,Virginia,26,9.8,0.12,10.6,9.1
+2014,Annual,Diabetes,Washington,12,8.6,-0.62,9.2,7.9
+2014,Annual,Diabetes,West Virginia,49,13,2,14,12.1
+2014,Annual,Diabetes,Wisconsin,7,8.2,-0.87,9.2,7.3
+2014,Annual,Diabetes,Wyoming,12,8.6,-0.62,9.5,7.8
+2014,Annual,Diabetes,United States,,9.6,,10.4,10
+2014,Annual,Diabetes,District of Columbia,,7.8,,8.7,6.9
+2014,Annual,Disparity in Health Status,Alabama,3,19.4,-2,,
+2014,Annual,Disparity in Health Status,Alaska,13,25.7,-1.12,,
+2014,Annual,Disparity in Health Status,Arizona,48,36.6,1.02,,
+2014,Annual,Disparity in Health Status,Arkansas,9,24.2,-1.41,,
+2014,Annual,Disparity in Health Status,California,50,38.6,1.41,,
+2014,Annual,Disparity in Health Status,Colorado,47,36.5,1,,
+2014,Annual,Disparity in Health Status,Connecticut,36,30.7,-0.14,,
+2014,Annual,Disparity in Health Status,Delaware,25,28.8,-0.51,,
+2014,Annual,Disparity in Health Status,Florida,27,29.1,-0.45,,
+2014,Annual,Disparity in Health Status,Georgia,22,28,-0.67,,
+2014,Annual,Disparity in Health Status,Hawaii,1,15.5,-2,,
+2014,Annual,Disparity in Health Status,Idaho,41,32.7,0.26,,
+2014,Annual,Disparity in Health Status,Illinois,32,30.4,-0.2,,
+2014,Annual,Disparity in Health Status,Indiana,13,25.7,-1.12,,
+2014,Annual,Disparity in Health Status,Iowa,30,30.3,-0.22,,
+2014,Annual,Disparity in Health Status,Kansas,24,28.6,-0.55,,
+2014,Annual,Disparity in Health Status,Kentucky,10,24.7,-1.31,,
+2014,Annual,Disparity in Health Status,Louisiana,16,26.5,-0.96,,
+2014,Annual,Disparity in Health Status,Maine,15,26.1,-1.04,,
+2014,Annual,Disparity in Health Status,Maryland,34,30.5,-0.18,,
+2014,Annual,Disparity in Health Status,Massachusetts,42,33.9,0.49,,
+2014,Annual,Disparity in Health Status,Michigan,29,29.7,-0.33,,
+2014,Annual,Disparity in Health Status,Minnesota,11,25.3,-1.19,,
+2014,Annual,Disparity in Health Status,Mississippi,2,18,-2,,
+2014,Annual,Disparity in Health Status,Missouri,5,20.5,-2,,
+2014,Annual,Disparity in Health Status,Montana,18,26.8,-0.9,,
+2014,Annual,Disparity in Health Status,Nebraska,46,36.1,0.92,,
+2014,Annual,Disparity in Health Status,Nevada,20,27.4,-0.78,,
+2014,Annual,Disparity in Health Status,New Hampshire,21,27.7,-0.73,,
+2014,Annual,Disparity in Health Status,New Jersey,35,30.6,-0.16,,
+2014,Annual,Disparity in Health Status,New Mexico,40,32.4,0.2,,
+2014,Annual,Disparity in Health Status,New York,45,35.3,0.76,,
+2014,Annual,Disparity in Health Status,North Carolina,43,34.3,0.57,,
+2014,Annual,Disparity in Health Status,North Dakota,4,19.9,-2,,
+2014,Annual,Disparity in Health Status,Ohio,12,25.4,-1.18,,
+2014,Annual,Disparity in Health Status,Oklahoma,38,32.1,0.14,,
+2014,Annual,Disparity in Health Status,Oregon,25,28.8,-0.51,,
+2014,Annual,Disparity in Health Status,Pennsylvania,8,23.8,-1.49,,
+2014,Annual,Disparity in Health Status,Rhode Island,19,27.2,-0.82,,
+2014,Annual,Disparity in Health Status,South Carolina,32,30.4,-0.2,,
+2014,Annual,Disparity in Health Status,South Dakota,6,23.4,-1.57,,
+2014,Annual,Disparity in Health Status,Tennessee,38,32.1,0.14,,
+2014,Annual,Disparity in Health Status,Texas,23,28.3,-0.61,,
+2014,Annual,Disparity in Health Status,Utah,16,26.5,-0.96,,
+2014,Annual,Disparity in Health Status,Vermont,44,35,0.71,,
+2014,Annual,Disparity in Health Status,Virginia,27,29.1,-0.45,,
+2014,Annual,Disparity in Health Status,Washington,49,37.5,1.19,,
+2014,Annual,Disparity in Health Status,West Virginia,6,23.4,-1.57,,
+2014,Annual,Disparity in Health Status,Wisconsin,37,30.9,-0.1,,
+2014,Annual,Disparity in Health Status,Wyoming,30,30.3,-0.22,,
+2014,Annual,Disparity in Health Status,United States,,31.4,,,
+2014,Annual,Disparity in Health Status,District of Columbia,,28.4,,,
+2014,Annual,Drug Deaths,Alabama,18,11.7,-0.263,12.2,11.1
+2014,Annual,Drug Deaths,Alaska,33,14.4,0.283,16,12.8
+2014,Annual,Drug Deaths,Arizona,44,17.7,0.95,18.3,17.1
+2014,Annual,Drug Deaths,Arkansas,24,12.6,-0.081,13.4,11.8
+2014,Annual,Drug Deaths,California,12,11,-0.404,11.2,10.9
+2014,Annual,Drug Deaths,Colorado,34,14.8,0.364,15.4,14.2
+2014,Annual,Drug Deaths,Connecticut,12,11,-0.404,11.7,10.4
+2014,Annual,Drug Deaths,Delaware,39,16.6,0.728,18.1,15
+2014,Annual,Drug Deaths,Florida,36,15.2,0.445,15.5,14.8
+2014,Annual,Drug Deaths,Georgia,10,10.8,-0.445,11.1,10.4
+2014,Annual,Drug Deaths,Hawaii,18,11.7,-0.263,12.8,10.7
+2014,Annual,Drug Deaths,Idaho,23,12.3,-0.141,13.3,11.2
+2014,Annual,Drug Deaths,Illinois,15,11.1,-0.384,11.5,10.8
+2014,Annual,Drug Deaths,Indiana,35,15.1,0.424,15.7,14.6
+2014,Annual,Drug Deaths,Iowa,5,8.5,-0.909,9.2,7.9
+2014,Annual,Drug Deaths,Kansas,9,10.4,-0.525,11.1,9.7
+2014,Annual,Drug Deaths,Kentucky,48,24,2,24.8,23.1
+2014,Annual,Drug Deaths,Louisiana,27,12.9,-0.02,13.6,12.3
+2014,Annual,Drug Deaths,Maine,12,11,-0.404,12.1,10
+2014,Annual,Drug Deaths,Maryland,22,12.2,-0.162,12.7,11.7
+2014,Annual,Drug Deaths,Massachusetts,21,12.1,-0.182,12.6,11.6
+2014,Annual,Drug Deaths,Michigan,31,13.9,0.182,14.3,13.5
+2014,Annual,Drug Deaths,Minnesota,6,8.6,-0.889,9.1,8.2
+2014,Annual,Drug Deaths,Mississippi,11,10.9,-0.424,11.6,10.2
+2014,Annual,Drug Deaths,Missouri,38,16.3,0.667,16.9,15.7
+2014,Annual,Drug Deaths,Montana,26,12.8,-0.04,14.1,11.5
+2014,Annual,Drug Deaths,Nebraska,3,7.3,-1.152,8,6.6
+2014,Annual,Drug Deaths,Nevada,47,22.2,1.859,23.2,21.2
+2014,Annual,Drug Deaths,New Hampshire,29,13.4,0.081,14.6,12.3
+2014,Annual,Drug Deaths,New Jersey,17,11.6,-0.283,12,11.1
+2014,Annual,Drug Deaths,New Mexico,49,24.8,2,26.1,23.5
+2014,Annual,Drug Deaths,New York,7,9.4,-0.728,9.7,9.2
+2014,Annual,Drug Deaths,North Carolina,24,12.6,-0.081,13,12.2
+2014,Annual,Drug Deaths,North Dakota,1,3,-2,3.8,2.3
+2014,Annual,Drug Deaths,Ohio,43,17.5,0.909,17.9,17
+2014,Annual,Drug Deaths,Oklahoma,45,19.8,1.374,20.7,19
+2014,Annual,Drug Deaths,Oregon,28,13.1,0.02,13.7,12.4
+2014,Annual,Drug Deaths,Pennsylvania,42,17.4,0.889,17.8,17
+2014,Annual,Drug Deaths,Rhode Island,41,17.3,0.869,18.8,15.9
+2014,Annual,Drug Deaths,South Carolina,30,13.5,0.101,14.2,12.9
+2014,Annual,Drug Deaths,South Dakota,2,6.1,-1.394,7.1,5.1
+2014,Annual,Drug Deaths,Tennessee,40,17.2,0.849,17.7,16.6
+2014,Annual,Drug Deaths,Texas,8,9.9,-0.626,10.1,9.7
+2014,Annual,Drug Deaths,Utah,46,20.1,1.435,21.2,19.1
+2014,Annual,Drug Deaths,Vermont,16,11.3,-0.344,12.8,9.8
+2014,Annual,Drug Deaths,Virginia,4,8.4,-0.93,8.8,8
+2014,Annual,Drug Deaths,Washington,32,14,0.202,14.5,13.5
+2014,Annual,Drug Deaths,West Virginia,50,31.3,2,32.7,29.8
+2014,Annual,Drug Deaths,Wisconsin,20,11.8,-0.243,12.3,11.3
+2014,Annual,Drug Deaths,Wyoming,37,15.7,0.546,17.6,13.8
+2014,Annual,Drug Deaths,United States,,13,,13.1,12.9
+2014,Annual,Drug Deaths,District of Columbia,,13.9,,15.7,12.2
+2014,Annual,Excessive Drinking,Alabama,3,12.3,-1.84,13.6,11
+2014,Annual,Excessive Drinking,Alaska,43,21.1,0.91,22.9,19.3
+2014,Annual,Excessive Drinking,Arizona,11,14.8,-1.06,16.9,12.8
+2014,Annual,Excessive Drinking,Arkansas,7,13.7,-1.41,15.2,12.2
+2014,Annual,Excessive Drinking,California,31,18.9,0.22,20,17.8
+2014,Annual,Excessive Drinking,Colorado,39,19.9,0.53,20.8,18.9
+2014,Annual,Excessive Drinking,Connecticut,37,19.5,0.41,20.9,18
+2014,Annual,Excessive Drinking,Delaware,30,18.8,0.19,20.3,17.2
+2014,Annual,Excessive Drinking,Florida,20,17.6,-0.19,18.6,16.6
+2014,Annual,Excessive Drinking,Georgia,9,14.3,-1.22,15.4,13.2
+2014,Annual,Excessive Drinking,Hawaii,38,19.7,0.47,21,18.3
+2014,Annual,Excessive Drinking,Idaho,15,16.2,-0.62,17.7,14.6
+2014,Annual,Excessive Drinking,Illinois,47,22.6,1.37,24.3,20.8
+2014,Annual,Excessive Drinking,Indiana,14,16,-0.69,17,15
+2014,Annual,Excessive Drinking,Iowa,46,22.4,1.31,23.7,21.1
+2014,Annual,Excessive Drinking,Kansas,15,16.2,-0.62,16.9,15.6
+2014,Annual,Excessive Drinking,Kentucky,9,14.3,-1.22,15.4,13.2
+2014,Annual,Excessive Drinking,Louisiana,22,17.7,-0.16,19.6,15.8
+2014,Annual,Excessive Drinking,Maine,35,19.3,0.34,20.5,18
+2014,Annual,Excessive Drinking,Maryland,12,15.7,-0.78,16.7,14.6
+2014,Annual,Excessive Drinking,Massachusetts,43,21.1,0.91,22.3,20
+2014,Annual,Excessive Drinking,Michigan,41,20.2,0.62,21.2,19.2
+2014,Annual,Excessive Drinking,Minnesota,47,22.6,1.37,23.9,21.3
+2014,Annual,Excessive Drinking,Mississippi,5,13.4,-1.5,14.7,12.1
+2014,Annual,Excessive Drinking,Missouri,23,18,-0.06,19.5,16.5
+2014,Annual,Excessive Drinking,Montana,45,22.2,1.25,23.4,21
+2014,Annual,Excessive Drinking,Nebraska,42,21,0.87,22.1,20
+2014,Annual,Excessive Drinking,Nevada,19,17.4,-0.25,19.4,15.4
+2014,Annual,Excessive Drinking,New Hampshire,27,18.4,0.06,19.8,17.1
+2014,Annual,Excessive Drinking,New Jersey,20,17.6,-0.19,18.6,16.6
+2014,Annual,Excessive Drinking,New Mexico,13,15.9,-0.72,17.1,14.7
+2014,Annual,Excessive Drinking,New York,31,18.9,0.22,20.1,17.8
+2014,Annual,Excessive Drinking,North Carolina,8,14.1,-1.28,15.2,13.1
+2014,Annual,Excessive Drinking,North Dakota,50,24.9,2,26.3,23.4
+2014,Annual,Excessive Drinking,Ohio,25,18.1,-0.03,19.2,17
+2014,Annual,Excessive Drinking,Oklahoma,5,13.4,-1.5,14.5,12.3
+2014,Annual,Excessive Drinking,Oregon,33,19,0.25,20.4,17.6
+2014,Annual,Excessive Drinking,Pennsylvania,29,18.5,0.09,19.5,17.5
+2014,Annual,Excessive Drinking,Rhode Island,35,19.3,0.34,20.8,17.8
+2014,Annual,Excessive Drinking,South Carolina,17,16.3,-0.59,17.3,15.2
+2014,Annual,Excessive Drinking,South Dakota,40,20.1,0.59,21.8,18.5
+2014,Annual,Excessive Drinking,Tennessee,1,10.5,-2,11.8,9.3
+2014,Annual,Excessive Drinking,Texas,26,18.2,0,19.4,17
+2014,Annual,Excessive Drinking,Utah,4,13.2,-1.56,14,12.3
+2014,Annual,Excessive Drinking,Vermont,34,19.1,0.28,20.4,17.7
+2014,Annual,Excessive Drinking,Virginia,18,17.2,-0.31,18.4,16
+2014,Annual,Excessive Drinking,Washington,27,18.4,0.06,19.5,17.4
+2014,Annual,Excessive Drinking,West Virginia,2,11.8,-2,12.9,10.8
+2014,Annual,Excessive Drinking,Wisconsin,49,23.8,1.75,25.5,22.1
+2014,Annual,Excessive Drinking,Wyoming,23,18,-0.06,19.5,16.4
+2014,Annual,Excessive Drinking,United States,,18.2,,18.1,17.6
+2014,Annual,Excessive Drinking,District of Columbia,,23.8,,26,21.6
+2014,Annual,Fruits,Alabama,46,1.15,-1.79,1.21,1.09
+2014,Annual,Fruits,Alaska,19,1.4,0.07,1.45,1.34
+2014,Annual,Fruits,Arizona,26,1.36,-0.22,1.44,1.28
+2014,Annual,Fruits,Arkansas,43,1.21,-1.34,1.33,1.1
+2014,Annual,Fruits,California,1,1.67,2,1.71,1.63
+2014,Annual,Fruits,Colorado,10,1.47,0.6,1.5,1.44
+2014,Annual,Fruits,Connecticut,6,1.5,0.82,1.54,1.45
+2014,Annual,Fruits,Delaware,31,1.32,-0.52,1.36,1.27
+2014,Annual,Fruits,Florida,12,1.46,0.52,1.5,1.42
+2014,Annual,Fruits,Georgia,33,1.29,-0.75,1.33,1.26
+2014,Annual,Fruits,Hawaii,28,1.35,-0.3,1.39,1.31
+2014,Annual,Fruits,Idaho,16,1.41,0.15,1.51,1.31
+2014,Annual,Fruits,Illinois,8,1.49,0.75,1.55,1.44
+2014,Annual,Fruits,Indiana,33,1.29,-0.75,1.33,1.26
+2014,Annual,Fruits,Iowa,33,1.29,-0.75,1.32,1.25
+2014,Annual,Fruits,Kansas,39,1.25,-1.04,1.29,1.21
+2014,Annual,Fruits,Kentucky,45,1.16,-1.71,1.2,1.13
+2014,Annual,Fruits,Louisiana,44,1.18,-1.57,1.26,1.1
+2014,Annual,Fruits,Maine,6,1.5,0.82,1.54,1.46
+2014,Annual,Fruits,Maryland,16,1.41,0.15,1.44,1.38
+2014,Annual,Fruits,Massachusetts,9,1.48,0.67,1.52,1.45
+2014,Annual,Fruits,Michigan,23,1.39,0,1.42,1.36
+2014,Annual,Fruits,Minnesota,25,1.37,-0.15,1.4,1.33
+2014,Annual,Fruits,Mississippi,47,1.13,-1.94,1.18,1.09
+2014,Annual,Fruits,Missouri,42,1.23,-1.19,1.27,1.19
+2014,Annual,Fruits,Montana,24,1.38,-0.07,1.42,1.34
+2014,Annual,Fruits,Nebraska,26,1.36,-0.22,1.4,1.33
+2014,Annual,Fruits,Nevada,14,1.44,0.37,1.51,1.38
+2014,Annual,Fruits,New Hampshire,2,1.54,1.12,1.61,1.47
+2014,Annual,Fruits,New Jersey,15,1.42,0.22,1.45,1.39
+2014,Annual,Fruits,New Mexico,29,1.33,-0.45,1.37,1.3
+2014,Annual,Fruits,New York,3,1.53,1.04,1.58,1.48
+2014,Annual,Fruits,North Carolina,41,1.24,-1.12,1.28,1.2
+2014,Annual,Fruits,North Dakota,31,1.32,-0.52,1.37,1.27
+2014,Annual,Fruits,Ohio,37,1.27,-0.89,1.3,1.24
+2014,Annual,Fruits,Oklahoma,49,1.07,-2,1.1,1.04
+2014,Annual,Fruits,Oregon,4,1.52,0.97,1.58,1.46
+2014,Annual,Fruits,Pennsylvania,19,1.4,0.07,1.44,1.35
+2014,Annual,Fruits,Rhode Island,12,1.46,0.52,1.51,1.41
+2014,Annual,Fruits,South Carolina,38,1.26,-0.97,1.3,1.23
+2014,Annual,Fruits,South Dakota,36,1.28,-0.82,1.32,1.23
+2014,Annual,Fruits,Tennessee,49,1.07,-2,1.1,1.03
+2014,Annual,Fruits,Texas,39,1.25,-1.04,1.29,1.2
+2014,Annual,Fruits,Utah,10,1.47,0.6,1.5,1.44
+2014,Annual,Fruits,Vermont,4,1.52,0.97,1.58,1.46
+2014,Annual,Fruits,Virginia,16,1.41,0.15,1.45,1.38
+2014,Annual,Fruits,Washington,19,1.4,0.07,1.44,1.36
+2014,Annual,Fruits,West Virginia,48,1.08,-2,1.11,1.05
+2014,Annual,Fruits,Wisconsin,19,1.4,0.07,1.44,1.35
+2014,Annual,Fruits,Wyoming,29,1.33,-0.45,1.37,1.28
+2014,Annual,Fruits,United States,,1.39,,1.4,1.38
+2014,Annual,Fruits,District of Columbia,,1.56,,1.63,1.48
+2014,Annual,Heart Attack,Alabama,47,5.9,1.75,6.7,5.2
+2014,Annual,Heart Attack,Alaska,3,3.1,-1.13,3.7,2.5
+2014,Annual,Heart Attack,Arizona,26,4.4,0.21,5.6,3.2
+2014,Annual,Heart Attack,Arkansas,36,5.1,0.93,5.9,4.4
+2014,Annual,Heart Attack,California,6,3.3,-0.93,3.8,2.9
+2014,Annual,Heart Attack,Colorado,3,3.1,-1.13,3.4,2.8
+2014,Annual,Heart Attack,Connecticut,9,3.8,-0.41,4.3,3.2
+2014,Annual,Heart Attack,Delaware,20,4.1,-0.1,4.7,3.5
+2014,Annual,Heart Attack,Florida,46,5.6,1.44,6.1,5.1
+2014,Annual,Heart Attack,Georgia,13,3.9,-0.31,4.4,3.4
+2014,Annual,Heart Attack,Hawaii,5,3.2,-1.03,3.8,2.7
+2014,Annual,Heart Attack,Idaho,7,3.7,-0.52,4.4,3.1
+2014,Annual,Heart Attack,Illinois,20,4.1,-0.1,4.8,3.5
+2014,Annual,Heart Attack,Indiana,39,5.2,1.03,5.7,4.7
+2014,Annual,Heart Attack,Iowa,31,4.7,0.52,5.2,4.2
+2014,Annual,Heart Attack,Kansas,24,4.2,0,4.5,4
+2014,Annual,Heart Attack,Kentucky,48,6,1.86,6.6,5.4
+2014,Annual,Heart Attack,Louisiana,41,5.3,1.13,6.2,4.5
+2014,Annual,Heart Attack,Maine,41,5.3,1.13,5.8,4.7
+2014,Annual,Heart Attack,Maryland,9,3.8,-0.41,4.3,3.3
+2014,Annual,Heart Attack,Massachusetts,13,3.9,-0.31,4.3,3.4
+2014,Annual,Heart Attack,Michigan,39,5.2,1.03,5.6,4.7
+2014,Annual,Heart Attack,Minnesota,1,3,-1.24,3.5,2.5
+2014,Annual,Heart Attack,Mississippi,36,5.1,0.93,5.7,4.4
+2014,Annual,Heart Attack,Missouri,44,5.4,1.24,6.1,4.7
+2014,Annual,Heart Attack,Montana,28,4.5,0.31,5,4
+2014,Annual,Heart Attack,Nebraska,17,4,-0.21,4.4,3.6
+2014,Annual,Heart Attack,Nevada,26,4.4,0.21,5.3,3.6
+2014,Annual,Heart Attack,New Hampshire,17,4,-0.21,4.6,3.4
+2014,Annual,Heart Attack,New Jersey,13,3.9,-0.31,4.4,3.5
+2014,Annual,Heart Attack,New Mexico,17,4,-0.21,4.5,3.5
+2014,Annual,Heart Attack,New York,31,4.7,0.52,5.3,4.1
+2014,Annual,Heart Attack,North Carolina,30,4.6,0.41,5.1,4
+2014,Annual,Heart Attack,North Dakota,20,4.1,-0.1,4.6,3.6
+2014,Annual,Heart Attack,Ohio,41,5.3,1.13,5.8,4.8
+2014,Annual,Heart Attack,Oklahoma,45,5.5,1.34,6,4.9
+2014,Annual,Heart Attack,Oregon,9,3.8,-0.41,4.4,3.2
+2014,Annual,Heart Attack,Pennsylvania,34,4.8,0.62,5.3,4.4
+2014,Annual,Heart Attack,Rhode Island,35,4.9,0.72,5.5,4.3
+2014,Annual,Heart Attack,South Carolina,31,4.7,0.52,5.3,4.2
+2014,Annual,Heart Attack,South Dakota,36,5.1,0.93,5.9,4.3
+2014,Annual,Heart Attack,Tennessee,49,6.9,2,7.7,6
+2014,Annual,Heart Attack,Texas,13,3.9,-0.31,4.5,3.4
+2014,Annual,Heart Attack,Utah,1,3,-1.24,3.3,2.6
+2014,Annual,Heart Attack,Vermont,24,4.2,0,4.7,3.6
+2014,Annual,Heart Attack,Virginia,7,3.7,-0.52,4.2,3.3
+2014,Annual,Heart Attack,Washington,9,3.8,-0.41,4.2,3.4
+2014,Annual,Heart Attack,West Virginia,50,7.8,2,8.5,7
+2014,Annual,Heart Attack,Wisconsin,20,4.1,-0.1,4.8,3.3
+2014,Annual,Heart Attack,Wyoming,28,4.5,0.31,5,3.9
+2014,Annual,Heart Attack,United States,,4.2,,4.5,4.3
+2014,Annual,Heart Attack,District of Columbia,,4.1,,5,3.2
+2014,Annual,Heart Disease,South Dakota,31,4.6,0.52,5.4,3.8
+2014,Annual,Heart Disease,Tennessee,49,6.3,2,7.1,5.4
+2014,Annual,Heart Disease,Texas,10,3.4,-0.73,3.9,3
+2014,Annual,Heart Disease,Utah,2,2.7,-1.47,3,2.4
+2014,Annual,Heart Disease,Vermont,17,3.8,-0.31,4.3,3.3
+2014,Annual,Heart Disease,Virginia,18,3.9,-0.21,4.4,3.4
+2014,Annual,Heart Disease,Washington,14,3.7,-0.42,4.1,3.3
+2014,Annual,Heart Disease,West Virginia,50,7.5,2,8.2,6.7
+2014,Annual,Heart Disease,Wisconsin,37,4.9,0.84,5.7,4.1
+2014,Annual,Heart Disease,Wyoming,18,3.9,-0.21,4.4,3.3
+2014,Annual,Heart Disease,United States,,4.1,,4.3,4.1
+2014,Annual,Heart Disease,District of Columbia,,2.6,,3.1,2.1
+2014,Annual,Heart Disease,Alabama,46,5.3,1.26,6,4.7
+2014,Annual,Heart Disease,Alaska,6,3.2,-0.94,3.8,2.5
+2014,Annual,Heart Disease,Arizona,22,4.1,0,5,3.1
+2014,Annual,Heart Disease,Arkansas,46,5.3,1.26,6,4.5
+2014,Annual,Heart Disease,California,4,3.1,-1.05,3.5,2.7
+2014,Annual,Heart Disease,Colorado,1,2.5,-1.68,2.8,2.3
+2014,Annual,Heart Disease,Connecticut,21,4,-0.1,4.5,3.4
+2014,Annual,Heart Disease,Delaware,31,4.6,0.52,5.3,4
+2014,Annual,Heart Disease,Florida,40,5,0.94,5.4,4.6
+2014,Annual,Heart Disease,Georgia,14,3.7,-0.42,4.2,3.3
+2014,Annual,Heart Disease,Hawaii,2,2.7,-1.47,3.2,2.2
+2014,Annual,Heart Disease,Idaho,13,3.6,-0.52,4.2,3
+2014,Annual,Heart Disease,Illinois,18,3.9,-0.21,4.5,3.3
+2014,Annual,Heart Disease,Indiana,28,4.3,0.21,4.8,3.9
+2014,Annual,Heart Disease,Iowa,31,4.6,0.52,5.1,4.1
+2014,Annual,Heart Disease,Kansas,27,4.2,0.1,4.5,4
+2014,Annual,Heart Disease,Kentucky,48,6,1.99,6.6,5.5
+2014,Annual,Heart Disease,Louisiana,40,5,0.94,5.7,4.2
+2014,Annual,Heart Disease,Maine,40,5,0.94,5.5,4.4
+2014,Annual,Heart Disease,Maryland,8,3.3,-0.84,3.7,2.9
+2014,Annual,Heart Disease,Massachusetts,8,3.3,-0.84,3.7,2.9
+2014,Annual,Heart Disease,Michigan,45,5.2,1.15,5.7,4.8
+2014,Annual,Heart Disease,Minnesota,4,3.1,-1.05,3.6,2.6
+2014,Annual,Heart Disease,Mississippi,37,4.9,0.84,5.5,4.3
+2014,Annual,Heart Disease,Missouri,31,4.6,0.52,5.2,4
+2014,Annual,Heart Disease,Montana,12,3.5,-0.63,3.9,3
+2014,Annual,Heart Disease,Nebraska,22,4.1,0,4.5,3.7
+2014,Annual,Heart Disease,Nevada,10,3.4,-0.73,4,2.7
+2014,Annual,Heart Disease,New Hampshire,22,4.1,0,4.7,3.5
+2014,Annual,Heart Disease,New Jersey,14,3.7,-0.42,4.2,3.2
+2014,Annual,Heart Disease,New Mexico,6,3.2,-0.94,3.7,2.8
+2014,Annual,Heart Disease,New York,29,4.4,0.31,4.9,3.9
+2014,Annual,Heart Disease,North Carolina,31,4.6,0.52,5.1,4.1
+2014,Annual,Heart Disease,North Dakota,22,4.1,0,4.6,3.6
+2014,Annual,Heart Disease,Ohio,36,4.7,0.63,5.1,4.2
+2014,Annual,Heart Disease,Oklahoma,44,5.1,1.05,5.6,4.6
+2014,Annual,Heart Disease,Oregon,30,4.5,0.42,5.2,3.8
+2014,Annual,Heart Disease,Pennsylvania,40,5,0.94,5.4,4.5
+2014,Annual,Heart Disease,Rhode Island,22,4.1,0,4.6,3.5
+2014,Annual,Heart Disease,South Carolina,37,4.9,0.84,5.4,4.4
+2014,Annual,High Blood Pressure,Alabama,49,40.3,2,42,38.7
+2014,Annual,High Blood Pressure,Alaska,12,29.8,-0.41,31.7,28
+2014,Annual,High Blood Pressure,Arizona,18,30.7,-0.18,33,28.4
+2014,Annual,High Blood Pressure,Arkansas,44,38.7,1.87,40.5,36.8
+2014,Annual,High Blood Pressure,California,5,28.7,-0.69,29.8,27.6
+2014,Annual,High Blood Pressure,Colorado,2,26.3,-1.31,27.2,25.4
+2014,Annual,High Blood Pressure,Connecticut,23,31.3,-0.03,32.7,29.9
+2014,Annual,High Blood Pressure,Delaware,41,35.6,1.08,37.3,33.9
+2014,Annual,High Blood Pressure,Florida,37,34.6,0.82,35.7,33.5
+2014,Annual,High Blood Pressure,Georgia,39,35,0.92,36.4,33.7
+2014,Annual,High Blood Pressure,Hawaii,4,28.5,-0.74,29.9,27
+2014,Annual,High Blood Pressure,Idaho,8,29.4,-0.51,31.1,27.8
+2014,Annual,High Blood Pressure,Illinois,13,30.1,-0.33,31.8,28.5
+2014,Annual,High Blood Pressure,Indiana,33,33.5,0.54,34.6,32.4
+2014,Annual,High Blood Pressure,Iowa,25,31.4,0,32.6,30.1
+2014,Annual,High Blood Pressure,Kansas,23,31.3,-0.03,32,30.6
+2014,Annual,High Blood Pressure,Kentucky,46,39.1,1.98,40.4,37.7
+2014,Annual,High Blood Pressure,Louisiana,47,39.8,2,41.8,37.8
+2014,Annual,High Blood Pressure,Maine,32,33.3,0.49,34.6,32
+2014,Annual,High Blood Pressure,Maryland,31,32.8,0.36,33.9,31.6
+2014,Annual,High Blood Pressure,Massachusetts,8,29.4,-0.51,30.5,28.3
+2014,Annual,High Blood Pressure,Michigan,37,34.6,0.82,35.7,33.5
+2014,Annual,High Blood Pressure,Minnesota,3,27,-1.13,28.4,25.7
+2014,Annual,High Blood Pressure,Mississippi,48,40.2,2,41.8,38.6
+2014,Annual,High Blood Pressure,Missouri,28,32,0.15,33.6,30.5
+2014,Annual,High Blood Pressure,Montana,7,29.3,-0.54,30.5,28.1
+2014,Annual,High Blood Pressure,Nebraska,15,30.3,-0.28,31.4,29.2
+2014,Annual,High Blood Pressure,Nevada,17,30.6,-0.21,32.9,28.4
+2014,Annual,High Blood Pressure,New Hampshire,13,30.1,-0.33,31.5,28.7
+2014,Annual,High Blood Pressure,New Jersey,20,31.1,-0.08,32.2,29.9
+2014,Annual,High Blood Pressure,New Mexico,10,29.5,-0.49,30.8,28.2
+2014,Annual,High Blood Pressure,New York,26,31.5,0.03,32.8,30.3
+2014,Annual,High Blood Pressure,North Carolina,40,35.5,1.05,36.8,34.2
+2014,Annual,High Blood Pressure,North Dakota,11,29.7,-0.44,31.1,28.4
+2014,Annual,High Blood Pressure,Ohio,33,33.5,0.54,34.7,32.3
+2014,Annual,High Blood Pressure,Oklahoma,42,37.5,1.56,38.8,36.2
+2014,Annual,High Blood Pressure,Oregon,27,31.8,0.1,33.4,30.3
+2014,Annual,High Blood Pressure,Pennsylvania,35,33.7,0.59,34.8,32.6
+2014,Annual,High Blood Pressure,Rhode Island,36,33.8,0.62,35.3,32.3
+2014,Annual,High Blood Pressure,South Carolina,43,38.4,1.8,39.7,37.1
+2014,Annual,High Blood Pressure,South Dakota,18,30.7,-0.18,32.4,29
+2014,Annual,High Blood Pressure,Tennessee,45,38.8,1.9,40.6,37.1
+2014,Annual,High Blood Pressure,Texas,22,31.2,-0.05,32.5,29.9
+2014,Annual,High Blood Pressure,Utah,1,24.2,-1.85,25.1,23.3
+2014,Annual,High Blood Pressure,Vermont,20,31.1,-0.08,32.4,29.7
+2014,Annual,High Blood Pressure,Virginia,30,32.5,0.28,33.7,31.2
+2014,Annual,High Blood Pressure,Washington,16,30.4,-0.26,31.5,29.3
+2014,Annual,High Blood Pressure,West Virginia,50,41,2,42.4,39.5
+2014,Annual,High Blood Pressure,Wisconsin,29,32.3,0.23,34,30.5
+2014,Annual,High Blood Pressure,Wyoming,5,28.7,-0.69,30.1,27.3
+2014,Annual,High Blood Pressure,United States,,31.4,,32.7,32.1
+2014,Annual,High Blood Pressure,District of Columbia,,28.4,,30.2,26.6
+2014,Annual,High Cholesterol,Alabama,50,44.4,2,46.2,42.5
+2014,Annual,High Cholesterol,Alaska,27,38.6,0.08,40.9,36.4
+2014,Annual,High Cholesterol,Arizona,35,39.7,0.52,42.5,36.9
+2014,Annual,High Cholesterol,Arkansas,46,42.4,1.59,44.5,40.4
+2014,Annual,High Cholesterol,California,20,37.7,-0.28,39.1,36.3
+2014,Annual,High Cholesterol,Colorado,3,34.8,-1.43,35.9,33.7
+2014,Annual,High Cholesterol,Connecticut,22,37.8,-0.24,39.5,36.2
+2014,Annual,High Cholesterol,Delaware,39,40.6,0.88,42.5,38.7
+2014,Annual,High Cholesterol,Florida,38,40.3,0.76,41.6,39.1
+2014,Annual,High Cholesterol,Georgia,23,38.1,-0.12,39.7,36.6
+2014,Annual,High Cholesterol,Hawaii,4,34.9,-1.39,36.6,33.3
+2014,Annual,High Cholesterol,Idaho,25,38.4,0,40.5,36.4
+2014,Annual,High Cholesterol,Illinois,11,36.6,-0.72,38.5,34.7
+2014,Annual,High Cholesterol,Indiana,37,39.8,0.56,41.1,38.5
+2014,Annual,High Cholesterol,Iowa,43,41.1,1.07,42.5,39.6
+2014,Annual,High Cholesterol,Kansas,23,38.1,-0.12,38.9,37.3
+2014,Annual,High Cholesterol,Kentucky,49,43.2,1.91,44.7,41.7
+2014,Annual,High Cholesterol,Louisiana,41,40.7,0.92,42.8,38.6
+2014,Annual,High Cholesterol,Maine,35,39.7,0.52,41.1,38.2
+2014,Annual,High Cholesterol,Maryland,16,37,-0.56,38.4,35.7
+2014,Annual,High Cholesterol,Massachusetts,10,36.5,-0.76,37.7,35.2
+2014,Annual,High Cholesterol,Michigan,39,40.6,0.88,41.8,39.4
+2014,Annual,High Cholesterol,Minnesota,2,33.6,-1.91,35.2,32
+2014,Annual,High Cholesterol,Mississippi,45,41.9,1.39,43.7,40.2
+2014,Annual,High Cholesterol,Missouri,32,38.8,0.16,40.6,37
+2014,Annual,High Cholesterol,Montana,7,35.7,-1.07,37.1,34.3
+2014,Annual,High Cholesterol,Nebraska,18,37.4,-0.4,38.6,36.1
+2014,Annual,High Cholesterol,Nevada,27,38.6,0.08,41.2,35.9
+2014,Annual,High Cholesterol,New Hampshire,13,36.7,-0.68,38.3,35.2
+2014,Annual,High Cholesterol,New Jersey,34,39.2,0.32,40.5,37.9
+2014,Annual,High Cholesterol,New Mexico,15,36.8,-0.64,38.3,35.2
+2014,Annual,High Cholesterol,New York,33,39.1,0.28,40.5,37.6
+2014,Annual,High Cholesterol,North Carolina,42,41,1.03,42.4,39.5
+2014,Annual,High Cholesterol,North Dakota,9,36.4,-0.8,38,34.9
+2014,Annual,High Cholesterol,Ohio,19,37.5,-0.36,38.8,36.2
+2014,Annual,High Cholesterol,Oklahoma,44,41.2,1.11,42.6,39.7
+2014,Annual,High Cholesterol,Oregon,16,37,-0.56,38.7,35.3
+2014,Annual,High Cholesterol,Pennsylvania,26,38.5,0.04,39.8,37.2
+2014,Annual,High Cholesterol,Rhode Island,30,38.7,0.12,40.3,37
+2014,Annual,High Cholesterol,South Carolina,47,42.6,1.67,44,41.2
+2014,Annual,High Cholesterol,South Dakota,11,36.6,-0.72,38.7,34.5
+2014,Annual,High Cholesterol,Tennessee,30,38.7,0.12,40.6,36.8
+2014,Annual,High Cholesterol,Texas,20,37.7,-0.28,39.3,36.1
+2014,Annual,High Cholesterol,Utah,1,33.4,-1.99,34.6,32.3
+2014,Annual,High Cholesterol,Vermont,6,35.2,-1.27,36.7,33.7
+2014,Annual,High Cholesterol,Virginia,27,38.6,0.08,40.1,37.1
+2014,Annual,High Cholesterol,Washington,13,36.7,-0.68,38,35.4
+2014,Annual,High Cholesterol,West Virginia,48,42.9,1.79,44.5,41.3
+2014,Annual,High Cholesterol,Wisconsin,8,36.2,-0.88,38.2,34.3
+2014,Annual,High Cholesterol,Wyoming,5,35,-1.35,36.7,33.4
+2014,Annual,High Cholesterol,United States,,38.4,,38.9,38.3
+2014,Annual,High Cholesterol,District of Columbia,,34,,36.1,31.9
+2014,Annual,High Health Status,Alabama,47,44.4,-1.73,46.3,42.6
+2014,Annual,High Health Status,Alaska,19,53.7,0.23,55.8,51.6
+2014,Annual,High Health Status,Arizona,23,52.8,0.04,55.5,50.1
+2014,Annual,High Health Status,Arkansas,49,42.7,-2,44.6,40.7
+2014,Annual,High Health Status,California,32,50.7,-0.4,52,49.4
+2014,Annual,High Health Status,Colorado,6,58.3,1.2,59.4,57.2
+2014,Annual,High Health Status,Connecticut,5,58.4,1.22,60.1,56.8
+2014,Annual,High Health Status,Delaware,29,51,-0.34,52.9,49.1
+2014,Annual,High Health Status,Florida,37,49.6,-0.63,50.8,48.4
+2014,Annual,High Health Status,Georgia,38,49.5,-0.65,51,48
+2014,Annual,High Health Status,Hawaii,40,49,-0.76,50.6,47.3
+2014,Annual,High Health Status,Idaho,12,54.6,0.42,56.5,52.7
+2014,Annual,High Health Status,Illinois,35,49.9,-0.57,51.8,48
+2014,Annual,High Health Status,Indiana,38,49.5,-0.65,50.8,48.2
+2014,Annual,High Health Status,Iowa,17,53.9,0.27,55.3,52.4
+2014,Annual,High Health Status,Kansas,23,52.8,0.04,53.6,52
+2014,Annual,High Health Status,Kentucky,44,45.3,-1.54,46.7,43.9
+2014,Annual,High Health Status,Louisiana,47,44.4,-1.73,46.6,42.2
+2014,Annual,High Health Status,Maine,9,55.6,0.63,57.1,54.2
+2014,Annual,High Health Status,Maryland,12,54.6,0.42,55.9,53.2
+2014,Annual,High Health Status,Massachusetts,4,58.5,1.25,59.7,57.2
+2014,Annual,High Health Status,Michigan,30,50.8,-0.38,52,49.6
+2014,Annual,High Health Status,Minnesota,7,58.2,1.18,59.7,56.7
+2014,Annual,High Health Status,Mississippi,46,44.5,-1.71,46.2,42.8
+2014,Annual,High Health Status,Missouri,28,51.3,-0.27,53.1,49.6
+2014,Annual,High Health Status,Montana,10,55.3,0.57,56.7,53.9
+2014,Annual,High Health Status,Nebraska,11,55.2,0.55,56.5,54
+2014,Annual,High Health Status,Nevada,30,50.8,-0.38,53.4,48.3
+2014,Annual,High Health Status,New Hampshire,2,60.7,1.71,62.3,59.1
+2014,Annual,High Health Status,New Jersey,25,52.6,0,53.9,51.3
+2014,Annual,High Health Status,New Mexico,42,46.6,-1.27,48.1,45.1
+2014,Annual,High Health Status,New York,27,51.6,-0.21,53,50.2
+2014,Annual,High Health Status,North Carolina,36,49.8,-0.59,51.3,48.4
+2014,Annual,High Health Status,North Dakota,16,54,0.3,55.6,52.4
+2014,Annual,High Health Status,Ohio,34,50.2,-0.51,51.6,48.9
+2014,Annual,High Health Status,Oklahoma,43,45.4,-1.52,46.8,44
+2014,Annual,High Health Status,Oregon,15,54.1,0.32,55.8,52.4
+2014,Annual,High Health Status,Pennsylvania,25,52.6,0,53.8,51.3
+2014,Annual,High Health Status,Rhode Island,17,53.9,0.27,55.6,52.2
+2014,Annual,High Health Status,South Carolina,33,50.3,-0.49,51.7,49
+2014,Annual,High Health Status,South Dakota,8,57.7,1.08,59.7,55.7
+2014,Annual,High Health Status,Tennessee,41,46.8,-1.22,48.7,45
+2014,Annual,High Health Status,Texas,45,45.1,-1.58,46.6,43.6
+2014,Annual,High Health Status,Utah,3,59,1.35,60.1,57.9
+2014,Annual,High Health Status,Vermont,1,61.7,1.92,63.3,60.2
+2014,Annual,High Health Status,Virginia,21,53.5,0.19,55,52
+2014,Annual,High Health Status,Washington,22,52.9,0.06,54.1,51.6
+2014,Annual,High Health Status,West Virginia,50,41.6,-2,43.1,40
+2014,Annual,High Health Status,Wisconsin,19,53.7,0.23,55.6,51.8
+2014,Annual,High Health Status,Wyoming,12,54.6,0.42,56.3,52.8
+2014,Annual,High Health Status,United States,,52.6,,51.1,50.5
+2014,Annual,High Health Status,District of Columbia,,60.4,,62.7,58.2
+2014,Annual,High School Graduation,Alabama,43,75,-0.91,,
+2014,Annual,High School Graduation,Alaska,30,79,-0.3,,
+2014,Annual,High School Graduation,Arizona,39,77,-0.61,,
+2014,Annual,High School Graduation,Arkansas,34,78,-0.45,,
+2014,Annual,High School Graduation,California,22,82,0.15,,
+2014,Annual,High School Graduation,Colorado,22,82,0.15,,
+2014,Annual,High School Graduation,Connecticut,12,86,0.76,,
+2014,Annual,High School Graduation,Delaware,39,77,-0.61,,
+2014,Annual,High School Graduation,Florida,43,75,-0.91,,
+2014,Annual,High School Graduation,Georgia,48,70,-1.66,,
+2014,Annual,High School Graduation,Hawaii,34,78,-0.45,,
+2014,Annual,High School Graduation,Idaho,16,84,0.45,,
+2014,Annual,High School Graduation,Illinois,22,82,0.15,,
+2014,Annual,High School Graduation,Indiana,27,80,-0.15,,
+2014,Annual,High School Graduation,Iowa,5,89,1.21,,
+2014,Annual,High School Graduation,Kansas,5,89,1.21,,
+2014,Annual,High School Graduation,Kentucky,22,82,0.15,,
+2014,Annual,High School Graduation,Louisiana,46,72,-1.36,,
+2014,Annual,High School Graduation,Maine,9,87,0.91,,
+2014,Annual,High School Graduation,Maryland,16,84,0.45,,
+2014,Annual,High School Graduation,Massachusetts,12,86,0.76,,
+2014,Annual,High School Graduation,Michigan,39,77,-0.61,,
+2014,Annual,High School Graduation,Minnesota,7,88,1.06,,
+2014,Annual,High School Graduation,Mississippi,49,68,-1.97,,
+2014,Annual,High School Graduation,Missouri,12,86,0.76,,
+2014,Annual,High School Graduation,Montana,12,86,0.76,,
+2014,Annual,High School Graduation,Nebraska,1,93,1.82,,
+2014,Annual,High School Graduation,Nevada,50,60,-2,,
+2014,Annual,High School Graduation,New Hampshire,9,87,0.91,,
+2014,Annual,High School Graduation,New Jersey,9,87,0.91,,
+2014,Annual,High School Graduation,New Mexico,45,74,-1.06,,
+2014,Annual,High School Graduation,New York,34,78,-0.45,,
+2014,Annual,High School Graduation,North Carolina,30,79,-0.3,,
+2014,Annual,High School Graduation,North Dakota,4,91,1.51,,
+2014,Annual,High School Graduation,Ohio,16,84,0.45,,
+2014,Annual,High School Graduation,Oklahoma,30,79,-0.3,,
+2014,Annual,High School Graduation,Oregon,34,78,-0.45,,
+2014,Annual,High School Graduation,Pennsylvania,7,88,1.06,,
+2014,Annual,High School Graduation,Rhode Island,42,76,-0.76,,
+2014,Annual,High School Graduation,South Carolina,46,72,-1.36,,
+2014,Annual,High School Graduation,South Dakota,20,83,0.3,,
+2014,Annual,High School Graduation,Tennessee,20,83,0.3,,
+2014,Annual,High School Graduation,Texas,22,82,0.15,,
+2014,Annual,High School Graduation,Utah,34,78,-0.45,,
+2014,Annual,High School Graduation,Vermont,1,93,1.82,,
+2014,Annual,High School Graduation,Virginia,16,84,0.45,,
+2014,Annual,High School Graduation,Washington,30,79,-0.3,,
+2014,Annual,High School Graduation,West Virginia,27,80,-0.15,,
+2014,Annual,High School Graduation,Wisconsin,3,92,1.66,,
+2014,Annual,High School Graduation,Wyoming,27,80,-0.15,,
+2014,Annual,High School Graduation,District of Columbia,,71,,,
+2014,Annual,High School Graduation,United States,,81,,,
+2014,Annual,Immunization - Adolescents,Alabama,25,65.5,-0.22,,
+2014,Annual,Immunization - Adolescents,Alaska,48,52.2,-1.971,,
+2014,Annual,Immunization - Adolescents,Arizona,16,69.5,0.312,,
+2014,Annual,Immunization - Adolescents,Arkansas,49,47.5,-2,,
+2014,Annual,Immunization - Adolescents,California,10,72.6,0.722,,
+2014,Annual,Immunization - Adolescents,Colorado,22,66.6,-0.07,,
+2014,Annual,Immunization - Adolescents,Connecticut,6,73.8,0.884,,
+2014,Annual,Immunization - Adolescents,Delaware,9,72.6,0.726,,
+2014,Annual,Immunization - Adolescents,Florida,32,63.8,-0.44,,
+2014,Annual,Immunization - Adolescents,Georgia,30,64.0,-0.409,,
+2014,Annual,Immunization - Adolescents,Hawaii,33,63.2,-0.519,,
+2014,Annual,Immunization - Adolescents,Idaho,41,59.2,-1.051,,
+2014,Annual,Immunization - Adolescents,Illinois,23,66.3,-0.106,,
+2014,Annual,Immunization - Adolescents,Indiana,7,72.9,0.761,,
+2014,Annual,Immunization - Adolescents,Iowa,35,61.7,-0.717,,
+2014,Annual,Immunization - Adolescents,Kansas,47,53.8,-1.755,,
+2014,Annual,Immunization - Adolescents,Kentucky,37,60.8,-0.836,,
+2014,Annual,Immunization - Adolescents,Louisiana,11,72.6,0.717,,
+2014,Annual,Immunization - Adolescents,Maine,21,66.7,-0.062,,
+2014,Annual,Immunization - Adolescents,Maryland,28,64.9,-0.299,,
+2014,Annual,Immunization - Adolescents,Massachusetts,4,74.6,0.985,,
+2014,Annual,Immunization - Adolescents,Michigan,18,68.7,0.211,,
+2014,Annual,Immunization - Adolescents,Minnesota,26,65.1,-0.268,,
+2014,Annual,Immunization - Adolescents,Mississippi,50,45.2,-2,,
+2014,Annual,Immunization - Adolescents,Missouri,43,57.0,-1.337,,
+2014,Annual,Immunization - Adolescents,Montana,45,54.7,-1.637,,
+2014,Annual,Immunization - Adolescents,Nebraska,19,68.4,0.163,,
+2014,Annual,Immunization - Adolescents,Nevada,39,59.9,-0.955,,
+2014,Annual,Immunization - Adolescents,New Hampshire,5,74.5,0.972,,
+2014,Annual,Immunization - Adolescents,New Jersey,15,69.6,0.321,,
+2014,Annual,Immunization - Adolescents,New Mexico,20,66.9,-0.026,,
+2014,Annual,Immunization - Adolescents,New York,8,72.7,0.739,,
+2014,Annual,Immunization - Adolescents,North Carolina,27,64.9,-0.299,,
+2014,Annual,Immunization - Adolescents,North Dakota,2,76.6,1.249,,
+2014,Annual,Immunization - Adolescents,Ohio,34,62.9,-0.563,,
+2014,Annual,Immunization - Adolescents,Oklahoma,39,59.9,-0.955,,
+2014,Annual,Immunization - Adolescents,Oregon,31,63.9,-0.422,,
+2014,Annual,Immunization - Adolescents,Pennsylvania,3,75.4,1.091,,
+2014,Annual,Immunization - Adolescents,Rhode Island,1,81.3,1.874,,
+2014,Annual,Immunization - Adolescents,South Carolina,38,60.4,-0.884,,
+2014,Annual,Immunization - Adolescents,South Dakota,46,54.7,-1.645,,
+2014,Annual,Immunization - Adolescents,Tennessee,36,61.2,-0.779,,
+2014,Annual,Immunization - Adolescents,Texas,13,70.9,0.493,,
+2014,Annual,Immunization - Adolescents,Utah,44,55.9,-1.483,,
+2014,Annual,Immunization - Adolescents,Vermont,12,71.2,0.541,,
+2014,Annual,Immunization - Adolescents,Virginia,42,58.5,-1.144,,
+2014,Annual,Immunization - Adolescents,Washington,14,70.2,0.4,,
+2014,Annual,Immunization - Adolescents,West Virginia,29,64.1,-0.396,,
+2014,Annual,Immunization - Adolescents,Wisconsin,17,69.3,0.282,,
+2014,Annual,Immunization - Adolescents,Wyoming,24,65.8,-0.172,,
+2014,Annual,Immunization - Adolescents,United States,,67.1,,,
+2014,Annual,Immunization - Adolescents,District of Columbia,,68.2,,,
+2014,Annual,Immunization - Children,Alabama,6,77,1.299,84.8,69.2
+2014,Annual,Immunization - Children,Alaska,46,63.9,-1.279,70.7,57.1
+2014,Annual,Immunization - Children,Arizona,45,65.1,-1.043,72.8,57.4
+2014,Annual,Immunization - Children,Arkansas,50,57.1,-2,66,48.2
+2014,Annual,Immunization - Children,California,28,69.3,-0.217,77.1,61.5
+2014,Annual,Immunization - Children,Colorado,29,69.2,-0.236,76.1,62.3
+2014,Annual,Immunization - Children,Connecticut,5,78.2,1.535,85,71.4
+2014,Annual,Immunization - Children,Delaware,21,71.8,0.276,78.4,65.2
+2014,Annual,Immunization - Children,Florida,24,70,-0.079,78.7,61.3
+2014,Annual,Immunization - Children,Georgia,27,69.8,-0.118,79.6,60
+2014,Annual,Immunization - Children,Hawaii,40,66.5,-0.768,74.7,58.3
+2014,Annual,Immunization - Children,Idaho,23,70.2,-0.039,77.1,63.3
+2014,Annual,Immunization - Children,Illinois,38,66.8,-0.709,72.1,61.5
+2014,Annual,Immunization - Children,Indiana,33,68.5,-0.374,75.2,61.8
+2014,Annual,Immunization - Children,Iowa,4,78.3,1.555,85,71.6
+2014,Annual,Immunization - Children,Kansas,32,68.7,-0.335,75.8,61.6
+2014,Annual,Immunization - Children,Kentucky,16,72.7,0.453,80.7,64.7
+2014,Annual,Immunization - Children,Louisiana,31,69.1,-0.256,76.6,61.6
+2014,Annual,Immunization - Children,Maine,35,68,-0.472,75.5,60.5
+2014,Annual,Immunization - Children,Maryland,7,75.8,1.063,83.8,67.8
+2014,Annual,Immunization - Children,Massachusetts,3,78.5,1.594,85.1,71.9
+2014,Annual,Immunization - Children,Michigan,24,70,-0.079,77.4,62.6
+2014,Annual,Immunization - Children,Minnesota,12,74.1,0.728,81.9,66.3
+2014,Annual,Immunization - Children,Mississippi,11,74.6,0.827,82.3,66.9
+2014,Annual,Immunization - Children,Missouri,36,67.9,-0.492,75.6,60.2
+2014,Annual,Immunization - Children,Montana,44,65.4,-0.984,73.5,57.3
+2014,Annual,Immunization - Children,Nebraska,2,79,1.693,84.9,73.1
+2014,Annual,Immunization - Children,Nevada,49,60.6,-1.929,67,54.2
+2014,Annual,Immunization - Children,New Hampshire,10,74.9,0.886,81.7,68.1
+2014,Annual,Immunization - Children,New Jersey,14,72.9,0.492,79.7,66.1
+2014,Annual,Immunization - Children,New Mexico,42,65.7,-0.925,72.9,58.5
+2014,Annual,Immunization - Children,New York,18,72.2,0.354,77.2,67.2
+2014,Annual,Immunization - Children,North Carolina,19,72,0.315,79.5,64.5
+2014,Annual,Immunization - Children,North Dakota,19,72,0.315,78.2,65.8
+2014,Annual,Immunization - Children,Ohio,48,61.7,-1.712,69.2,54.2
+2014,Annual,Immunization - Children,Oklahoma,47,62.7,-1.516,69,56.4
+2014,Annual,Immunization - Children,Oregon,39,66.6,-0.748,73.1,60.1
+2014,Annual,Immunization - Children,Pennsylvania,8,75.5,1.004,80.7,70.3
+2014,Annual,Immunization - Children,Rhode Island,1,82.1,2,88.8,75.4
+2014,Annual,Immunization - Children,South Carolina,40,66.5,-0.768,74.8,58.2
+2014,Annual,Immunization - Children,South Dakota,13,73.8,0.669,81.5,66.1
+2014,Annual,Immunization - Children,Tennessee,33,68.5,-0.374,75.3,61.7
+2014,Annual,Immunization - Children,Texas,17,72.5,0.413,77.5,67.5
+2014,Annual,Immunization - Children,Utah,9,75.2,0.945,81.3,69.1
+2014,Annual,Immunization - Children,Vermont,37,66.9,-0.689,73.5,60.3
+2014,Annual,Immunization - Children,Virginia,29,69.2,-0.236,69.2,69.2
+2014,Annual,Immunization - Children,Washington,22,70.8,0.079,78.6,63
+2014,Annual,Immunization - Children,West Virginia,43,65.5,-0.964,73.4,57.6
+2014,Annual,Immunization - Children,Wisconsin,15,72.8,0.472,79.9,65.7
+2014,Annual,Immunization - Children,Wyoming,24,70,-0.079,77.7,62.3
+2014,Annual,Immunization - Children,United States,,70.4,,71.9,68.9
+2014,Annual,Immunization - Children,District of Columbia,,76.9,,84.1,69.7
+2014,Annual,Immunization Dtap,Alabama,17,87.3,0.19,91.8,82.8
+2014,Annual,Immunization Dtap,Alaska,47,74.3,-1.709,80.1,68.5
+2014,Annual,Immunization Dtap,Arizona,29,84.4,-0.234,89.4,79.4
+2014,Annual,Immunization Dtap,Arkansas,44,77.7,-1.213,83,72.4
+2014,Annual,Immunization Dtap,California,8,91.1,0.745,95.5,86.7
+2014,Annual,Immunization Dtap,Colorado,18,87.1,0.161,91.5,82.7
+2014,Annual,Immunization Dtap,Connecticut,9,90.8,0.701,95.1,86.5
+2014,Annual,Immunization Dtap,Delaware,29,84.4,-0.234,89,79.8
+2014,Annual,Immunization Dtap,Florida,27,84.8,-0.175,90.2,79.4
+2014,Annual,Immunization Dtap,Georgia,37,82,-0.584,88.6,75.4
+2014,Annual,Immunization Dtap,Hawaii,40,80.2,-0.847,85.6,74.8
+2014,Annual,Immunization Dtap,Idaho,46,74.6,-1.666,81.2,68
+2014,Annual,Immunization Dtap,Illinois,20,86.2,0.029,90.4,82
+2014,Annual,Immunization Dtap,Indiana,10,90.6,0.672,93.9,87.3
+2014,Annual,Immunization Dtap,Iowa,42,79.6,-0.935,84.6,74.6
+2014,Annual,Immunization Dtap,Kansas,28,84.6,-0.205,89.5,79.7
+2014,Annual,Immunization Dtap,Kentucky,29,84.4,-0.234,89.5,79.3
+2014,Annual,Immunization Dtap,Louisiana,16,87.9,0.278,92.4,83.4
+2014,Annual,Immunization Dtap,Maine,36,83,-0.438,87.7,78.3
+2014,Annual,Immunization Dtap,Maryland,35,83.2,-0.409,89.4,77
+2014,Annual,Immunization Dtap,Massachusetts,3,94.9,1.3,97.5,92.3
+2014,Annual,Immunization Dtap,Michigan,39,81,-0.731,86.2,75.8
+2014,Annual,Immunization Dtap,Minnesota,7,91.4,0.789,95.2,87.6
+2014,Annual,Immunization Dtap,Mississippi,50,60.2,-2,66.9,53.5
+2014,Annual,Immunization Dtap,Missouri,38,81.5,-0.657,86.9,76.1
+2014,Annual,Immunization Dtap,Montana,33,84.3,-0.248,89.4,79.2
+2014,Annual,Immunization Dtap,Nebraska,23,86.1,0.015,90.8,81.4
+2014,Annual,Immunization Dtap,Nevada,15,88.3,0.336,92.4,84.2
+2014,Annual,Immunization Dtap,New Hampshire,4,94.7,1.271,97.6,91.8
+2014,Annual,Immunization Dtap,New Jersey,26,85.5,-0.073,90.8,80.2
+2014,Annual,Immunization Dtap,New Mexico,25,85.6,-0.058,90.1,81.1
+2014,Annual,Immunization Dtap,New York,13,89.5,0.511,92.4,86.6
+2014,Annual,Immunization Dtap,North Carolina,14,89.4,0.497,93.4,85.4
+2014,Annual,Immunization Dtap,North Dakota,2,95,1.315,97.9,92.1
+2014,Annual,Immunization Dtap,Ohio,29,84.4,-0.234,89.3,79.5
+2014,Annual,Immunization Dtap,Oklahoma,43,78.1,-1.154,83,73.2
+2014,Annual,Immunization Dtap,Oregon,19,87,0.146,91.3,82.7
+2014,Annual,Immunization Dtap,Pennsylvania,11,89.9,0.57,93.4,86.4
+2014,Annual,Immunization Dtap,Rhode Island,1,95.5,1.388,98.4,92.6
+2014,Annual,Immunization Dtap,South Carolina,48,71.9,-2,78.5,65.3
+2014,Annual,Immunization Dtap,South Dakota,49,70,-2,76.4,63.6
+2014,Annual,Immunization Dtap,Tennessee,41,80,-0.877,85.4,74.6
+2014,Annual,Immunization Dtap,Texas,23,86.1,0.015,89.7,82.5
+2014,Annual,Immunization Dtap,Utah,20,86.2,0.029,91.1,81.3
+2014,Annual,Immunization Dtap,Vermont,6,91.8,0.847,95.5,88.1
+2014,Annual,Immunization Dtap,Virginia,34,83.6,-0.351,90.1,77.1
+2014,Annual,Immunization Dtap,Washington,20,86.2,0.029,91.2,81.2
+2014,Annual,Immunization Dtap,West Virginia,45,76.7,-1.359,82.3,71.1
+2014,Annual,Immunization Dtap,Wisconsin,12,89.6,0.526,93.8,85.4
+2014,Annual,Immunization Dtap,Wyoming,5,92.3,0.92,95.3,89.3
+2014,Annual,Immunization Dtap,United States,,86,,86.9,85.1
+2014,Annual,Immunization Dtap,District of Columbia,,83.1,,91.4,74.8
+2014,Annual,Immunization HPV female,Alabama,19,39.6,0.265,48.6,30.6
+2014,Annual,Immunization HPV female,Alaska,45,27.1,-1.391,35.3,18.9
+2014,Annual,Immunization HPV female,Arizona,26,37.4,-0.027,46.6,28.2
+2014,Annual,Immunization HPV female,Arkansas,48,24.4,-1.749,32.4,16.4
+2014,Annual,Immunization HPV female,California,4,45.8,1.087,46,45.6
+2014,Annual,Immunization HPV female,Colorado,22,39.1,0.199,47.8,30.4
+2014,Annual,Immunization HPV female,Connecticut,18,40.1,0.331,49.2,31
+2014,Annual,Immunization HPV female,Delaware,2,51.7,1.868,60.6,42.8
+2014,Annual,Immunization HPV female,Florida,34,34.3,-0.437,44.1,24.5
+2014,Annual,Immunization HPV female,Georgia,37,33.2,-0.583,42.7,23.7
+2014,Annual,Immunization HPV female,Hawaii,33,34.4,-0.424,43.9,24.9
+2014,Annual,Immunization HPV female,Idaho,40,31.3,-0.835,40.9,21.7
+2014,Annual,Immunization HPV female,Illinois,35,33.8,-0.504,41,26.6
+2014,Annual,Immunization HPV female,Indiana,31,34.6,-0.398,42.3,26.9
+2014,Annual,Immunization HPV female,Iowa,14,41.9,0.57,50.7,33.1
+2014,Annual,Immunization HPV female,Kansas,49,21.0,-2,29.2,12.8
+2014,Annual,Immunization HPV female,Kentucky,46,26.8,-1.431,35.3,18.3
+2014,Annual,Immunization HPV female,Louisiana,12,42.1,0.596,51.9,32.3
+2014,Annual,Immunization HPV female,Maine,4,45.8,1.087,54.6,37
+2014,Annual,Immunization HPV female,Maryland,36,33.4,-0.557,34.1,32.7
+2014,Annual,Immunization HPV female,Massachusetts,21,39.3,0.225,47.7,30.9
+2014,Annual,Immunization HPV female,Michigan,32,34.5,-0.411,43.9,25.1
+2014,Annual,Immunization HPV female,Minnesota,25,37.6,0,46.6,28.6
+2014,Annual,Immunization HPV female,Mississippi,47,25.2,-1.643,33.8,16.6
+2014,Annual,Immunization HPV female,Missouri,41,28.8,-1.166,37.8,19.8
+2014,Annual,Immunization HPV female,Montana,42,28.3,-1.232,36.4,20.2
+2014,Annual,Immunization HPV female,Nebraska,15,41.5,0.517,50.6,32.4
+2014,Annual,Immunization HPV female,Nevada,44,27.4,-1.352,35.7,19.1
+2014,Annual,Immunization HPV female,New Hampshire,9,43.2,0.742,51.8,34.6
+2014,Annual,Immunization HPV female,New Jersey,39,31.4,-0.822,40.6,22.2
+2014,Annual,Immunization HPV female,New Mexico,8,44.3,0.888,53.5,35.1
+2014,Annual,Immunization HPV female,New York,6,45.4,1.034,52,38.8
+2014,Annual,Immunization HPV female,North Carolina,38,32.8,-0.636,41.9,23.7
+2014,Annual,Immunization HPV female,North Dakota,16,41.1,0.464,50.2,32
+2014,Annual,Immunization HPV female,Ohio,30,35.0,-0.345,43.8,26.2
+2014,Annual,Immunization HPV female,Oklahoma,29,35.4,-0.292,43.7,27.1
+2014,Annual,Immunization HPV female,Oregon,20,39.5,0.252,48.3,30.7
+2014,Annual,Immunization HPV female,Pennsylvania,3,45.9,1.1,54,37.8
+2014,Annual,Immunization HPV female,Rhode Island,1,56.5,2,65.8,47.2
+2014,Annual,Immunization HPV female,South Carolina,17,40.7,0.411,41.1,40.3
+2014,Annual,Immunization HPV female,South Dakota,11,42.3,0.623,51.9,32.7
+2014,Annual,Immunization HPV female,Tennessee,28,35.9,-0.225,45,26.8
+2014,Annual,Immunization HPV female,Texas,23,38.9,0.172,46.3,31.5
+2014,Annual,Immunization HPV female,Utah,50,20.5,-2,28.3,12.7
+2014,Annual,Immunization HPV female,Vermont,10,42.7,0.676,51.8,33.6
+2014,Annual,Immunization HPV female,Virginia,43,27.6,-1.325,28.2,27
+2014,Annual,Immunization HPV female,Washington,7,45.3,1.02,55.1,35.5
+2014,Annual,Immunization HPV female,West Virginia,24,38.4,0.106,47.4,29.4
+2014,Annual,Immunization HPV female,Wisconsin,27,36.8,-0.106,45.8,27.8
+2014,Annual,Immunization HPV female,Wyoming,12,42.1,0.596,51.4,32.8
+2014,Annual,Immunization HPV female,United States,,37.6,,39.5,35.7
+2014,Annual,Immunization HPV female,District of Columbia,,30.2,,32.5,27.9
+2014,Annual,Immunization MCV4,Alabama,32,69.5,-0.649,75.5,63.5
+2014,Annual,Immunization MCV4,Alaska,46,55.2,-1.768,61.7,48.7
+2014,Annual,Immunization MCV4,Arizona,11,86.7,0.696,91.3,82.1
+2014,Annual,Immunization MCV4,Arkansas,50,40.4,-2,46.9,33.9
+2014,Annual,Immunization MCV4,California,16,80.9,0.242,86.6,75.2
+2014,Annual,Immunization MCV4,Colorado,25,73.6,-0.329,79.2,68
+2014,Annual,Immunization MCV4,Connecticut,6,90.6,1.001,94.8,86.4
+2014,Annual,Immunization MCV4,Delaware,14,81.8,0.313,86.9,76.7
+2014,Annual,Immunization MCV4,Florida,27,72.3,-0.43,78.7,65.9
+2014,Annual,Immunization MCV4,Georgia,23,76.9,-0.07,83.9,69.9
+2014,Annual,Immunization MCV4,Hawaii,24,75,-0.219,81,69
+2014,Annual,Immunization MCV4,Idaho,28,71.6,-0.485,78.6,64.6
+2014,Annual,Immunization MCV4,Illinois,18,79,0.094,83.5,74.5
+2014,Annual,Immunization MCV4,Indiana,2,93.5,1.228,96.2,90.8
+2014,Annual,Immunization MCV4,Iowa,41,63.6,-1.111,69.5,57.7
+2014,Annual,Immunization MCV4,Kansas,45,55.9,-1.713,62.7,49.1
+2014,Annual,Immunization MCV4,Kentucky,29,71.2,-0.516,77.5,64.9
+2014,Annual,Immunization MCV4,Louisiana,9,87.7,0.774,92.1,83.3
+2014,Annual,Immunization MCV4,Maine,29,71.2,-0.516,76.8,65.6
+2014,Annual,Immunization MCV4,Maryland,20,78,0.016,84.6,71.4
+2014,Annual,Immunization MCV4,Massachusetts,8,89.6,0.923,93.2,86
+2014,Annual,Immunization MCV4,Michigan,5,90.7,1.009,94.6,86.8
+2014,Annual,Immunization MCV4,Minnesota,36,66.3,-0.9,72.5,60.1
+2014,Annual,Immunization MCV4,Mississippi,49,50.1,-2,57,43.2
+2014,Annual,Immunization MCV4,Missouri,44,60.7,-1.338,67.8,53.6
+2014,Annual,Immunization MCV4,Montana,48,51.6,-2,58.2,45
+2014,Annual,Immunization MCV4,Nebraska,21,77.5,-0.023,82.7,72.3
+2014,Annual,Immunization MCV4,Nevada,40,64,-1.079,70.1,57.9
+2014,Annual,Immunization MCV4,New Hampshire,12,85.6,0.61,90,81.2
+2014,Annual,Immunization MCV4,New Jersey,4,91.8,1.095,95.9,87.7
+2014,Annual,Immunization MCV4,New Mexico,31,70.9,-0.54,76.5,65.3
+2014,Annual,Immunization MCV4,New York,13,83.3,0.43,86.7,79.9
+2014,Annual,Immunization MCV4,North Carolina,26,72.4,-0.422,78.1,66.7
+2014,Annual,Immunization MCV4,North Dakota,1,93.7,1.244,96.9,90.5
+2014,Annual,Immunization MCV4,Ohio,33,69.2,-0.673,75.3,63.1
+2014,Annual,Immunization MCV4,Oklahoma,37,66.2,-0.907,71.6,60.8
+2014,Annual,Immunization MCV4,Oregon,38,65.3,-0.978,71.1,59.5
+2014,Annual,Immunization MCV4,Pennsylvania,7,90.4,0.986,94,86.8
+2014,Annual,Immunization MCV4,Rhode Island,3,92,1.111,95.5,88.5
+2014,Annual,Immunization MCV4,South Carolina,34,68.7,-0.712,75.3,62.1
+2014,Annual,Immunization MCV4,South Dakota,47,51.7,-2,58.4,45
+2014,Annual,Immunization MCV4,Tennessee,35,67.8,-0.782,73.9,61.7
+2014,Annual,Immunization MCV4,Texas,10,87.6,0.767,91.1,84.1
+2014,Annual,Immunization MCV4,Utah,43,61,-1.314,67.7,54.3
+2014,Annual,Immunization MCV4,Vermont,17,79.2,0.11,84.5,73.9
+2014,Annual,Immunization MCV4,Virginia,39,64.2,-1.064,72.7,55.7
+2014,Annual,Immunization MCV4,Washington,18,79,0.094,84.6,73.4
+2014,Annual,Immunization MCV4,West Virginia,22,77.3,-0.039,82.8,71.8
+2014,Annual,Immunization MCV4,Wisconsin,15,81.4,0.282,86.3,76.5
+2014,Annual,Immunization MCV4,Wyoming,42,63.1,-1.15,69.3,56.9
+2014,Annual,Immunization MCV4,United States,,77.8,,78.9,76.7
+2014,Annual,Immunization MCV4,District of Columbia,,91.3,,98.3,84.3
+2014,Annual,Income Disparity,Alabama,35,0.475,,,
+2014,Annual,Income Disparity,Alaska,1,0.408,,,
+2014,Annual,Income Disparity,Arizona,31,0.468,,,
+2014,Annual,Income Disparity,Arkansas,32,0.469,,,
+2014,Annual,Income Disparity,California,47,0.49,,,
+2014,Annual,Income Disparity,Colorado,22,0.461,,,
+2014,Annual,Income Disparity,Connecticut,49,0.499,,,
+2014,Annual,Income Disparity,Delaware,12,0.451,,,
+2014,Annual,Income Disparity,Florida,44,0.484,,,
+2014,Annual,Income Disparity,Georgia,44,0.484,,,
+2014,Annual,Income Disparity,Hawaii,6,0.44,,,
+2014,Annual,Income Disparity,Idaho,4,0.438,,,
+2014,Annual,Income Disparity,Illinois,43,0.482,,,
+2014,Annual,Income Disparity,Indiana,16,0.455,,,
+2014,Annual,Income Disparity,Iowa,7,0.443,,,
+2014,Annual,Income Disparity,Kansas,20,0.459,,,
+2014,Annual,Income Disparity,Kentucky,34,0.472,,,
+2014,Annual,Income Disparity,Louisiana,48,0.491,,,
+2014,Annual,Income Disparity,Maine,13,0.453,,,
+2014,Annual,Income Disparity,Maryland,18,0.456,,,
+2014,Annual,Income Disparity,Massachusetts,44,0.484,,,
+2014,Annual,Income Disparity,Michigan,26,0.464,,,
+2014,Annual,Income Disparity,Minnesota,11,0.446,,,
+2014,Annual,Income Disparity,Mississippi,40,0.479,,,
+2014,Annual,Income Disparity,Missouri,22,0.461,,,
+2014,Annual,Income Disparity,Montana,24,0.462,,,
+2014,Annual,Income Disparity,Nebraska,9,0.445,,,
+2014,Annual,Income Disparity,Nevada,14,0.454,,,
+2014,Annual,Income Disparity,New Hampshire,5,0.439,,,
+2014,Annual,Income Disparity,New Jersey,41,0.48,,,
+2014,Annual,Income Disparity,New Mexico,36,0.476,,,
+2014,Annual,Income Disparity,New York,50,0.51,,,
+2014,Annual,Income Disparity,North Carolina,37,0.477,,,
+2014,Annual,Income Disparity,North Dakota,16,0.455,,,
+2014,Annual,Income Disparity,Ohio,27,0.465,,,
+2014,Annual,Income Disparity,Oklahoma,24,0.462,,,
+2014,Annual,Income Disparity,Oregon,21,0.46,,,
+2014,Annual,Income Disparity,Pennsylvania,33,0.47,,,
+2014,Annual,Income Disparity,Rhode Island,37,0.477,,,
+2014,Annual,Income Disparity,South Carolina,29,0.467,,,
+2014,Annual,Income Disparity,South Dakota,7,0.443,,,
+2014,Annual,Income Disparity,Tennessee,39,0.478,,,
+2014,Annual,Income Disparity,Texas,42,0.481,,,
+2014,Annual,Income Disparity,Utah,3,0.426,,,
+2014,Annual,Income Disparity,Vermont,14,0.454,,,
+2014,Annual,Income Disparity,Virginia,29,0.467,,,
+2014,Annual,Income Disparity,Washington,19,0.457,,,
+2014,Annual,Income Disparity,West Virginia,27,0.465,,,
+2014,Annual,Income Disparity,Wisconsin,9,0.445,,,
+2014,Annual,Income Disparity,Wyoming,2,0.418,,,
+2014,Annual,Income Disparity,United States,,0.481,,,
+2014,Annual,Income Disparity,District of Columbia,,0.532,,,
+2014,Annual,Income Disparity Ratio,Alabama,8,5.18,0.54,,
+2014,Annual,Income Disparity Ratio,Alaska,49,3.95,-2,,
+2014,Annual,Income Disparity Ratio,Arizona,24,4.65,-0.71,,
+2014,Annual,Income Disparity Ratio,Arkansas,17,4.82,-0.31,,
+2014,Annual,Income Disparity Ratio,California,5,5.25,0.71,,
+2014,Annual,Income Disparity Ratio,Colorado,34,4.51,-1.04,,
+2014,Annual,Income Disparity Ratio,Connecticut,10,5.14,0.45,,
+2014,Annual,Income Disparity Ratio,Delaware,38,4.39,-1.32,,
+2014,Annual,Income Disparity Ratio,Florida,24,4.65,-0.71,,
+2014,Annual,Income Disparity Ratio,Georgia,12,5.03,0.19,,
+2014,Annual,Income Disparity Ratio,Hawaii,36,4.41,-1.28,,
+2014,Annual,Income Disparity Ratio,Idaho,48,4.03,-2,,
+2014,Annual,Income Disparity Ratio,Illinois,13,5,0.12,,
+2014,Annual,Income Disparity Ratio,Indiana,35,4.43,-1.23,,
+2014,Annual,Income Disparity Ratio,Iowa,44,4.25,-1.65,,
+2014,Annual,Income Disparity Ratio,Kansas,37,4.4,-1.3,,
+2014,Annual,Income Disparity Ratio,Kentucky,11,5.07,0.28,,
+2014,Annual,Income Disparity Ratio,Louisiana,1,5.68,1.72,,
+2014,Annual,Income Disparity Ratio,Maine,32,4.55,-0.94,,
+2014,Annual,Income Disparity Ratio,Maryland,33,4.54,-0.97,,
+2014,Annual,Income Disparity Ratio,Massachusetts,3,5.43,1.13,,
+2014,Annual,Income Disparity Ratio,Michigan,20,4.75,-0.47,,
+2014,Annual,Income Disparity Ratio,Minnesota,40,4.36,-1.39,,
+2014,Annual,Income Disparity Ratio,Mississippi,4,5.4,1.06,,
+2014,Annual,Income Disparity Ratio,Missouri,29,4.57,-0.9,,
+2014,Annual,Income Disparity Ratio,Montana,31,4.56,-0.92,,
+2014,Annual,Income Disparity Ratio,Nebraska,45,4.23,-1.7,,
+2014,Annual,Income Disparity Ratio,Nevada,39,4.38,-1.35,,
+2014,Annual,Income Disparity Ratio,New Hampshire,43,4.26,-1.63,,
+2014,Annual,Income Disparity Ratio,New Jersey,7,5.2,0.59,,
+2014,Annual,Income Disparity Ratio,New Mexico,6,5.23,0.66,,
+2014,Annual,Income Disparity Ratio,New York,2,5.65,1.65,,
+2014,Annual,Income Disparity Ratio,North Carolina,23,4.71,-0.57,,
+2014,Annual,Income Disparity Ratio,North Dakota,42,4.35,-1.42,,
+2014,Annual,Income Disparity Ratio,Ohio,20,4.75,-0.47,,
+2014,Annual,Income Disparity Ratio,Oklahoma,29,4.57,-0.9,,
+2014,Annual,Income Disparity Ratio,Oregon,28,4.62,-0.78,,
+2014,Annual,Income Disparity Ratio,Pennsylvania,18,4.81,-0.33,,
+2014,Annual,Income Disparity Ratio,Rhode Island,9,5.16,0.5,,
+2014,Annual,Income Disparity Ratio,South Carolina,15,4.9,-0.12,,
+2014,Annual,Income Disparity Ratio,South Dakota,47,4.05,-2,,
+2014,Annual,Income Disparity Ratio,Tennessee,20,4.75,-0.47,,
+2014,Annual,Income Disparity Ratio,Texas,14,4.94,-0.02,,
+2014,Annual,Income Disparity Ratio,Utah,50,3.91,-2,,
+2014,Annual,Income Disparity Ratio,Vermont,26,4.64,-0.73,,
+2014,Annual,Income Disparity Ratio,Virginia,19,4.8,-0.35,,
+2014,Annual,Income Disparity Ratio,Washington,27,4.63,-0.76,,
+2014,Annual,Income Disparity Ratio,West Virginia,15,4.9,-0.12,,
+2014,Annual,Income Disparity Ratio,Wisconsin,40,4.36,-1.39,,
+2014,Annual,Income Disparity Ratio,Wyoming,46,4.17,-1.84,,
+2014,Annual,Income Disparity Ratio,United States,,4.95,,,
+2014,Annual,Income Disparity Ratio,District of Columbia,,7.17,,,
+2014,Annual,Infant Mortality,Alabama,49,8.6,2,,
+2014,Annual,Infant Mortality,Alaska,2,4.5,-1.27,,
+2014,Annual,Infant Mortality,Arizona,20,5.9,-0.085,,
+2014,Annual,Infant Mortality,Arkansas,39,7.2,1.016,,
+2014,Annual,Infant Mortality,California,4,4.6,-1.185,,
+2014,Annual,Infant Mortality,Colorado,11,5.1,-0.762,,
+2014,Annual,Infant Mortality,Connecticut,11,5.1,-0.762,,
+2014,Annual,Infant Mortality,Delaware,47,8.2,1.862,,
+2014,Annual,Infant Mortality,Florida,25,6.3,0.254,,
+2014,Annual,Infant Mortality,Georgia,31,6.6,0.508,,
+2014,Annual,Infant Mortality,Hawaii,11,5.1,-0.762,,
+2014,Annual,Infant Mortality,Idaho,16,5.2,-0.677,,
+2014,Annual,Infant Mortality,Illinois,29,6.5,0.423,,
+2014,Annual,Infant Mortality,Indiana,39,7.2,1.016,,
+2014,Annual,Infant Mortality,Iowa,9,5,-0.847,,
+2014,Annual,Infant Mortality,Kansas,25,6.3,0.254,,
+2014,Annual,Infant Mortality,Kentucky,35,6.7,0.593,,
+2014,Annual,Infant Mortality,Louisiana,47,8.2,1.862,,
+2014,Annual,Infant Mortality,Maine,31,6.6,0.508,,
+2014,Annual,Infant Mortality,Maryland,31,6.6,0.508,,
+2014,Annual,Infant Mortality,Massachusetts,1,4.2,-1.524,,
+2014,Annual,Infant Mortality,Michigan,35,6.7,0.593,,
+2014,Annual,Infant Mortality,Minnesota,7,4.9,-0.931,,
+2014,Annual,Infant Mortality,Mississippi,50,9.1,2,,
+2014,Annual,Infant Mortality,Missouri,29,6.5,0.423,,
+2014,Annual,Infant Mortality,Montana,20,5.9,-0.085,,
+2014,Annual,Infant Mortality,Nebraska,11,5.1,-0.762,,
+2014,Annual,Infant Mortality,Nevada,18,5.3,-0.593,,
+2014,Annual,Infant Mortality,New Hampshire,2,4.5,-1.27,,
+2014,Annual,Infant Mortality,New Jersey,6,4.8,-1.016,,
+2014,Annual,Infant Mortality,New Mexico,24,6.1,0.085,,
+2014,Annual,Infant Mortality,New York,11,5.1,-0.762,,
+2014,Annual,Infant Mortality,North Carolina,41,7.3,1.101,,
+2014,Annual,Infant Mortality,North Dakota,25,6.3,0.254,,
+2014,Annual,Infant Mortality,Ohio,46,7.7,1.439,,
+2014,Annual,Infant Mortality,Oklahoma,43,7.4,1.185,,
+2014,Annual,Infant Mortality,Oregon,9,5,-0.847,,
+2014,Annual,Infant Mortality,Pennsylvania,35,6.7,0.593,,
+2014,Annual,Infant Mortality,Rhode Island,28,6.4,0.339,,
+2014,Annual,Infant Mortality,South Carolina,44,7.5,1.27,,
+2014,Annual,Infant Mortality,South Dakota,44,7.5,1.27,,
+2014,Annual,Infant Mortality,Tennessee,41,7.3,1.101,,
+2014,Annual,Infant Mortality,Texas,19,5.8,-0.169,,
+2014,Annual,Infant Mortality,Utah,16,5.2,-0.677,,
+2014,Annual,Infant Mortality,Vermont,4,4.6,-1.185,,
+2014,Annual,Infant Mortality,Virginia,31,6.6,0.508,,
+2014,Annual,Infant Mortality,Washington,7,4.9,-0.931,,
+2014,Annual,Infant Mortality,West Virginia,38,7,0.847,,
+2014,Annual,Infant Mortality,Wisconsin,23,6,0,,
+2014,Annual,Infant Mortality,Wyoming,20,5.9,-0.085,,
+2014,Annual,Infant Mortality,United States,,6,,,
+2014,Annual,Infant Mortality,District of Columbia,,7.8,,,
+2014,Annual,Infectious Disease,Alabama,45,,0.65,,
+2014,Annual,Infectious Disease,Alaska,46,,0.72,,
+2014,Annual,Infectious Disease,Arizona,24,,-0.1,,
+2014,Annual,Infectious Disease,Arkansas,49,,0.9,,
+2014,Annual,Infectious Disease,California,11,,-0.4,,
+2014,Annual,Infectious Disease,Colorado,20,,-0.22,,
+2014,Annual,Infectious Disease,Connecticut,6,,-0.59,,
+2014,Annual,Infectious Disease,Delaware,26,,-0.06,,
+2014,Annual,Infectious Disease,Florida,40,,0.37,,
+2014,Annual,Infectious Disease,Georgia,42,,0.45,,
+2014,Annual,Infectious Disease,Hawaii,36,,0.18,,
+2014,Annual,Infectious Disease,Idaho,2,,-0.85,,
+2014,Annual,Infectious Disease,Illinois,35,,0.13,,
+2014,Annual,Infectious Disease,Indiana,14,,-0.33,,
+2014,Annual,Infectious Disease,Iowa,41,,0.39,,
+2014,Annual,Infectious Disease,Kansas,27,,-0.01,,
+2014,Annual,Infectious Disease,Kentucky,21,,-0.2,,
+2014,Annual,Infectious Disease,Louisiana,48,,0.88,,
+2014,Annual,Infectious Disease,Maine,17,,-0.28,,
+2014,Annual,Infectious Disease,Maryland,23,,-0.16,,
+2014,Annual,Infectious Disease,Massachusetts,10,,-0.42,,
+2014,Annual,Infectious Disease,Michigan,15,,-0.3,,
+2014,Annual,Infectious Disease,Minnesota,38,,0.22,,
+2014,Annual,Infectious Disease,Mississippi,50,,1.17,,
+2014,Annual,Infectious Disease,Missouri,30,,0.02,,
+2014,Annual,Infectious Disease,Montana,32,,0.03,,
+2014,Annual,Infectious Disease,Nebraska,19,,-0.22,,
+2014,Annual,Infectious Disease,Nevada,4,,-0.69,,
+2014,Annual,Infectious Disease,New Hampshire,3,,-0.8,,
+2014,Annual,Infectious Disease,New Jersey,5,,-0.59,,
+2014,Annual,Infectious Disease,New Mexico,44,,0.65,,
+2014,Annual,Infectious Disease,New York,31,,0.02,,
+2014,Annual,Infectious Disease,North Carolina,39,,0.3,,
+2014,Annual,Infectious Disease,North Dakota,22,,-0.19,,
+2014,Annual,Infectious Disease,Ohio,13,,-0.33,,
+2014,Annual,Infectious Disease,Oklahoma,25,,-0.07,,
+2014,Annual,Infectious Disease,Oregon,7,,-0.49,,
+2014,Annual,Infectious Disease,Pennsylvania,18,,-0.23,,
+2014,Annual,Infectious Disease,Rhode Island,9,,-0.47,,
+2014,Annual,Infectious Disease,South Carolina,47,,0.77,,
+2014,Annual,Infectious Disease,South Dakota,33,,0.1,,
+2014,Annual,Infectious Disease,Tennessee,29,,0.01,,
+2014,Annual,Infectious Disease,Texas,34,,0.11,,
+2014,Annual,Infectious Disease,Utah,12,,-0.35,,
+2014,Annual,Infectious Disease,Vermont,28,,0.01,,
+2014,Annual,Infectious Disease,Virginia,16,,-0.29,,
+2014,Annual,Infectious Disease,Washington,37,,0.19,,
+2014,Annual,Infectious Disease,West Virginia,1,,-0.93,,
+2014,Annual,Infectious Disease,Wisconsin,43,,0.48,,
+2014,Annual,Infectious Disease,Wyoming,8,,-0.47,,
+2014,Annual,Infectious Disease,United States,,,,,
+2014,Annual,Infectious Disease,District of Columbia,,,,,
+2014,Annual,Insufficient Sleep,Alabama,37,37.5,0.62,39.3,35.7
+2014,Annual,Insufficient Sleep,Alaska,26,35.3,0,37.3,33.2
+2014,Annual,Insufficient Sleep,Arizona,23,34.6,-0.2,37.3,32
+2014,Annual,Insufficient Sleep,Arkansas,29,36.1,0.23,38,34.1
+2014,Annual,Insufficient Sleep,California,21,33.7,-0.45,34.9,32.5
+2014,Annual,Insufficient Sleep,Colorado,2,29,-1.78,30.1,28
+2014,Annual,Insufficient Sleep,Connecticut,25,34.9,-0.11,36.4,33.3
+2014,Annual,Insufficient Sleep,Delaware,32,36.5,0.34,38.4,34.7
+2014,Annual,Insufficient Sleep,Florida,33,36.8,0.42,38,35.6
+2014,Annual,Insufficient Sleep,Georgia,42,38.3,0.85,39.8,36.8
+2014,Annual,Insufficient Sleep,Hawaii,50,41.5,1.75,43.1,39.9
+2014,Annual,Insufficient Sleep,Idaho,10,31.5,-1.07,33.3,29.7
+2014,Annual,Insufficient Sleep,Illinois,22,33.9,-0.39,35.7,32.1
+2014,Annual,Insufficient Sleep,Indiana,31,36.2,0.25,37.4,34.9
+2014,Annual,Insufficient Sleep,Iowa,6,30.9,-1.24,32.3,29.5
+2014,Annual,Insufficient Sleep,Kansas,3,29.2,-1.72,30,28.5
+2014,Annual,Insufficient Sleep,Kentucky,49,41.2,1.66,42.6,39.7
+2014,Annual,Insufficient Sleep,Louisiana,34,37,0.48,39.2,34.8
+2014,Annual,Insufficient Sleep,Maine,15,32.4,-0.82,33.8,31
+2014,Annual,Insufficient Sleep,Maryland,44,38.8,0.99,40.2,37.5
+2014,Annual,Insufficient Sleep,Massachusetts,24,34.7,-0.17,35.9,33.5
+2014,Annual,Insufficient Sleep,Michigan,41,38,0.76,39.2,36.8
+2014,Annual,Insufficient Sleep,Minnesota,11,31.7,-1.01,33.2,30.3
+2014,Annual,Insufficient Sleep,Mississippi,29,36.1,0.23,37.8,34.5
+2014,Annual,Insufficient Sleep,Missouri,18,32.8,-0.7,34.6,31.1
+2014,Annual,Insufficient Sleep,Montana,6,30.9,-1.24,32.2,29.6
+2014,Annual,Insufficient Sleep,Nebraska,13,31.8,-0.99,33,30.6
+2014,Annual,Insufficient Sleep,Nevada,27,35.4,0.03,37.9,32.9
+2014,Annual,Insufficient Sleep,New Hampshire,14,32.3,-0.85,33.8,30.7
+2014,Annual,Insufficient Sleep,New Jersey,45,39.3,1.13,40.6,38.1
+2014,Annual,Insufficient Sleep,New Mexico,15,32.4,-0.82,33.8,31
+2014,Annual,Insufficient Sleep,New York,48,40.1,1.35,41.4,38.7
+2014,Annual,Insufficient Sleep,North Carolina,28,35.6,0.08,36.9,34.2
+2014,Annual,Insufficient Sleep,North Dakota,5,29.5,-1.63,31,28
+2014,Annual,Insufficient Sleep,Ohio,46,39.7,1.24,41,38.3
+2014,Annual,Insufficient Sleep,Oklahoma,35,37.3,0.56,38.7,35.8
+2014,Annual,Insufficient Sleep,Oregon,6,30.9,-1.24,32.6,29.3
+2014,Annual,Insufficient Sleep,Pennsylvania,36,37.4,0.59,38.7,36.2
+2014,Annual,Insufficient Sleep,Rhode Island,40,37.9,0.73,39.6,36.2
+2014,Annual,Insufficient Sleep,South Carolina,37,37.5,0.62,38.8,36.1
+2014,Annual,Insufficient Sleep,South Dakota,1,27.1,-2,28.9,25.3
+2014,Annual,Insufficient Sleep,Tennessee,42,38.3,0.85,40.1,36.4
+2014,Annual,Insufficient Sleep,Texas,17,32.7,-0.73,34.1,31.3
+2014,Annual,Insufficient Sleep,Utah,19,32.9,-0.68,34,31.8
+2014,Annual,Insufficient Sleep,Vermont,9,31,-1.21,32.5,29.5
+2014,Annual,Insufficient Sleep,Virginia,37,37.5,0.62,38.9,36.1
+2014,Annual,Insufficient Sleep,Washington,19,32.9,-0.68,34.1,31.7
+2014,Annual,Insufficient Sleep,West Virginia,47,40,1.32,41.5,38.4
+2014,Annual,Insufficient Sleep,Wisconsin,11,31.7,-1.01,33.5,29.9
+2014,Annual,Insufficient Sleep,Wyoming,3,29.2,-1.72,30.8,27.5
+2014,Annual,Insufficient Sleep,United States,,35.3,,35.9,35.3
+2014,Annual,Insufficient Sleep,District of Columbia,,35.8,,38.1,33.6
+2014,Annual,Lack of Health Insurance,Alabama,25,13.4,-0.3,,
+2014,Annual,Lack of Health Insurance,Alaska,47,19.5,1.23,,
+2014,Annual,Lack of Health Insurance,Arizona,42,17.3,0.68,,
+2014,Annual,Lack of Health Insurance,Arkansas,36,16.2,0.4,,
+2014,Annual,Lack of Health Insurance,California,43,17.5,0.73,,
+2014,Annual,Lack of Health Insurance,Colorado,32,14.4,-0.05,,
+2014,Annual,Lack of Health Insurance,Connecticut,8,9.3,-1.33,,
+2014,Annual,Lack of Health Insurance,Delaware,6,9.0,-1.41,,
+2014,Annual,Lack of Health Insurance,Florida,48,20.0,1.36,,
+2014,Annual,Lack of Health Insurance,Georgia,46,18.6,1.01,,
+2014,Annual,Lack of Health Insurance,Hawaii,2,6.8,-1.96,,
+2014,Annual,Lack of Health Insurance,Idaho,36,16.2,0.4,,
+2014,Annual,Lack of Health Insurance,Illinois,22,12.8,-0.45,,
+2014,Annual,Lack of Health Insurance,Indiana,28,14.1,-0.13,,
+2014,Annual,Lack of Health Insurance,Iowa,5,8.3,-1.58,,
+2014,Annual,Lack of Health Insurance,Kansas,20,12.4,-0.55,,
+2014,Annual,Lack of Health Insurance,Kentucky,28,14.1,-0.13,,
+2014,Annual,Lack of Health Insurance,Louisiana,39,16.7,0.53,,
+2014,Annual,Lack of Health Insurance,Maine,12,10.7,-0.98,,
+2014,Annual,Lack of Health Insurance,Maryland,10,10.2,-1.11,,
+2014,Annual,Lack of Health Insurance,Massachusetts,1,3.8,-2,,
+2014,Annual,Lack of Health Insurance,Michigan,15,11.2,-0.85,,
+2014,Annual,Lack of Health Insurance,Minnesota,4,8.1,-1.63,,
+2014,Annual,Lack of Health Insurance,Mississippi,40,17.1,0.63,,
+2014,Annual,Lack of Health Insurance,Missouri,24,13.3,-0.33,,
+2014,Annual,Lack of Health Insurance,Montana,41,17.2,0.65,,
+2014,Annual,Lack of Health Insurance,Nebraska,16,11.3,-0.83,,
+2014,Annual,Lack of Health Insurance,Nevada,49,21.4,1.71,,
+2014,Annual,Lack of Health Insurance,New Hampshire,12,10.7,-0.98,,
+2014,Annual,Lack of Health Insurance,New Jersey,23,13.0,-0.4,,
+2014,Annual,Lack of Health Insurance,New Mexico,45,18.5,0.98,,
+2014,Annual,Lack of Health Insurance,New York,14,10.8,-0.96,,
+2014,Annual,Lack of Health Insurance,North Carolina,35,16.1,0.38,,
+2014,Annual,Lack of Health Insurance,North Dakota,10,10.2,-1.11,,
+2014,Annual,Lack of Health Insurance,Ohio,16,11.3,-0.83,,
+2014,Annual,Lack of Health Insurance,Oklahoma,44,18.0,0.85,,
+2014,Annual,Lack of Health Insurance,Oregon,34,14.8,0.05,,
+2014,Annual,Lack of Health Insurance,Pennsylvania,9,9.7,-1.23,,
+2014,Annual,Lack of Health Insurance,Rhode Island,16,11.3,-0.83,,
+2014,Annual,Lack of Health Insurance,South Carolina,38,16.3,0.43,,
+2014,Annual,Lack of Health Insurance,South Dakota,19,11.4,-0.8,,
+2014,Annual,Lack of Health Insurance,Tennessee,26,13.9,-0.18,,
+2014,Annual,Lack of Health Insurance,Texas,50,22.3,1.94,,
+2014,Annual,Lack of Health Insurance,Utah,30,14.2,-0.1,,
+2014,Annual,Lack of Health Insurance,Vermont,2,6.8,-1.96,,
+2014,Annual,Lack of Health Insurance,Virginia,20,12.4,-0.55,,
+2014,Annual,Lack of Health Insurance,Washington,26,13.9,-0.18,,
+2014,Annual,Lack of Health Insurance,West Virginia,30,14.2,-0.1,,
+2014,Annual,Lack of Health Insurance,Wisconsin,6,9.0,-1.41,,
+2014,Annual,Lack of Health Insurance,Wyoming,32,14.4,-0.05,,
+2014,Annual,Lack of Health Insurance,United States,,14.6,,,
+2014,Annual,Lack of Health Insurance,District of Columbia,,6.3,,,
+2014,Annual,Low Birthweight,Alabama,48,10,1.61,,
+2014,Annual,Low Birthweight,Alaska,1,5.7,-1.851,,
+2014,Annual,Low Birthweight,Arizona,14,6.9,-0.885,,
+2014,Annual,Low Birthweight,Arkansas,38,8.7,0.563,,
+2014,Annual,Low Birthweight,California,10,6.7,-1.046,,
+2014,Annual,Low Birthweight,Colorado,40,8.8,0.644,,
+2014,Annual,Low Birthweight,Connecticut,21,7.9,-0.08,,
+2014,Annual,Low Birthweight,Delaware,32,8.3,0.241,,
+2014,Annual,Low Birthweight,Florida,36,8.6,0.483,,
+2014,Annual,Low Birthweight,Georgia,46,9.3,1.046,,
+2014,Annual,Low Birthweight,Hawaii,27,8.1,0.08,,
+2014,Annual,Low Birthweight,Idaho,7,6.4,-1.288,,
+2014,Annual,Low Birthweight,Illinois,27,8.1,0.08,,
+2014,Annual,Low Birthweight,Indiana,21,7.9,-0.08,,
+2014,Annual,Low Birthweight,Iowa,10,6.7,-1.046,,
+2014,Annual,Low Birthweight,Kansas,15,7.1,-0.724,,
+2014,Annual,Low Birthweight,Kentucky,38,8.7,0.563,,
+2014,Annual,Low Birthweight,Louisiana,49,10.8,2,,
+2014,Annual,Low Birthweight,Maine,8,6.6,-1.127,,
+2014,Annual,Low Birthweight,Maryland,40,8.8,0.644,,
+2014,Annual,Low Birthweight,Massachusetts,19,7.6,-0.322,,
+2014,Annual,Low Birthweight,Michigan,34,8.4,0.322,,
+2014,Annual,Low Birthweight,Minnesota,8,6.6,-1.127,,
+2014,Annual,Low Birthweight,Mississippi,50,11.6,2,,
+2014,Annual,Low Birthweight,Missouri,20,7.7,-0.241,,
+2014,Annual,Low Birthweight,Montana,18,7.4,-0.483,,
+2014,Annual,Low Birthweight,Nebraska,10,6.7,-1.046,,
+2014,Annual,Low Birthweight,Nevada,24,8,0,,
+2014,Annual,Low Birthweight,New Hampshire,17,7.3,-0.563,,
+2014,Annual,Low Birthweight,New Jersey,31,8.2,0.161,,
+2014,Annual,Low Birthweight,New Mexico,40,8.8,0.644,,
+2014,Annual,Low Birthweight,New York,21,7.9,-0.08,,
+2014,Annual,Low Birthweight,North Carolina,40,8.8,0.644,,
+2014,Annual,Low Birthweight,North Dakota,4,6.2,-1.449,,
+2014,Annual,Low Birthweight,Ohio,36,8.6,0.483,,
+2014,Annual,Low Birthweight,Oklahoma,24,8,0,,
+2014,Annual,Low Birthweight,Oregon,2,6.1,-1.529,,
+2014,Annual,Low Birthweight,Pennsylvania,27,8.1,0.08,,
+2014,Annual,Low Birthweight,Rhode Island,24,8,0,,
+2014,Annual,Low Birthweight,South Carolina,47,9.6,1.288,,
+2014,Annual,Low Birthweight,South Dakota,4,6.2,-1.449,,
+2014,Annual,Low Birthweight,Tennessee,44,9.2,0.966,,
+2014,Annual,Low Birthweight,Texas,32,8.3,0.241,,
+2014,Annual,Low Birthweight,Utah,13,6.8,-0.966,,
+2014,Annual,Low Birthweight,Vermont,4,6.2,-1.449,,
+2014,Annual,Low Birthweight,Virginia,27,8.1,0.08,,
+2014,Annual,Low Birthweight,Washington,2,6.1,-1.529,,
+2014,Annual,Low Birthweight,West Virginia,44,9.2,0.966,,
+2014,Annual,Low Birthweight,Wisconsin,15,7.1,-0.724,,
+2014,Annual,Low Birthweight,Wyoming,35,8.5,0.402,,
+2014,Annual,Low Birthweight,United States,,8,,,
+2014,Annual,Low Birthweight,District of Columbia,,9.6,,,
+2014,Annual,Median Household Income,Alabama,,41381,,,
+2014,Annual,Median Household Income,Alaska,,61137,,,
+2014,Annual,Median Household Income,Arizona,,50602,,,
+2014,Annual,Median Household Income,Arkansas,,39919,,,
+2014,Annual,Median Household Income,California,,57528,,,
+2014,Annual,Median Household Income,Colorado,,63371,,,
+2014,Annual,Median Household Income,Connecticut,,67781,,,
+2014,Annual,Median Household Income,Delaware,,52219,,,
+2014,Annual,Median Household Income,Florida,,47886,,,
+2014,Annual,Median Household Income,Georgia,,47439,,,
+2014,Annual,Median Household Income,Hawaii,,61408,,,
+2014,Annual,Median Household Income,Idaho,,51767,,,
+2014,Annual,Median Household Income,Illinois,,57196,,,
+2014,Annual,Median Household Income,Indiana,,50553,,,
+2014,Annual,Median Household Income,Iowa,,54855,,,
+2014,Annual,Median Household Income,Kansas,,51485,,,
+2014,Annual,Median Household Income,Kentucky,,42158,,,
+2014,Annual,Median Household Income,Louisiana,,39622,,,
+2014,Annual,Median Household Income,Maine,,50121,,,
+2014,Annual,Median Household Income,Maryland,,65262,,,
+2014,Annual,Median Household Income,Massachusetts,,62963,,,
+2014,Annual,Median Household Income,Michigan,,48801,,,
+2014,Annual,Median Household Income,Minnesota,,60907,,,
+2014,Annual,Median Household Income,Mississippi,,40850,,,
+2014,Annual,Median Household Income,Missouri,,50311,,,
+2014,Annual,Median Household Income,Montana,,44132,,,
+2014,Annual,Median Household Income,Nebraska,,53774,,,
+2014,Annual,Median Household Income,Nevada,,45369,,,
+2014,Annual,Median Household Income,New Hampshire,,71322,,,
+2014,Annual,Median Household Income,New Jersey,,61782,,,
+2014,Annual,Median Household Income,New Mexico,,42127,,,
+2014,Annual,Median Household Income,New York,,53843,,,
+2014,Annual,Median Household Income,North Carolina,,41208,,,
+2014,Annual,Median Household Income,North Dakota,,52888,,,
+2014,Annual,Median Household Income,Ohio,,46398,,,
+2014,Annual,Median Household Income,Oklahoma,,43777,,,
+2014,Annual,Median Household Income,Oregon,,56307,,,
+2014,Annual,Median Household Income,Pennsylvania,,53952,,,
+2014,Annual,Median Household Income,Rhode Island,,57812,,,
+2014,Annual,Median Household Income,South Carolina,,43749,,,
+2014,Annual,Median Household Income,South Dakota,,54453,,,
+2014,Annual,Median Household Income,Tennessee,,42499,,,
+2014,Annual,Median Household Income,Texas,,53027,,,
+2014,Annual,Median Household Income,Utah,,62967,,,
+2014,Annual,Median Household Income,Vermont,,54842,,,
+2014,Annual,Median Household Income,Virginia,,67620,,,
+2014,Annual,Median Household Income,Washington,,60106,,,
+2014,Annual,Median Household Income,West Virginia,,40241,,,
+2014,Annual,Median Household Income,Wisconsin,,55258,,,
+2014,Annual,Median Household Income,Wyoming,,55700,,,
+2014,Annual,Median Household Income,United States,,51939,,,
+2014,Annual,Median Household Income,District of Columbia,,60675,,,
+2014,Annual,Median Household Income,Alabama,45,41381,-1.27,,
+2014,Annual,Median Household Income,Alaska,10,61137,1.11,,
+2014,Annual,Median Household Income,Arizona,30,50602,-0.16,,
+2014,Annual,Median Household Income,Arkansas,49,39919,-1.45,,
+2014,Annual,Median Household Income,California,14,57528,0.67,,
+2014,Annual,Median Household Income,Colorado,5,63371,1.38,,
+2014,Annual,Median Household Income,Connecticut,2,67781,1.91,,
+2014,Annual,Median Household Income,Delaware,27,52219,0.03,,
+2014,Annual,Median Household Income,Florida,35,47886,-0.49,,
+2014,Annual,Median Household Income,Georgia,36,47439,-0.54,,
+2014,Annual,Median Household Income,Hawaii,9,61408,1.14,,
+2014,Annual,Median Household Income,Idaho,28,51767,-0.02,,
+2014,Annual,Median Household Income,Illinois,15,57196,0.63,,
+2014,Annual,Median Household Income,Indiana,31,50553,-0.17,,
+2014,Annual,Median Household Income,Iowa,19,54855,0.35,,
+2014,Annual,Median Household Income,Kansas,29,51485,-0.05,,
+2014,Annual,Median Household Income,Kentucky,43,42158,-1.18,,
+2014,Annual,Median Household Income,Louisiana,50,39622,-1.48,,
+2014,Annual,Median Household Income,Maine,33,50121,-0.22,,
+2014,Annual,Median Household Income,Maryland,4,65262,1.6,,
+2014,Annual,Median Household Income,Massachusetts,7,62963,1.33,,
+2014,Annual,Median Household Income,Michigan,34,48801,-0.38,,
+2014,Annual,Median Household Income,Minnesota,11,60907,1.08,,
+2014,Annual,Median Household Income,Mississippi,47,40850,-1.34,,
+2014,Annual,Median Household Income,Missouri,32,50311,-0.2,,
+2014,Annual,Median Household Income,Montana,39,44132,-0.94,,
+2014,Annual,Median Household Income,Nebraska,24,53774,0.22,,
+2014,Annual,Median Household Income,Nevada,38,45369,-0.79,,
+2014,Annual,Median Household Income,New Hampshire,1,71322,2,,
+2014,Annual,Median Household Income,New Jersey,8,61782,1.19,,
+2014,Annual,Median Household Income,New Mexico,44,42127,-1.18,,
+2014,Annual,Median Household Income,New York,23,53843,0.23,,
+2014,Annual,Median Household Income,North Carolina,46,41208,-1.29,,
+2014,Annual,Median Household Income,North Dakota,26,52888,0.11,,
+2014,Annual,Median Household Income,Ohio,37,46398,-0.67,,
+2014,Annual,Median Household Income,Oklahoma,40,43777,-0.98,,
+2014,Annual,Median Household Income,Oregon,16,56307,0.53,,
+2014,Annual,Median Household Income,Pennsylvania,22,53952,0.24,,
+2014,Annual,Median Household Income,Rhode Island,13,57812,0.71,,
+2014,Annual,Median Household Income,South Carolina,41,43749,-0.99,,
+2014,Annual,Median Household Income,South Dakota,21,54453,0.3,,
+2014,Annual,Median Household Income,Tennessee,42,42499,-1.14,,
+2014,Annual,Median Household Income,Texas,25,53027,0.13,,
+2014,Annual,Median Household Income,Utah,6,62967,1.33,,
+2014,Annual,Median Household Income,Vermont,20,54842,0.35,,
+2014,Annual,Median Household Income,Virginia,3,67620,1.89,,
+2014,Annual,Median Household Income,Washington,12,60106,0.98,,
+2014,Annual,Median Household Income,West Virginia,48,40241,-1.41,,
+2014,Annual,Median Household Income,Wisconsin,18,55258,0.4,,
+2014,Annual,Median Household Income,Wyoming,17,55700,0.45,,
+2014,Annual,Median Household Income,United States,,51939,,,
+2014,Annual,Median Household Income,District of Columbia,,60675,,,
+2014,Annual,Obesity,Alabama,43,32.4,0.89,34.1,30.8
+2014,Annual,Obesity,Alaska,23,28.4,-0.3,30.3,26.5
+2014,Annual,Obesity,Arizona,17,26.8,-0.77,29.3,24.2
+2014,Annual,Obesity,Arkansas,48,34.6,1.54,36.6,32.7
+2014,Annual,Obesity,California,4,24.1,-1.57,25.2,23
+2014,Annual,Obesity,Colorado,1,21.3,-2,22.2,20.3
+2014,Annual,Obesity,Connecticut,8,24.9,-1.34,26.4,23.5
+2014,Annual,Obesity,Delaware,37,31,0.47,32.8,29.3
+2014,Annual,Obesity,Florida,13,26.4,-0.89,27.4,25.3
+2014,Annual,Obesity,Georgia,33,30.3,0.27,31.7,28.9
+2014,Annual,Obesity,Hawaii,2,21.8,-2,23.2,20.4
+2014,Annual,Obesity,Idaho,27,29.6,0.06,31.4,27.8
+2014,Annual,Obesity,Illinois,25,29.4,0,31.1,27.6
+2014,Annual,Obesity,Indiana,42,31.8,0.71,33.1,30.6
+2014,Annual,Obesity,Iowa,39,31.3,0.56,32.7,29.9
+2014,Annual,Obesity,Kansas,31,30,0.18,30.7,29.2
+2014,Annual,Obesity,Kentucky,46,33.2,1.13,34.6,31.8
+2014,Annual,Obesity,Louisiana,45,33.1,1.1,35.2,31
+2014,Annual,Obesity,Maine,24,28.9,-0.15,30.2,27.5
+2014,Annual,Obesity,Maryland,22,28.3,-0.33,29.5,27
+2014,Annual,Obesity,Massachusetts,3,23.6,-1.72,24.8,22.5
+2014,Annual,Obesity,Michigan,40,31.5,0.62,32.6,30.3
+2014,Annual,Obesity,Minnesota,10,25.5,-1.16,26.8,24.1
+2014,Annual,Obesity,Mississippi,49,35.1,1.69,36.7,33.5
+2014,Annual,Obesity,Missouri,34,30.4,0.3,32.1,28.8
+2014,Annual,Obesity,Montana,6,24.6,-1.42,25.8,23.4
+2014,Annual,Obesity,Nebraska,27,29.6,0.06,30.7,28.4
+2014,Annual,Obesity,Nevada,11,26.2,-0.95,28.5,24
+2014,Annual,Obesity,New Hampshire,16,26.7,-0.8,28.2,25.2
+2014,Annual,Obesity,New Jersey,12,26.3,-0.92,27.5,25.1
+2014,Annual,Obesity,New Mexico,13,26.4,-0.89,27.7,25.1
+2014,Annual,Obesity,New York,9,25.4,-1.19,26.6,24.2
+2014,Annual,Obesity,North Carolina,25,29.4,0,30.7,28
+2014,Annual,Obesity,North Dakota,37,31,0.47,32.5,29.5
+2014,Annual,Obesity,Ohio,34,30.4,0.3,31.6,29.1
+2014,Annual,Obesity,Oklahoma,44,32.5,0.92,33.9,31.1
+2014,Annual,Obesity,Oregon,15,26.5,-0.86,28,24.9
+2014,Annual,Obesity,Pennsylvania,31,30,0.18,31.2,28.8
+2014,Annual,Obesity,Rhode Island,20,27.3,-0.62,28.8,25.8
+2014,Annual,Obesity,South Carolina,41,31.7,0.68,33,30.4
+2014,Annual,Obesity,South Dakota,30,29.9,0.15,31.7,28
+2014,Annual,Obesity,Tennessee,47,33.7,1.28,35.5,31.8
+2014,Annual,Obesity,Texas,36,30.9,0.45,32.3,29.5
+2014,Annual,Obesity,Utah,4,24.1,-1.57,25.1,23.2
+2014,Annual,Obesity,Vermont,7,24.7,-1.39,26.1,23.3
+2014,Annual,Obesity,Virginia,18,27.2,-0.65,28.5,25.9
+2014,Annual,Obesity,Washington,18,27.2,-0.65,28.3,26
+2014,Annual,Obesity,West Virginia,49,35.1,1.69,36.6,33.6
+2014,Annual,Obesity,Wisconsin,29,29.8,0.12,31.5,28
+2014,Annual,Obesity,Wyoming,21,27.8,-0.47,29.4,26.2
+2014,Annual,Obesity,United States,,29.4,,28.6,28
+2014,Annual,Obesity,District of Columbia,,22.8,,24.8,20.9
+2014,Annual,Obesity - Youth,Alabama,,17.1,,19.9,14.6
+2014,Annual,Obesity - Youth,Alaska,,12.4,,14.6,10.5
+2014,Annual,Obesity - Youth,Arizona,,10.7,,13.6,8.3
+2014,Annual,Obesity - Youth,Arkansas,,17.8,,20.1,15.7
+2014,Annual,Obesity - Youth,California,,,,,
+2014,Annual,Obesity - Youth,Colorado,,,,,
+2014,Annual,Obesity - Youth,Connecticut,,12.3,,14.7,10.2
+2014,Annual,Obesity - Youth,Delaware,,14.2,,15.6,12.9
+2014,Annual,Obesity - Youth,Florida,,11.6,,12.8,10.5
+2014,Annual,Obesity - Youth,Georgia,,12.7,,14.4,11.1
+2014,Annual,Obesity - Youth,Hawaii,,13.4,,15.4,11.6
+2014,Annual,Obesity - Youth,Idaho,,9.6,,11.1,8.2
+2014,Annual,Obesity - Youth,Illinois,,11.5,,13.4,9.8
+2014,Annual,Obesity - Youth,Indiana,,,,,
+2014,Annual,Obesity - Youth,Iowa,,,,,
+2014,Annual,Obesity - Youth,Kansas,,12.6,,14.8,10.6
+2014,Annual,Obesity - Youth,Kentucky,,18.0,,20.6,15.7
+2014,Annual,Obesity - Youth,Louisiana,,13.5,,16.4,11
+2014,Annual,Obesity - Youth,Maine,,11.6,,13.3,10.2
+2014,Annual,Obesity - Youth,Maryland,,11.0,,11.4,10.6
+2014,Annual,Obesity - Youth,Massachusetts,,10.2,,12.1,8.5
+2014,Annual,Obesity - Youth,Michigan,,13.0,,14.9,11.4
+2014,Annual,Obesity - Youth,Minnesota,,,,,
+2014,Annual,Obesity - Youth,Mississippi,,15.4,,17.9,13.1
+2014,Annual,Obesity - Youth,Missouri,,14.9,,17.8,12.3
+2014,Annual,Obesity - Youth,Montana,,9.4,,10.5,8.4
+2014,Annual,Obesity - Youth,Nebraska,,12.7,,14.8,10.9
+2014,Annual,Obesity - Youth,Nevada,,11.4,,13.6,9.6
+2014,Annual,Obesity - Youth,New Hampshire,,11.2,,13,9.7
+2014,Annual,Obesity - Youth,New Jersey,,8.7,,11.2,6.8
+2014,Annual,Obesity - Youth,New Mexico,,12.6,,15.2,10.4
+2014,Annual,Obesity - Youth,New York,,10.6,,11.7,9.6
+2014,Annual,Obesity - Youth,North Carolina,,12.5,,14.5,10.8
+2014,Annual,Obesity - Youth,North Dakota,,13.5,,15.3,11.8
+2014,Annual,Obesity - Youth,Ohio,,13.0,,15.5,10.8
+2014,Annual,Obesity - Youth,Oklahoma,,11.8,,14,10
+2014,Annual,Obesity - Youth,Oregon,,,,,
+2014,Annual,Obesity - Youth,Pennsylvania,,,,,
+2014,Annual,Obesity - Youth,Rhode Island,,10.7,,12,9.5
+2014,Annual,Obesity - Youth,South Carolina,,13.9,,16.5,11.6
+2014,Annual,Obesity - Youth,South Dakota,,11.9,,14.4,9.8
+2014,Annual,Obesity - Youth,Tennessee,,16.9,,18.8,15.1
+2014,Annual,Obesity - Youth,Texas,,15.7,,17.6,13.9
+2014,Annual,Obesity - Youth,Utah,,6.4,,8.5,4.8
+2014,Annual,Obesity - Youth,Vermont,,13.2,,15.4,11.3
+2014,Annual,Obesity - Youth,Virginia,,12.0,,13.4,10.8
+2014,Annual,Obesity - Youth,Washington,,,,,
+2014,Annual,Obesity - Youth,West Virginia,,15.6,,18,13.5
+2014,Annual,Obesity - Youth,Wisconsin,,11.6,,13.9,9.7
+2014,Annual,Obesity - Youth,Wyoming,,10.7,,12.2,9.4
+2014,Annual,Obesity - Youth,United States,,15.7,,18.1,13.5
+2014,Annual,Obesity - Youth,District of Columbia,,14.8,,15.7,14
+2014,Annual,Occupational Fatalities,Alaska,42,6.1,1.12,,
+2014,Annual,Occupational Fatalities,Alabama,34,5.3,0.73,,
+2014,Annual,Occupational Fatalities,United States,,3.8,,,
+2014,Annual,Occupational Fatalities,Arkansas,46,7.5,1.79,,
+2014,Annual,Occupational Fatalities,Arizona,7,3.2,-0.29,,
+2014,Annual,Occupational Fatalities,California,7,3.2,-0.29,,
+2014,Annual,Occupational Fatalities,Colorado,21,4.2,0.19,,
+2014,Annual,Occupational Fatalities,Connecticut,3,2.8,-0.49,,
+2014,Annual,Occupational Fatalities,Delaware,29,4.5,0.34,,
+2014,Annual,Occupational Fatalities,Florida,21,4.2,0.19,,
+2014,Annual,Occupational Fatalities,Georgia,6,3.1,-0.34,,
+2014,Annual,Occupational Fatalities,Hawaii,25,4.4,0.29,,
+2014,Annual,Occupational Fatalities,Iowa,39,5.6,0.87,,
+2014,Annual,Occupational Fatalities,Idaho,30,4.6,0.39,,
+2014,Annual,Occupational Fatalities,Illinois,11,3.7,-0.05,,
+2014,Annual,Occupational Fatalities,Indiana,34,5.3,0.73,,
+2014,Annual,Occupational Fatalities,Kansas,40,6,1.07,,
+2014,Annual,Occupational Fatalities,Kentucky,36,5.4,0.78,,
+2014,Annual,Occupational Fatalities,Louisiana,47,8.2,2,,
+2014,Annual,Occupational Fatalities,Massachusetts,1,2.2,-0.78,,
+2014,Annual,Occupational Fatalities,Maryland,16,3.8,0,,
+2014,Annual,Occupational Fatalities,Maine,11,3.7,-0.05,,
+2014,Annual,Occupational Fatalities,Michigan,18,3.9,0.05,,
+2014,Annual,Occupational Fatalities,Minnesota,7,3.2,-0.29,,
+2014,Annual,Occupational Fatalities,Missouri,31,4.8,0.49,,
+2014,Annual,Occupational Fatalities,Mississippi,45,7.2,1.65,,
+2014,Annual,Occupational Fatalities,Montana,36,5.4,0.78,,
+2014,Annual,Occupational Fatalities,North Carolina,20,4.1,0.15,,
+2014,Annual,Occupational Fatalities,North Dakota,49,11.8,2,,
+2014,Annual,Occupational Fatalities,Nebraska,21,4.2,0.19,,
+2014,Annual,Occupational Fatalities,New Hampshire,11,3.7,-0.05,,
+2014,Annual,Occupational Fatalities,New Jersey,11,3.7,-0.05,,
+2014,Annual,Occupational Fatalities,New Mexico,48,8.8,2,,
+2014,Annual,Occupational Fatalities,Nevada,25,4.4,0.29,,
+2014,Annual,Occupational Fatalities,New York,4,3,-0.39,,
+2014,Annual,Occupational Fatalities,Ohio,11,3.7,-0.05,,
+2014,Annual,Occupational Fatalities,Oklahoma,44,7.1,1.6,,
+2014,Annual,Occupational Fatalities,Oregon,4,3,-0.39,,
+2014,Annual,Occupational Fatalities,Pennsylvania,25,4.4,0.29,,
+2014,Annual,Occupational Fatalities,Rhode Island,19,4,0.1,,
+2014,Annual,Occupational Fatalities,South Carolina,38,5.5,0.82,,
+2014,Annual,Occupational Fatalities,South Dakota,40,6,1.07,,
+2014,Annual,Occupational Fatalities,Tennessee,32,5,0.58,,
+2014,Annual,Occupational Fatalities,Texas,33,5.2,0.68,,
+2014,Annual,Occupational Fatalities,Utah,10,3.5,-0.15,,
+2014,Annual,Occupational Fatalities,Virginia,25,4.4,0.29,,
+2014,Annual,Occupational Fatalities,Vermont,24,4.3,0.24,,
+2014,Annual,Occupational Fatalities,Washington,2,2.5,-0.63,,
+2014,Annual,Occupational Fatalities,Wisconsin,16,3.8,0,,
+2014,Annual,Occupational Fatalities,West Virginia,43,6.8,1.46,,
+2014,Annual,Occupational Fatalities,Wyoming,50,12.5,2,,
+2014,Annual,Overall,Alaska,26,0.125,,,
+2014,Annual,Overall,Alabama,43,-0.664,,,
+2014,Annual,Overall,United States,,,,,
+2014,Annual,Overall,Arkansas,49,-0.934,,,
+2014,Annual,Overall,Arizona,29,-0.039,,,
+2014,Annual,Overall,California,17,0.348,,,
+2014,Annual,Overall,Colorado,8,0.574,,,
+2014,Annual,Overall,Connecticut,4,0.738,,,
+2014,Annual,Overall,District of Columbia,,,,,
+2014,Annual,Overall,Delaware,35,-0.225,,,
+2014,Annual,Overall,Florida,32,-0.15,,,
+2014,Annual,Overall,Georgia,38,-0.322,,,
+2014,Annual,Overall,Hawaii,1,0.91,,,
+2014,Annual,Overall,Iowa,24,0.217,,,
+2014,Annual,Overall,Idaho,18,0.337,,,
+2014,Annual,Overall,Illinois,30,-0.079,,,
+2014,Annual,Overall,Indiana,41,-0.381,,,
+2014,Annual,Overall,Kansas,27,0.077,,,
+2014,Annual,Overall,Kentucky,47,-0.752,,,
+2014,Annual,Overall,Louisiana,48,-0.803,,,
+2014,Annual,Overall,Massachusetts,3,0.741,,,
+2014,Annual,Overall,Maryland,16,0.354,,,
+2014,Annual,Overall,Maine,20,0.303,,,
+2014,Annual,Overall,Michigan,34,-0.205,,,
+2014,Annual,Overall,Minnesota,6,0.726,,,
+2014,Annual,Overall,Missouri,36,-0.281,,,
+2014,Annual,Overall,Mississippi,50,-1,,,
+2014,Annual,Overall,Montana,22,0.279,,,
+2014,Annual,Overall,North Carolina,37,-0.287,,,
+2014,Annual,Overall,North Dakota,9,0.55,,,
+2014,Annual,Overall,Nebraska,10,0.502,,,
+2014,Annual,Overall,New Hampshire,7,0.678,,,
+2014,Annual,Overall,New Jersey,11,0.473,,,
+2014,Annual,Overall,New Mexico,33,-0.175,,,
+2014,Annual,Overall,Nevada,39,-0.334,,,
+2014,Annual,Overall,New York,14,0.389,,,
+2014,Annual,Overall,Ohio,40,-0.358,,,
+2014,Annual,Overall,Oklahoma,46,-0.743,,,
+2014,Annual,Overall,Oregon,12,0.407,,,
+2014,Annual,Overall,Pennsylvania,28,0.009,,,
+2014,Annual,Overall,Rhode Island,15,0.366,,,
+2014,Annual,Overall,South Carolina,42,-0.641,,,
+2014,Annual,Overall,South Dakota,18,0.337,,,
+2014,Annual,Overall,Tennessee,45,-0.714,,,
+2014,Annual,Overall,Texas,31,-0.109,,,
+2014,Annual,Overall,Utah,5,0.729,,,
+2014,Annual,Overall,Virginia,21,0.298,,,
+2014,Annual,Overall,Vermont,2,0.854,,,
+2014,Annual,Overall,Washington,13,0.398,,,
+2014,Annual,Overall,Wisconsin,23,0.232,,,
+2014,Annual,Overall,West Virginia,44,-0.713,,,
+2014,Annual,Overall,Wyoming,25,0.209,,,
+2014,Annual,"Personal Income, Per Capita ",Alabama,44,36481,-1.077,,
+2014,Annual,"Personal Income, Per Capita ",Alaska,9,50150,0.7,,
+2014,Annual,"Personal Income, Per Capita ",Arizona,41,36983,-1.012,,
+2014,Annual,"Personal Income, Per Capita ",Arkansas,42,36698,-1.049,,
+2014,Annual,"Personal Income, Per Capita ",California,11,48434,0.477,,
+2014,Annual,"Personal Income, Per Capita ",Colorado,17,46897,0.277,,
+2014,Annual,"Personal Income, Per Capita ",Connecticut,1,60658,2,,
+2014,Annual,"Personal Income, Per Capita ",Delaware,22,44815,0.007,,
+2014,Annual,"Personal Income, Per Capita ",Florida,28,41497,-0.425,,
+2014,Annual,"Personal Income, Per Capita ",Georgia,40,37845,-0.9,,
+2014,Annual,"Personal Income, Per Capita ",Hawaii,21,45204,0.057,,
+2014,Annual,"Personal Income, Per Capita ",Idaho,46,36146,-1.121,,
+2014,Annual,"Personal Income, Per Capita ",Illinois,16,46980,0.288,,
+2014,Annual,"Personal Income, Per Capita ",Indiana,39,38622,-0.799,,
+2014,Annual,"Personal Income, Per Capita ",Iowa,23,44763,0,,
+2014,Annual,"Personal Income, Per Capita ",Kansas,24,44417,-0.045,,
+2014,Annual,"Personal Income, Per Capita ",Kentucky,45,36214,-1.112,,
+2014,Annual,"Personal Income, Per Capita ",Louisiana,29,41204,-0.463,,
+2014,Annual,"Personal Income, Per Capita ",Maine,31,40924,-0.499,,
+2014,Annual,"Personal Income, Per Capita ",Maryland,5,53826,1.178,,
+2014,Annual,"Personal Income, Per Capita ",Massachusetts,2,57248,1.623,,
+2014,Annual,"Personal Income, Per Capita ",Michigan,37,39055,-0.742,,
+2014,Annual,"Personal Income, Per Capita ",Minnesota,13,47500,0.356,,
+2014,Annual,"Personal Income, Per Capita ",Mississippi,50,33913,-1.411,,
+2014,Annual,"Personal Income, Per Capita ",Missouri,32,40663,-0.533,,
+2014,Annual,"Personal Income, Per Capita ",Montana,35,39366,-0.702,,
+2014,Annual,"Personal Income, Per Capita ",Nebraska,14,47157,0.311,,
+2014,Annual,"Personal Income, Per Capita ",Nevada,36,39235,-0.719,,
+2014,Annual,"Personal Income, Per Capita ",New Hampshire,8,51013,0.812,,
+2014,Annual,"Personal Income, Per Capita ",New Jersey,3,55386,1.381,,
+2014,Annual,"Personal Income, Per Capita ",New Mexico,47,35965,-1.144,,
+2014,Annual,"Personal Income, Per Capita ",New York,4,54462,1.261,,
+2014,Annual,"Personal Income, Per Capita ",North Carolina,38,38683,-0.791,,
+2014,Annual,"Personal Income, Per Capita ",North Dakota,6,53182,1.094,,
+2014,Annual,"Personal Income, Per Capita ",Ohio,30,41049,-0.483,,
+2014,Annual,"Personal Income, Per Capita ",Oklahoma,27,41861,-0.378,,
+2014,Annual,"Personal Income, Per Capita ",Oregon,33,39848,-0.639,,
+2014,Annual,"Personal Income, Per Capita ",Pennsylvania,18,46202,0.187,,
+2014,Annual,"Personal Income, Per Capita ",Rhode Island,15,46989,0.289,,
+2014,Annual,"Personal Income, Per Capita ",South Carolina,48,35831,-1.162,,
+2014,Annual,"Personal Income, Per Capita ",South Dakota,19,46039,0.166,,
+2014,Annual,"Personal Income, Per Capita ",Tennessee,34,39558,-0.677,,
+2014,Annual,"Personal Income, Per Capita ",Texas,25,43862,-0.117,,
+2014,Annual,"Personal Income, Per Capita ",Utah,43,36640,-1.056,,
+2014,Annual,"Personal Income, Per Capita ",Vermont,20,45483,0.093,,
+2014,Annual,"Personal Income, Per Capita ",Virginia,10,48838,0.53,,
+2014,Annual,"Personal Income, Per Capita ",Washington,12,47717,0.384,,
+2014,Annual,"Personal Income, Per Capita ",West Virginia,49,35533,-1.2,,
+2014,Annual,"Personal Income, Per Capita ",Wisconsin,26,43244,-0.198,,
+2014,Annual,"Personal Income, Per Capita ",Wyoming,7,52826,1.048,,
+2014,Annual,"Personal Income, Per Capita ",United States,,44765,,,
+2014,Annual,"Personal Income, Per Capita ",District of Columbia,,75329,,,
+2014,Annual,Pertussis,Alabama,8,4.4,-0.41,,
+2014,Annual,Pertussis,Alaska,42,48.8,1.24,,
+2014,Annual,Pertussis,Arizona,35,17.5,0.07,,
+2014,Annual,Pertussis,Arkansas,20,8.4,-0.26,,
+2014,Annual,Pertussis,California,2,2.1,-0.5,,
+2014,Annual,Pertussis,Colorado,38,29.2,0.51,,
+2014,Annual,Pertussis,Connecticut,12,5.1,-0.39,,
+2014,Annual,Pertussis,Delaware,14,6.3,-0.34,,
+2014,Annual,Pertussis,Florida,4,3.0,-0.47,,
+2014,Annual,Pertussis,Georgia,5,3.2,-0.46,,
+2014,Annual,Pertussis,Hawaii,13,5.3,-0.38,,
+2014,Annual,Pertussis,Idaho,29,14.8,-0.03,,
+2014,Annual,Pertussis,Illinois,32,15.8,0.01,,
+2014,Annual,Pertussis,Indiana,17,6.8,-0.33,,
+2014,Annual,Pertussis,Iowa,46,56.7,1.54,,
+2014,Annual,Pertussis,Kansas,39,30.9,0.58,,
+2014,Annual,Pertussis,Kentucky,30,15.3,-0.01,,
+2014,Annual,Pertussis,Louisiana,1,1.6,-0.52,,
+2014,Annual,Pertussis,Maine,44,55.5,1.49,,
+2014,Annual,Pertussis,Maryland,14,6.3,-0.34,,
+2014,Annual,Pertussis,Massachusetts,24,9.8,-0.21,,
+2014,Annual,Pertussis,Michigan,22,8.6,-0.26,,
+2014,Annual,Pertussis,Minnesota,48,77.5,2,,
+2014,Annual,Pertussis,Mississippi,3,2.6,-0.48,,
+2014,Annual,Pertussis,Missouri,28,13.6,-0.07,,
+2014,Annual,Pertussis,Montana,43,55.0,1.48,,
+2014,Annual,Pertussis,Nebraska,27,13.0,-0.09,,
+2014,Annual,Pertussis,Nevada,6,4.1,-0.43,,
+2014,Annual,Pertussis,New Hampshire,36,20.4,0.18,,
+2014,Annual,Pertussis,New Jersey,32,15.8,0.01,,
+2014,Annual,Pertussis,New Mexico,41,44.4,1.08,,
+2014,Annual,Pertussis,New York,34,16.3,0.03,,
+2014,Annual,Pertussis,North Carolina,14,6.3,-0.34,,
+2014,Annual,Pertussis,North Dakota,40,31.2,0.59,,
+2014,Annual,Pertussis,Ohio,18,7.7,-0.29,,
+2014,Annual,Pertussis,Oklahoma,6,4.1,-0.43,,
+2014,Annual,Pertussis,Oregon,37,23.4,0.3,,
+2014,Annual,Pertussis,Pennsylvania,30,15.3,-0.01,,
+2014,Annual,Pertussis,Rhode Island,25,10.8,-0.18,,
+2014,Annual,Pertussis,South Carolina,10,4.8,-0.4,,
+2014,Annual,Pertussis,South Dakota,21,8.5,-0.26,,
+2014,Annual,Pertussis,Tennessee,10,4.8,-0.4,,
+2014,Annual,Pertussis,Texas,23,8.7,-0.26,,
+2014,Annual,Pertussis,Utah,45,56.5,1.53,,
+2014,Annual,Pertussis,Vermont,49,102.9,2,,
+2014,Annual,Pertussis,Virginia,18,7.7,-0.29,,
+2014,Annual,Pertussis,Washington,47,72.1,2,,
+2014,Annual,Pertussis,West Virginia,9,4.6,-0.41,,
+2014,Annual,Pertussis,Wisconsin,50,120.5,2,,
+2014,Annual,Pertussis,Wyoming,26,10.9,-0.17,,
+2014,Annual,Pertussis,United States,,15.5,,,
+2014,Annual,Pertussis,District of Columbia,,4.2,,,
+2014,Annual,Physical Activity,Alabama,45,68.5,-1.43,70.2,66.8
+2014,Annual,Physical Activity,Alaska,8,77.7,0.69,79.5,75.9
+2014,Annual,Physical Activity,Arizona,23,74.8,0.02,77.3,72.2
+2014,Annual,Physical Activity,Arkansas,48,65.6,-2,67.5,63.7
+2014,Annual,Physical Activity,California,6,78.6,0.9,79.7,77.4
+2014,Annual,Physical Activity,Colorado,1,82.1,1.71,83,81.2
+2014,Annual,Physical Activity,Connecticut,20,75.1,0.09,76.6,73.6
+2014,Annual,Physical Activity,Delaware,37,72.2,-0.58,73.9,70.5
+2014,Annual,Physical Activity,Florida,36,72.3,-0.55,73.4,71.1
+2014,Annual,Physical Activity,Georgia,34,72.8,-0.44,74.2,71.4
+2014,Annual,Physical Activity,Hawaii,7,77.9,0.74,79.4,76.4
+2014,Annual,Physical Activity,Idaho,14,76.3,0.37,78.1,74.6
+2014,Annual,Physical Activity,Illinois,21,74.9,0.05,76.6,73.2
+2014,Annual,Physical Activity,Indiana,43,69,-1.31,70.2,67.7
+2014,Annual,Physical Activity,Iowa,39,71.5,-0.74,72.9,70.2
+2014,Annual,Physical Activity,Kansas,28,73.5,-0.28,74.2,72.7
+2014,Annual,Physical Activity,Kentucky,42,69.8,-1.13,71.2,68.4
+2014,Annual,Physical Activity,Louisiana,46,67.8,-1.59,69.9,65.7
+2014,Annual,Physical Activity,Maine,11,76.7,0.46,78,75.5
+2014,Annual,Physical Activity,Maryland,24,74.7,0,75.9,73.5
+2014,Annual,Physical Activity,Massachusetts,12,76.5,0.42,77.7,75.3
+2014,Annual,Physical Activity,Michigan,19,75.6,0.21,76.6,74.5
+2014,Annual,Physical Activity,Minnesota,12,76.5,0.42,77.9,75.2
+2014,Annual,Physical Activity,Mississippi,50,61.9,-2,63.6,60.2
+2014,Annual,Physical Activity,Missouri,38,71.7,-0.69,73.3,70.1
+2014,Annual,Physical Activity,Montana,10,77.5,0.65,78.6,76.3
+2014,Annual,Physical Activity,Nebraska,24,74.7,0,75.8,73.6
+2014,Annual,Physical Activity,Nevada,14,76.3,0.37,78.5,74.1
+2014,Annual,Physical Activity,New Hampshire,9,77.6,0.67,79.1,76.2
+2014,Annual,Physical Activity,New Jersey,31,73.2,-0.35,74.4,72
+2014,Annual,Physical Activity,New Mexico,18,75.7,0.23,77.1,74.4
+2014,Annual,Physical Activity,New York,30,73.3,-0.32,74.6,72
+2014,Annual,Physical Activity,North Carolina,29,73.4,-0.3,74.7,72.1
+2014,Annual,Physical Activity,North Dakota,35,72.4,-0.53,73.9,70.9
+2014,Annual,Physical Activity,Ohio,39,71.5,-0.74,72.8,70.3
+2014,Annual,Physical Activity,Oklahoma,47,67,-1.78,68.4,65.7
+2014,Annual,Physical Activity,Oregon,2,81.5,1.57,82.9,80
+2014,Annual,Physical Activity,Pennsylvania,27,73.7,-0.23,74.8,72.6
+2014,Annual,Physical Activity,Rhode Island,32,73.1,-0.37,74.6,71.5
+2014,Annual,Physical Activity,South Carolina,32,73.1,-0.37,74.4,71.9
+2014,Annual,Physical Activity,South Dakota,16,76.2,0.35,77.9,74.4
+2014,Annual,Physical Activity,Tennessee,49,62.8,-2,64.7,60.9
+2014,Annual,Physical Activity,Texas,41,69.9,-1.11,71.4,68.5
+2014,Annual,Physical Activity,Utah,5,79.4,1.08,80.4,78.4
+2014,Annual,Physical Activity,Vermont,4,79.5,1.11,80.8,78.2
+2014,Annual,Physical Activity,Virginia,26,74.5,-0.05,75.8,73.2
+2014,Annual,Physical Activity,Washington,3,80,1.22,81.1,78.9
+2014,Annual,Physical Activity,West Virginia,44,68.6,-1.41,70,67.1
+2014,Annual,Physical Activity,Wisconsin,16,76.2,0.35,77.9,74.5
+2014,Annual,Physical Activity,Wyoming,21,74.9,0.05,76.5,73.4
+2014,Annual,Physical Activity,United States,,74.7,,74,73.4
+2014,Annual,Physical Activity,District of Columbia,,80.5,,82.5,78.5
+2014,Annual,Physical Inactivity,Alabama,45,31.5,1.43,33.2,29.8
+2014,Annual,Physical Inactivity,Alaska,8,22.3,-0.69,24.1,20.5
+2014,Annual,Physical Inactivity,Arizona,23,25.2,-0.02,27.8,22.7
+2014,Annual,Physical Inactivity,Arkansas,48,34.4,2,36.3,32.5
+2014,Annual,Physical Inactivity,California,6,21.4,-0.9,22.6,20.3
+2014,Annual,Physical Inactivity,Colorado,1,17.9,-1.71,18.8,17
+2014,Annual,Physical Inactivity,Connecticut,20,24.9,-0.09,26.4,23.4
+2014,Annual,Physical Inactivity,Delaware,37,27.8,0.58,29.5,26.1
+2014,Annual,Physical Inactivity,Florida,36,27.7,0.55,28.9,26.6
+2014,Annual,Physical Inactivity,Georgia,34,27.2,0.44,28.6,25.8
+2014,Annual,Physical Inactivity,Hawaii,7,22.1,-0.74,23.6,20.6
+2014,Annual,Physical Inactivity,Idaho,14,23.7,-0.37,25.4,21.9
+2014,Annual,Physical Inactivity,Illinois,21,25.1,-0.05,26.8,23.4
+2014,Annual,Physical Inactivity,Indiana,43,31,1.31,32.3,29.8
+2014,Annual,Physical Inactivity,Iowa,39,28.5,0.74,29.8,27.1
+2014,Annual,Physical Inactivity,Kansas,28,26.5,0.28,27.3,25.8
+2014,Annual,Physical Inactivity,Kentucky,42,30.2,1.13,31.6,28.8
+2014,Annual,Physical Inactivity,Louisiana,46,32.2,1.59,34.3,30.1
+2014,Annual,Physical Inactivity,Maine,11,23.3,-0.46,24.5,22
+2014,Annual,Physical Inactivity,Maryland,24,25.3,0,26.5,24.1
+2014,Annual,Physical Inactivity,Massachusetts,12,23.5,-0.42,24.7,22.3
+2014,Annual,Physical Inactivity,Michigan,19,24.4,-0.21,25.5,23.4
+2014,Annual,Physical Inactivity,Minnesota,12,23.5,-0.42,24.8,22.1
+2014,Annual,Physical Inactivity,Mississippi,50,38.1,2,39.8,36.4
+2014,Annual,Physical Inactivity,Missouri,38,28.3,0.69,29.9,26.7
+2014,Annual,Physical Inactivity,Montana,10,22.5,-0.65,23.7,21.4
+2014,Annual,Physical Inactivity,Nebraska,24,25.3,0,26.4,24.2
+2014,Annual,Physical Inactivity,Nevada,14,23.7,-0.37,25.9,21.5
+2014,Annual,Physical Inactivity,New Hampshire,9,22.4,-0.67,23.8,20.9
+2014,Annual,Physical Inactivity,New Jersey,31,26.8,0.35,28,25.6
+2014,Annual,Physical Inactivity,New Mexico,18,24.3,-0.23,25.6,22.9
+2014,Annual,Physical Inactivity,New York,30,26.7,0.32,28,25.4
+2014,Annual,Physical Inactivity,North Carolina,29,26.6,0.3,27.9,25.3
+2014,Annual,Physical Inactivity,North Dakota,35,27.6,0.53,29.1,26.1
+2014,Annual,Physical Inactivity,Ohio,39,28.5,0.74,29.7,27.2
+2014,Annual,Physical Inactivity,Oklahoma,47,33,1.78,34.3,31.6
+2014,Annual,Physical Inactivity,Oregon,2,18.5,-1.57,20,17.1
+2014,Annual,Physical Inactivity,Pennsylvania,27,26.3,0.23,27.4,25.2
+2014,Annual,Physical Inactivity,Rhode Island,32,26.9,0.37,28.5,25.4
+2014,Annual,Physical Inactivity,South Carolina,32,26.9,0.37,28.1,25.6
+2014,Annual,Physical Inactivity,South Dakota,16,23.8,-0.35,25.6,22.1
+2014,Annual,Physical Inactivity,Tennessee,49,37.2,2,39.1,35.3
+2014,Annual,Physical Inactivity,Texas,41,30.1,1.11,31.5,28.6
+2014,Annual,Physical Inactivity,Utah,5,20.6,-1.08,21.6,19.6
+2014,Annual,Physical Inactivity,Vermont,4,20.5,-1.11,21.8,19.2
+2014,Annual,Physical Inactivity,Virginia,26,25.5,0.05,26.8,24.2
+2014,Annual,Physical Inactivity,Washington,3,20,-1.22,21.1,18.9
+2014,Annual,Physical Inactivity,West Virginia,44,31.4,1.41,32.9,30
+2014,Annual,Physical Inactivity,Wisconsin,16,23.8,-0.35,25.5,22.1
+2014,Annual,Physical Inactivity,Wyoming,21,25.1,-0.05,26.6,23.5
+2014,Annual,Physical Inactivity,United States,,25.3,,26.6,26
+2014,Annual,Physical Inactivity,District of Columbia,,19.5,,21.5,17.5
+2014,Annual,Poor Mental Health Days,Alabama,47,4.4,1.46,4.8,4.1
+2014,Annual,Poor Mental Health Days,Alaska,7,3.1,-1.25,3.4,2.8
+2014,Annual,Poor Mental Health Days,Arizona,38,3.9,0.42,4.4,3.4
+2014,Annual,Poor Mental Health Days,Arkansas,47,4.4,1.46,4.8,4.1
+2014,Annual,Poor Mental Health Days,California,30,3.8,0.21,4,3.6
+2014,Annual,Poor Mental Health Days,Colorado,11,3.3,-0.83,3.4,3.1
+2014,Annual,Poor Mental Health Days,Connecticut,18,3.5,-0.42,3.7,3.2
+2014,Annual,Poor Mental Health Days,Delaware,22,3.6,-0.21,3.9,3.3
+2014,Annual,Poor Mental Health Days,Florida,42,4.1,0.83,4.3,3.8
+2014,Annual,Poor Mental Health Days,Georgia,17,3.4,-0.63,3.7,3.2
+2014,Annual,Poor Mental Health Days,Hawaii,2,2.7,-2,2.9,2.5
+2014,Annual,Poor Mental Health Days,Idaho,24,3.7,0,4,3.4
+2014,Annual,Poor Mental Health Days,Illinois,24,3.7,0,4,3.4
+2014,Annual,Poor Mental Health Days,Indiana,40,4,0.63,4.2,3.8
+2014,Annual,Poor Mental Health Days,Iowa,4,2.9,-1.67,3.1,2.7
+2014,Annual,Poor Mental Health Days,Kansas,7,3.1,-1.25,3.3,3
+2014,Annual,Poor Mental Health Days,Kentucky,50,4.5,1.67,4.8,4.3
+2014,Annual,Poor Mental Health Days,Louisiana,43,4.2,1.04,4.6,3.8
+2014,Annual,Poor Mental Health Days,Maine,30,3.8,0.21,4,3.5
+2014,Annual,Poor Mental Health Days,Maryland,11,3.3,-0.83,3.5,3.1
+2014,Annual,Poor Mental Health Days,Massachusetts,30,3.8,0.21,4,3.6
+2014,Annual,Poor Mental Health Days,Michigan,38,3.9,0.42,4.1,3.7
+2014,Annual,Poor Mental Health Days,Minnesota,4,2.9,-1.67,3.1,2.7
+2014,Annual,Poor Mental Health Days,Mississippi,44,4.3,1.25,4.6,4
+2014,Annual,Poor Mental Health Days,Missouri,30,3.8,0.21,4.1,3.5
+2014,Annual,Poor Mental Health Days,Montana,11,3.3,-0.83,3.5,3.1
+2014,Annual,Poor Mental Health Days,Nebraska,6,3,-1.46,3.1,2.8
+2014,Annual,Poor Mental Health Days,Nevada,24,3.7,0,4.2,3.3
+2014,Annual,Poor Mental Health Days,New Hampshire,18,3.5,-0.42,3.7,3.2
+2014,Annual,Poor Mental Health Days,New Jersey,11,3.3,-0.83,3.5,3.1
+2014,Annual,Poor Mental Health Days,New Mexico,24,3.7,0,4,3.5
+2014,Annual,Poor Mental Health Days,New York,24,3.7,0,3.9,3.4
+2014,Annual,Poor Mental Health Days,North Carolina,22,3.6,-0.21,3.9,3.4
+2014,Annual,Poor Mental Health Days,North Dakota,2,2.7,-2,3,2.5
+2014,Annual,Poor Mental Health Days,Ohio,30,3.8,0.21,4,3.6
+2014,Annual,Poor Mental Health Days,Oklahoma,44,4.3,1.25,4.6,4.1
+2014,Annual,Poor Mental Health Days,Oregon,44,4.3,1.25,4.6,4
+2014,Annual,Poor Mental Health Days,Pennsylvania,40,4,0.63,4.2,3.7
+2014,Annual,Poor Mental Health Days,Rhode Island,30,3.8,0.21,4.1,3.5
+2014,Annual,Poor Mental Health Days,South Carolina,30,3.8,0.21,4,3.6
+2014,Annual,Poor Mental Health Days,South Dakota,1,2.5,-2,2.7,2.2
+2014,Annual,Poor Mental Health Days,Tennessee,24,3.7,0,4,3.4
+2014,Annual,Poor Mental Health Days,Texas,9,3.2,-1.04,3.4,2.9
+2014,Annual,Poor Mental Health Days,Utah,18,3.5,-0.42,3.7,3.4
+2014,Annual,Poor Mental Health Days,Vermont,11,3.3,-0.83,3.6,3.1
+2014,Annual,Poor Mental Health Days,Virginia,11,3.3,-0.83,3.6,3.1
+2014,Annual,Poor Mental Health Days,Washington,30,3.8,0.21,4,3.6
+2014,Annual,Poor Mental Health Days,West Virginia,47,4.4,1.46,4.7,4.2
+2014,Annual,Poor Mental Health Days,Wisconsin,18,3.5,-0.42,3.8,3.2
+2014,Annual,Poor Mental Health Days,Wyoming,9,3.2,-1.04,3.4,2.9
+2014,Annual,Poor Mental Health Days,United States,,3.7,,3.7,3.6
+2014,Annual,Poor Mental Health Days,District of Columbia,,3.6,,3.9,3.2
+2014,Annual,Poor Physical Health Days,Alabama,47,4.9,1.82,5.2,4.6
+2014,Annual,Poor Physical Health Days,Alaska,19,3.7,-0.36,4.1,3.4
+2014,Annual,Poor Physical Health Days,Arizona,42,4.4,0.91,4.8,3.9
+2014,Annual,Poor Physical Health Days,Arkansas,45,4.8,1.64,5.2,4.5
+2014,Annual,Poor Physical Health Days,California,25,3.9,0,4.1,3.7
+2014,Annual,Poor Physical Health Days,Colorado,8,3.4,-0.91,3.6,3.2
+2014,Annual,Poor Physical Health Days,Connecticut,8,3.4,-0.91,3.7,3.2
+2014,Annual,Poor Physical Health Days,Delaware,25,3.9,0,4.2,3.6
+2014,Annual,Poor Physical Health Days,Florida,44,4.5,1.09,4.7,4.3
+2014,Annual,Poor Physical Health Days,Georgia,23,3.8,-0.18,4.1,3.6
+2014,Annual,Poor Physical Health Days,Hawaii,4,3.2,-1.28,3.4,2.9
+2014,Annual,Poor Physical Health Days,Idaho,19,3.7,-0.36,3.9,3.4
+2014,Annual,Poor Physical Health Days,Illinois,19,3.7,-0.36,4,3.4
+2014,Annual,Poor Physical Health Days,Indiana,30,4,0.18,4.2,3.8
+2014,Annual,Poor Physical Health Days,Iowa,5,3.3,-1.09,3.5,3
+2014,Annual,Poor Physical Health Days,Kansas,8,3.4,-0.91,3.6,3.3
+2014,Annual,Poor Physical Health Days,Kentucky,47,4.9,1.82,5.2,4.7
+2014,Annual,Poor Physical Health Days,Louisiana,38,4.2,0.55,4.6,3.9
+2014,Annual,Poor Physical Health Days,Maine,30,4,0.18,4.3,3.8
+2014,Annual,Poor Physical Health Days,Maryland,8,3.4,-0.91,3.6,3.2
+2014,Annual,Poor Physical Health Days,Massachusetts,15,3.6,-0.55,3.8,3.4
+2014,Annual,Poor Physical Health Days,Michigan,36,4.1,0.36,4.3,3.9
+2014,Annual,Poor Physical Health Days,Minnesota,2,2.9,-1.82,3.2,2.7
+2014,Annual,Poor Physical Health Days,Mississippi,45,4.8,1.64,5.1,4.5
+2014,Annual,Poor Physical Health Days,Missouri,30,4,0.18,4.3,3.7
+2014,Annual,Poor Physical Health Days,Montana,30,4,0.18,4.3,3.8
+2014,Annual,Poor Physical Health Days,Nebraska,3,3.1,-1.46,3.3,2.9
+2014,Annual,Poor Physical Health Days,Nevada,15,3.6,-0.55,4,3.2
+2014,Annual,Poor Physical Health Days,New Hampshire,15,3.6,-0.55,3.9,3.3
+2014,Annual,Poor Physical Health Days,New Jersey,8,3.4,-0.91,3.6,3.2
+2014,Annual,Poor Physical Health Days,New Mexico,38,4.2,0.55,4.4,3.9
+2014,Annual,Poor Physical Health Days,New York,25,3.9,0,4.1,3.7
+2014,Annual,Poor Physical Health Days,North Carolina,30,4,0.18,4.3,3.8
+2014,Annual,Poor Physical Health Days,North Dakota,5,3.3,-1.09,3.5,3.1
+2014,Annual,Poor Physical Health Days,Ohio,30,4,0.18,4.2,3.8
+2014,Annual,Poor Physical Health Days,Oklahoma,42,4.4,0.91,4.7,4.2
+2014,Annual,Poor Physical Health Days,Oregon,41,4.3,0.73,4.7,4
+2014,Annual,Poor Physical Health Days,Pennsylvania,36,4.1,0.36,4.3,3.9
+2014,Annual,Poor Physical Health Days,Rhode Island,23,3.8,-0.18,4,3.5
+2014,Annual,Poor Physical Health Days,South Carolina,38,4.2,0.55,4.5,4
+2014,Annual,Poor Physical Health Days,South Dakota,1,2.8,-2,3.1,2.5
+2014,Annual,Poor Physical Health Days,Tennessee,49,5,2,5.3,4.6
+2014,Annual,Poor Physical Health Days,Texas,13,3.5,-0.73,3.7,3.3
+2014,Annual,Poor Physical Health Days,Utah,5,3.3,-1.09,3.5,3.2
+2014,Annual,Poor Physical Health Days,Vermont,13,3.5,-0.73,3.8,3.3
+2014,Annual,Poor Physical Health Days,Virginia,15,3.6,-0.55,3.8,3.4
+2014,Annual,Poor Physical Health Days,Washington,25,3.9,0,4.1,3.7
+2014,Annual,Poor Physical Health Days,West Virginia,50,5.3,2,5.6,5
+2014,Annual,Poor Physical Health Days,Wisconsin,25,3.9,0,4.2,3.6
+2014,Annual,Poor Physical Health Days,Wyoming,19,3.7,-0.36,4,3.4
+2014,Annual,Poor Physical Health Days,United States,,3.9,,4,3.9
+2014,Annual,Poor Physical Health Days,District of Columbia,,3.3,,3.6,3
+2014,Annual,Premature Death,Alabama,48,10008,2,10133,9882
+2014,Annual,Premature Death,Alaska,34,7600,0.449,7900,7300
+2014,Annual,Premature Death,Arizona,26,7124,0.107,7217,7032
+2014,Annual,Premature Death,Arkansas,47,9656,1.929,9813,9500
+2014,Annual,Premature Death,California,4,5590,-0.998,5624,5556
+2014,Annual,Premature Death,Colorado,11,5991,-0.709,6087,5896
+2014,Annual,Premature Death,Connecticut,5,5603,-0.988,5709,5496
+2014,Annual,Premature Death,Delaware,37,7729,0.542,7984,7475
+2014,Annual,Premature Death,Florida,25,7116,0.101,7167,7065
+2014,Annual,Premature Death,Georgia,35,7624,0.466,7702,7547
+2014,Annual,Premature Death,Hawaii,9,5865,-0.8,6042,5688
+2014,Annual,Premature Death,Idaho,17,6310,-0.479,6484,6136
+2014,Annual,Premature Death,Illinois,21,6721,-0.184,6784,6658
+2014,Annual,Premature Death,Indiana,39,7993,0.732,8089,7897
+2014,Annual,Premature Death,Iowa,16,6309,-0.48,6432,6187
+2014,Annual,Premature Death,Kansas,27,7209,0.168,7348,7069
+2014,Annual,Premature Death,Kentucky,44,9575,1.871,9702,9448
+2014,Annual,Premature Death,Louisiana,45,9625,1.907,9754,9497
+2014,Annual,Premature Death,Maine,20,6645,-0.238,6827,6462
+2014,Annual,Premature Death,Maryland,22,6772,-0.147,6866,6678
+2014,Annual,Premature Death,Massachusetts,1,5345,-1.174,5421,5270
+2014,Annual,Premature Death,Michigan,32,7574,0.43,7649,7498
+2014,Annual,Premature Death,Minnesota,2,5358,-1.165,5444,5272
+2014,Annual,Premature Death,Mississippi,50,10354,2,10519,10189
+2014,Annual,Premature Death,Missouri,40,8120,0.823,8221,8020
+2014,Annual,Premature Death,Montana,31,7480,0.363,7715,7244
+2014,Annual,Premature Death,Nebraska,15,6224,-0.541,6383,6065
+2014,Annual,Premature Death,Nevada,29,7297,0.231,7435,7159
+2014,Annual,Premature Death,New Hampshire,3,5580,-1.005,5746,5414
+2014,Annual,Premature Death,New Jersey,8,5837,-0.82,5906,5768
+2014,Annual,Premature Death,New Mexico,41,8445,1.057,8628,8261
+2014,Annual,Premature Death,New York,7,5737,-0.892,5783,5691
+2014,Annual,Premature Death,North Carolina,36,7661,0.493,7737,7585
+2014,Annual,Premature Death,North Dakota,23,6878,-0.071,7164,6592
+2014,Annual,Premature Death,Ohio,38,7928,0.685,7999,7858
+2014,Annual,Premature Death,Oklahoma,46,9654,1.927,9794,9514
+2014,Annual,Premature Death,Oregon,18,6371,-0.435,6478,6264
+2014,Annual,Premature Death,Pennsylvania,28,7287,0.224,7352,7223
+2014,Annual,Premature Death,Rhode Island,12,6049,-0.667,6253,5846
+2014,Annual,Premature Death,South Carolina,42,8645,1.201,8760,8529
+2014,Annual,Premature Death,South Dakota,30,7330,0.255,7598,7061
+2014,Annual,Premature Death,Tennessee,43,9168,1.578,9271,9066
+2014,Annual,Premature Death,Texas,24,7050,0.053,7097,7002
+2014,Annual,Premature Death,Utah,13,6143,-0.6,6287,5999
+2014,Annual,Premature Death,Vermont,6,5679,-0.933,5918,5439
+2014,Annual,Premature Death,Virginia,19,6502,-0.341,6578,6425
+2014,Annual,Premature Death,Washington,10,5912,-0.766,5991,5832
+2014,Annual,Premature Death,West Virginia,49,10159,2,10354,9963
+2014,Annual,Premature Death,Wisconsin,14,6207,-0.553,6296,6118
+2014,Annual,Premature Death,Wyoming,33,7593,0.444,7914,7273
+2014,Annual,Premature Death,United States,,6976,,6979,6973
+2014,Annual,Premature Death,District of Columbia,,8531,,8873,8189
+2014,Annual,Preterm Birth,Alabama,48,14.6,1.88,,
+2014,Annual,Preterm Birth,Alaska,3,9.2,-1.39,,
+2014,Annual,Preterm Birth,Arizona,29,11.6,0.06,,
+2014,Annual,Preterm Birth,Arkansas,45,13.3,1.09,,
+2014,Annual,Preterm Birth,California,6,9.6,-1.15,,
+2014,Annual,Preterm Birth,Colorado,14,10.4,-0.67,,
+2014,Annual,Preterm Birth,Connecticut,7,9.7,-1.09,,
+2014,Annual,Preterm Birth,Delaware,37,12.3,0.49,,
+2014,Annual,Preterm Birth,Florida,46,13.7,1.33,,
+2014,Annual,Preterm Birth,Georgia,41,12.7,0.73,,
+2014,Annual,Preterm Birth,Hawaii,35,12.2,0.42,,
+2014,Annual,Preterm Birth,Idaho,13,10.3,-0.73,,
+2014,Annual,Preterm Birth,Illinois,32,12,0.3,,
+2014,Annual,Preterm Birth,Indiana,20,10.9,-0.36,,
+2014,Annual,Preterm Birth,Iowa,27,11.5,0,,
+2014,Annual,Preterm Birth,Kansas,21,11,-0.3,,
+2014,Annual,Preterm Birth,Kentucky,41,12.7,0.73,,
+2014,Annual,Preterm Birth,Louisiana,49,15.3,2,,
+2014,Annual,Preterm Birth,Maine,4,9.3,-1.33,,
+2014,Annual,Preterm Birth,Maryland,35,12.2,0.42,,
+2014,Annual,Preterm Birth,Massachusetts,10,10.1,-0.85,,
+2014,Annual,Preterm Birth,Michigan,31,11.8,0.18,,
+2014,Annual,Preterm Birth,Minnesota,11,10.2,-0.79,,
+2014,Annual,Preterm Birth,Mississippi,50,17.1,2,,
+2014,Annual,Preterm Birth,Missouri,30,11.7,0.12,,
+2014,Annual,Preterm Birth,Montana,24,11.2,-0.18,,
+2014,Annual,Preterm Birth,Nebraska,23,11.1,-0.24,,
+2014,Annual,Preterm Birth,Nevada,43,13,0.91,,
+2014,Annual,Preterm Birth,New Hampshire,5,9.4,-1.27,,
+2014,Annual,Preterm Birth,New Jersey,24,11.2,-0.18,,
+2014,Annual,Preterm Birth,New Mexico,27,11.5,0,,
+2014,Annual,Preterm Birth,New York,16,10.7,-0.49,,
+2014,Annual,Preterm Birth,North Carolina,32,12,0.3,,
+2014,Annual,Preterm Birth,North Dakota,8,9.9,-0.97,,
+2014,Annual,Preterm Birth,Ohio,34,12.1,0.36,,
+2014,Annual,Preterm Birth,Oklahoma,43,13,0.91,,
+2014,Annual,Preterm Birth,Oregon,2,9.1,-1.45,,
+2014,Annual,Preterm Birth,Pennsylvania,18,10.8,-0.42,,
+2014,Annual,Preterm Birth,Rhode Island,21,11,-0.3,,
+2014,Annual,Preterm Birth,South Carolina,46,13.7,1.33,,
+2014,Annual,Preterm Birth,South Dakota,16,10.7,-0.49,,
+2014,Annual,Preterm Birth,Tennessee,40,12.5,0.61,,
+2014,Annual,Preterm Birth,Texas,38,12.4,0.55,,
+2014,Annual,Preterm Birth,Utah,11,10.2,-0.79,,
+2014,Annual,Preterm Birth,Vermont,1,8.7,-1.7,,
+2014,Annual,Preterm Birth,Virginia,26,11.3,-0.12,,
+2014,Annual,Preterm Birth,Washington,8,9.9,-0.97,,
+2014,Annual,Preterm Birth,West Virginia,38,12.4,0.55,,
+2014,Annual,Preterm Birth,Wisconsin,15,10.5,-0.61,,
+2014,Annual,Preterm Birth,Wyoming,18,10.8,-0.42,,
+2014,Annual,Preterm Birth,United States,,11.5,,,
+2014,Annual,Preterm Birth,District of Columbia,,,,,
+2014,Annual,Preventable Hospitalizations,Alabama,43,71.5,0.632,72.3,70.8
+2014,Annual,Preventable Hospitalizations,Alaska,10,46.7,-1.191,48.6,44.8
+2014,Annual,Preventable Hospitalizations,Arizona,8,45.2,-1.302,45.8,44.6
+2014,Annual,Preventable Hospitalizations,Arkansas,44,71.6,0.64,72.5,70.7
+2014,Annual,Preventable Hospitalizations,California,9,45.3,-1.294,45.6,45
+2014,Annual,Preventable Hospitalizations,Colorado,5,38.2,-1.817,38.8,37.5
+2014,Annual,Preventable Hospitalizations,Connecticut,26,56.7,-0.456,57.4,56
+2014,Annual,Preventable Hospitalizations,Delaware,19,53.9,-0.662,55.2,52.6
+2014,Annual,Preventable Hospitalizations,Florida,30,59.3,-0.265,59.7,59
+2014,Annual,Preventable Hospitalizations,Georgia,33,60.6,-0.169,61.1,60
+2014,Annual,Preventable Hospitalizations,Hawaii,1,28.2,-2,29.2,27.2
+2014,Annual,Preventable Hospitalizations,Idaho,3,36.4,-1.949,37.4,35.4
+2014,Annual,Preventable Hospitalizations,Illinois,40,65.2,0.169,65.6,64.8
+2014,Annual,Preventable Hospitalizations,Indiana,41,70,0.522,70.6,69.4
+2014,Annual,Preventable Hospitalizations,Iowa,23,55.7,-0.53,56.4,55
+2014,Annual,Preventable Hospitalizations,Kansas,31,59.9,-0.221,60.7,59.1
+2014,Annual,Preventable Hospitalizations,Kentucky,50,94.4,2,95.3,93.5
+2014,Annual,Preventable Hospitalizations,Louisiana,48,80.3,1.28,81.2,79.4
+2014,Annual,Preventable Hospitalizations,Maine,21,55.1,-0.574,56.2,54
+2014,Annual,Preventable Hospitalizations,Maryland,18,53.8,-0.669,54.4,53.3
+2014,Annual,Preventable Hospitalizations,Massachusetts,36,62.7,-0.015,63.3,62.2
+2014,Annual,Preventable Hospitalizations,Michigan,38,64.5,0.118,65,64
+2014,Annual,Preventable Hospitalizations,Minnesota,7,44.9,-1.324,45.4,44.3
+2014,Annual,Preventable Hospitalizations,Mississippi,47,78.5,1.147,79.4,77.5
+2014,Annual,Preventable Hospitalizations,Missouri,39,64.7,0.132,65.3,64.1
+2014,Annual,Preventable Hospitalizations,Montana,11,47,-1.169,48.2,45.8
+2014,Annual,Preventable Hospitalizations,Nebraska,24,55.8,-0.522,56.7,54.8
+2014,Annual,Preventable Hospitalizations,Nevada,16,52,-0.802,53,50.9
+2014,Annual,Preventable Hospitalizations,New Hampshire,15,50.7,-0.897,51.8,49.7
+2014,Annual,Preventable Hospitalizations,New Jersey,34,60.8,-0.154,61.3,60.3
+2014,Annual,Preventable Hospitalizations,New Mexico,13,50.1,-0.941,51.2,49.1
+2014,Annual,Preventable Hospitalizations,New York,29,59.2,-0.272,59.5,58.8
+2014,Annual,Preventable Hospitalizations,North Carolina,26,56.7,-0.456,57.2,56.3
+2014,Annual,Preventable Hospitalizations,North Dakota,25,56.1,-0.5,57.6,54.6
+2014,Annual,Preventable Hospitalizations,Ohio,45,71.7,0.647,72.2,71.2
+2014,Annual,Preventable Hospitalizations,Oklahoma,42,71.4,0.625,72.2,70.5
+2014,Annual,Preventable Hospitalizations,Oregon,4,37.7,-1.853,38.4,37
+2014,Annual,Preventable Hospitalizations,Pennsylvania,35,62.6,-0.022,63.1,62.2
+2014,Annual,Preventable Hospitalizations,Rhode Island,32,60.4,-0.184,62,58.8
+2014,Annual,Preventable Hospitalizations,South Carolina,20,54.1,-0.647,54.7,53.4
+2014,Annual,Preventable Hospitalizations,South Dakota,28,57.5,-0.397,58.9,56.1
+2014,Annual,Preventable Hospitalizations,Tennessee,46,73.1,0.75,73.8,72.4
+2014,Annual,Preventable Hospitalizations,Texas,37,62.9,0,63.3,62.6
+2014,Annual,Preventable Hospitalizations,Utah,2,34,-2,34.9,33.1
+2014,Annual,Preventable Hospitalizations,Vermont,12,48.3,-1.074,49.8,46.9
+2014,Annual,Preventable Hospitalizations,Virginia,22,55.2,-0.566,55.7,54.7
+2014,Annual,Preventable Hospitalizations,Washington,6,39.3,-1.736,39.8,38.8
+2014,Annual,Preventable Hospitalizations,West Virginia,49,93.3,2,94.6,92.1
+2014,Annual,Preventable Hospitalizations,Wisconsin,14,50.6,-0.905,51.2,50
+2014,Annual,Preventable Hospitalizations,Wyoming,17,52.7,-0.75,54.4,50.9
+2014,Annual,Preventable Hospitalizations,United States,,62.9,0,63.3,62.6
+2014,Annual,Preventable Hospitalizations,District of Columbia,,47.2,-1.155,48.8,45.7
+2014,Annual,Primary Care Physicians,Alabama,40,101.9,-0.812,,
+2014,Annual,Primary Care Physicians,Alaska,29,113.2,-0.387,,
+2014,Annual,Primary Care Physicians,Arizona,43,98.4,-0.943,,
+2014,Annual,Primary Care Physicians,Arkansas,39,102.6,-0.785,,
+2014,Annual,Primary Care Physicians,California,22,122.2,-0.049,,
+2014,Annual,Primary Care Physicians,Colorado,24,120.7,-0.105,,
+2014,Annual,Primary Care Physicians,Connecticut,6,166.7,1.624,,
+2014,Annual,Primary Care Physicians,Delaware,30,112.8,-0.402,,
+2014,Annual,Primary Care Physicians,Florida,32,110,-0.507,,
+2014,Annual,Primary Care Physicians,Georgia,36,105.4,-0.68,,
+2014,Annual,Primary Care Physicians,Hawaii,9,140.2,0.628,,
+2014,Annual,Primary Care Physicians,Idaho,50,80.1,-1.631,,
+2014,Annual,Primary Care Physicians,Illinois,11,133.9,0.391,,
+2014,Annual,Primary Care Physicians,Indiana,37,104.2,-0.725,,
+2014,Annual,Primary Care Physicians,Iowa,46,85.7,-1.421,,
+2014,Annual,Primary Care Physicians,Kansas,35,106.6,-0.635,,
+2014,Annual,Primary Care Physicians,Kentucky,38,103,-0.77,,
+2014,Annual,Primary Care Physicians,Louisiana,20,123.7,0.008,,
+2014,Annual,Primary Care Physicians,Maine,14,130.2,0.252,,
+2014,Annual,Primary Care Physicians,Maryland,2,178.5,2,,
+2014,Annual,Primary Care Physicians,Massachusetts,1,200.8,2,,
+2014,Annual,Primary Care Physicians,Michigan,22,122.2,-0.049,,
+2014,Annual,Primary Care Physicians,Minnesota,7,145.2,0.816,,
+2014,Annual,Primary Care Physicians,Mississippi,49,81.8,-1.567,,
+2014,Annual,Primary Care Physicians,Missouri,31,111.8,-0.44,,
+2014,Annual,Primary Care Physicians,Montana,41,99.7,-0.894,,
+2014,Annual,Primary Care Physicians,Nebraska,25,118.5,-0.188,,
+2014,Annual,Primary Care Physicians,Nevada,47,85.3,-1.436,,
+2014,Annual,Primary Care Physicians,New Hampshire,10,135.7,0.459,,
+2014,Annual,Primary Care Physicians,New Jersey,8,143.7,0.759,,
+2014,Annual,Primary Care Physicians,New Mexico,27,115.6,-0.297,,
+2014,Annual,Primary Care Physicians,New York,5,167.3,1.646,,
+2014,Annual,Primary Care Physicians,North Carolina,26,117.9,-0.21,,
+2014,Annual,Primary Care Physicians,North Dakota,21,123.6,0.004,,
+2014,Annual,Primary Care Physicians,Ohio,17,125,0.056,,
+2014,Annual,Primary Care Physicians,Oklahoma,48,84.8,-1.454,,
+2014,Annual,Primary Care Physicians,Oregon,12,131.5,0.301,,
+2014,Annual,Primary Care Physicians,Pennsylvania,13,130.3,0.256,,
+2014,Annual,Primary Care Physicians,Rhode Island,3,177,2,,
+2014,Annual,Primary Care Physicians,South Carolina,33,107.9,-0.586,,
+2014,Annual,Primary Care Physicians,South Dakota,28,113.5,-0.376,,
+2014,Annual,Primary Care Physicians,Tennessee,19,124.4,0.034,,
+2014,Annual,Primary Care Physicians,Texas,42,98.8,-0.928,,
+2014,Annual,Primary Care Physicians,Utah,44,90.8,-1.229,,
+2014,Annual,Primary Care Physicians,Vermont,4,170.9,1.781,,
+2014,Annual,Primary Care Physicians,Virginia,16,125.8,0.086,,
+2014,Annual,Primary Care Physicians,Washington,15,126.7,0.12,,
+2014,Annual,Primary Care Physicians,West Virginia,34,107.8,-0.59,,
+2014,Annual,Primary Care Physicians,Wisconsin,17,125,0.056,,
+2014,Annual,Primary Care Physicians,Wyoming,45,90,-1.259,,
+2014,Annual,Primary Care Physicians,United States,,123.5,0,,
+2014,Annual,Primary Care Physicians,District of Columbia,,324.6,2,,
+2014,Annual,Public Health Funding,Alabama,6,116.5,0.69,,
+2014,Annual,Public Health Funding,Alaska,1,218.51,2,,
+2014,Annual,Public Health Funding,Arizona,48,43.55,-1.2,,
+2014,Annual,Public Health Funding,Arkansas,15,98.62,0.22,,
+2014,Annual,Public Health Funding,California,12,104.4,0.37,,
+2014,Annual,Public Health Funding,Colorado,19,85.22,-0.12,,
+2014,Annual,Public Health Funding,Connecticut,26,71.06,-0.49,,
+2014,Annual,Public Health Funding,Delaware,11,105.09,0.39,,
+2014,Annual,Public Health Funding,Florida,35,57.98,-0.83,,
+2014,Annual,Public Health Funding,Georgia,34,60,-0.78,,
+2014,Annual,Public Health Funding,Hawaii,2,212.86,2,,
+2014,Annual,Public Health Funding,Idaho,4,136.53,1.21,,
+2014,Annual,Public Health Funding,Illinois,32,64.34,-0.67,,
+2014,Annual,Public Health Funding,Indiana,47,44.34,-1.18,,
+2014,Annual,Public Health Funding,Iowa,38,55.69,-0.89,,
+2014,Annual,Public Health Funding,Kansas,42,49.96,-1.04,,
+2014,Annual,Public Health Funding,Kentucky,21,82.87,-0.18,,
+2014,Annual,Public Health Funding,Louisiana,27,69.01,-0.54,,
+2014,Annual,Public Health Funding,Maine,22,82.69,-0.19,,
+2014,Annual,Public Health Funding,Maryland,25,76.81,-0.34,,
+2014,Annual,Public Health Funding,Massachusetts,10,106.06,0.42,,
+2014,Annual,Public Health Funding,Michigan,40,52.7,-0.97,,
+2014,Annual,Public Health Funding,Minnesota,44,47.55,-1.1,,
+2014,Annual,Public Health Funding,Mississippi,31,64.51,-0.66,,
+2014,Annual,Public Health Funding,Missouri,45,44.74,-1.17,,
+2014,Annual,Public Health Funding,Montana,16,98.33,0.22,,
+2014,Annual,Public Health Funding,Nebraska,23,80.72,-0.24,,
+2014,Annual,Public Health Funding,Nevada,50,38.54,-1.33,,
+2014,Annual,Public Health Funding,New Hampshire,37,57.26,-0.85,,
+2014,Annual,Public Health Funding,New Jersey,33,61.28,-0.75,,
+2014,Annual,Public Health Funding,New Mexico,7,116.18,0.68,,
+2014,Annual,Public Health Funding,New York,3,149.24,1.54,,
+2014,Annual,Public Health Funding,North Carolina,43,49.85,-1.04,,
+2014,Annual,Public Health Funding,North Dakota,9,108.74,0.49,,
+2014,Annual,Public Health Funding,Ohio,46,44.71,-1.17,,
+2014,Annual,Public Health Funding,Oklahoma,24,78.83,-0.29,,
+2014,Annual,Public Health Funding,Oregon,36,57.65,-0.84,,
+2014,Annual,Public Health Funding,Pennsylvania,41,51.05,-1.01,,
+2014,Annual,Public Health Funding,Rhode Island,8,112.37,0.58,,
+2014,Annual,Public Health Funding,South Carolina,29,67.71,-0.58,,
+2014,Annual,Public Health Funding,South Dakota,17,86.65,-0.09,,
+2014,Annual,Public Health Funding,Tennessee,20,83.11,-0.18,,
+2014,Annual,Public Health Funding,Texas,39,55.21,-0.9,,
+2014,Annual,Public Health Funding,Utah,30,67.18,-0.59,,
+2014,Annual,Public Health Funding,Vermont,13,103.6,0.35,,
+2014,Annual,Public Health Funding,Virginia,28,68.04,-0.57,,
+2014,Annual,Public Health Funding,Washington,18,86.33,-0.1,,
+2014,Annual,Public Health Funding,West Virginia,5,134.72,1.16,,
+2014,Annual,Public Health Funding,Wisconsin,49,43.45,-1.21,,
+2014,Annual,Public Health Funding,Wyoming,14,101.53,0.3,,
+2014,Annual,Public Health Funding,United States,,90,,,
+2014,Annual,Public Health Funding,District of Columbia,,435.96,,,
+2014,Annual,Salmonella,Alabama,43,23.9,0.79,,
+2014,Annual,Salmonella,Alaska,2,8.1,-1.08,,
+2014,Annual,Salmonella,Arizona,22,13.3,-0.47,,
+2014,Annual,Salmonella,Arkansas,50,47.8,2,,
+2014,Annual,Salmonella,California,15,12.1,-0.61,,
+2014,Annual,Salmonella,Colorado,6,9.9,-0.86,,
+2014,Annual,Salmonella,Connecticut,18,12.4,-0.58,,
+2014,Annual,Salmonella,Delaware,31,16.3,-0.11,,
+2014,Annual,Salmonella,Florida,48,34.2,1.99,,
+2014,Annual,Salmonella,Georgia,45,26.9,1.13,,
+2014,Annual,Salmonella,Hawaii,44,24.7,0.88,,
+2014,Annual,Salmonella,Idaho,3,8.5,-1.04,,
+2014,Annual,Salmonella,Illinois,27,15.3,-0.23,,
+2014,Annual,Salmonella,Indiana,14,12,-0.62,,
+2014,Annual,Salmonella,Iowa,40,20.3,0.36,,
+2014,Annual,Salmonella,Kansas,34,17.1,-0.02,,
+2014,Annual,Salmonella,Kentucky,33,16.8,-0.06,,
+2014,Annual,Salmonella,Louisiana,47,33.7,1.94,,
+2014,Annual,Salmonella,Maine,15,12.1,-0.61,,
+2014,Annual,Salmonella,Maryland,31,16.3,-0.12,,
+2014,Annual,Salmonella,Massachusetts,29,15.7,-0.19,,
+2014,Annual,Salmonella,Michigan,7,10.1,-0.85,,
+2014,Annual,Salmonella,Minnesota,26,14.6,-0.31,,
+2014,Annual,Salmonella,Mississippi,49,41.9,2,,
+2014,Annual,Salmonella,Missouri,36,17.8,0.07,,
+2014,Annual,Salmonella,Montana,10,10.9,-0.75,,
+2014,Annual,Salmonella,Nebraska,37,19.2,0.22,,
+2014,Annual,Salmonella,Nevada,1,6.8,-1.23,,
+2014,Annual,Salmonella,New Hampshire,12,11.8,-0.64,,
+2014,Annual,Salmonella,New Jersey,19,13,-0.51,,
+2014,Annual,Salmonella,New Mexico,30,16.1,-0.14,,
+2014,Annual,Salmonella,New York,20,13.1,-0.49,,
+2014,Annual,Salmonella,North Carolina,42,22.8,0.65,,
+2014,Annual,Salmonella,North Dakota,5,9.6,-0.9,,
+2014,Annual,Salmonella,Ohio,11,11,-0.74,,
+2014,Annual,Salmonella,Oklahoma,39,20.1,0.33,,
+2014,Annual,Salmonella,Oregon,9,10.4,-0.81,,
+2014,Annual,Salmonella,Pennsylvania,22,13.3,-0.47,,
+2014,Annual,Salmonella,Rhode Island,8,10.3,-0.82,,
+2014,Annual,Salmonella,South Carolina,46,31.1,1.63,,
+2014,Annual,Salmonella,South Dakota,41,20.6,0.4,,
+2014,Annual,Salmonella,Tennessee,35,17.2,-0.01,,
+2014,Annual,Salmonella,Texas,38,19.5,0.26,,
+2014,Annual,Salmonella,Utah,4,9.2,-0.95,,
+2014,Annual,Salmonella,Vermont,24,14,-0.38,,
+2014,Annual,Salmonella,Virginia,25,14.1,-0.37,,
+2014,Annual,Salmonella,Washington,17,12.3,-0.58,,
+2014,Annual,Salmonella,West Virginia,12,11.8,-0.64,,
+2014,Annual,Salmonella,Wisconsin,28,15.4,-0.21,,
+2014,Annual,Salmonella,Wyoming,21,13.2,-0.48,,
+2014,Annual,Salmonella,United States,,17.3,,,
+2014,Annual,Salmonella,District of Columbia,,11.3,,,
+2014,Annual,Smoking,Alabama,38,21.5,0.71,23,19.9
+2014,Annual,Smoking,Alaska,42,22.6,1.02,24.4,20.8
+2014,Annual,Smoking,Arizona,9,16.3,-0.77,18.3,14.3
+2014,Annual,Smoking,Arkansas,48,25.9,1.96,27.8,24.1
+2014,Annual,Smoking,California,2,12.5,-1.84,13.4,11.7
+2014,Annual,Smoking,Colorado,18,17.7,-0.37,18.6,16.7
+2014,Annual,Smoking,Connecticut,4,15.5,-0.99,16.7,14.3
+2014,Annual,Smoking,Delaware,29,19.6,0.17,21.2,17.9
+2014,Annual,Smoking,Florida,14,16.8,-0.62,17.7,15.9
+2014,Annual,Smoking,Georgia,23,18.8,-0.06,20.1,17.5
+2014,Annual,Smoking,Hawaii,3,13.3,-1.62,14.5,12.2
+2014,Annual,Smoking,Idaho,15,17.2,-0.51,18.7,15.6
+2014,Annual,Smoking,Illinois,19,18,-0.28,19.5,16.5
+2014,Annual,Smoking,Indiana,39,21.9,0.82,23.1,20.8
+2014,Annual,Smoking,Iowa,28,19.5,0.14,20.8,18.3
+2014,Annual,Smoking,Kansas,31,20,0.28,20.7,19.3
+2014,Annual,Smoking,Kentucky,49,26.5,2,27.8,25.1
+2014,Annual,Smoking,Louisiana,44,23.5,1.28,25.6,21.5
+2014,Annual,Smoking,Maine,32,20.2,0.34,21.5,18.9
+2014,Annual,Smoking,Maryland,10,16.4,-0.74,17.5,15.3
+2014,Annual,Smoking,Massachusetts,11,16.6,-0.68,17.7,15.6
+2014,Annual,Smoking,Michigan,37,21.4,0.68,22.5,20.3
+2014,Annual,Smoking,Minnesota,19,18,-0.28,19.2,16.8
+2014,Annual,Smoking,Mississippi,47,24.8,1.65,26.4,23.3
+2014,Annual,Smoking,Missouri,41,22.1,0.88,23.6,20.6
+2014,Annual,Smoking,Montana,24,19,0,20.1,17.9
+2014,Annual,Smoking,Nebraska,21,18.5,-0.14,19.5,17.4
+2014,Annual,Smoking,Nevada,27,19.4,0.11,21.4,17.3
+2014,Annual,Smoking,New Hampshire,8,16.2,-0.79,17.5,14.9
+2014,Annual,Smoking,New Jersey,5,15.7,-0.94,16.6,14.7
+2014,Annual,Smoking,New Mexico,26,19.1,0.03,20.3,17.9
+2014,Annual,Smoking,New York,11,16.6,-0.68,17.7,15.5
+2014,Annual,Smoking,North Carolina,33,20.3,0.37,21.4,19.1
+2014,Annual,Smoking,North Dakota,36,21.2,0.62,22.6,19.8
+2014,Annual,Smoking,Ohio,43,23.4,1.25,24.5,22.2
+2014,Annual,Smoking,Oklahoma,45,23.7,1.33,25,22.4
+2014,Annual,Smoking,Oregon,16,17.3,-0.48,18.7,15.9
+2014,Annual,Smoking,Pennsylvania,35,21,0.57,22,19.9
+2014,Annual,Smoking,Rhode Island,17,17.4,-0.45,18.8,16
+2014,Annual,Smoking,South Carolina,40,22,0.85,23.2,20.8
+2014,Annual,Smoking,South Dakota,29,19.6,0.17,21.1,18
+2014,Annual,Smoking,Tennessee,46,24.3,1.5,26,22.6
+2014,Annual,Smoking,Texas,6,15.9,-0.88,17,14.8
+2014,Annual,Smoking,Utah,1,10.3,-2,11,9.6
+2014,Annual,Smoking,Vermont,11,16.6,-0.68,17.9,15.3
+2014,Annual,Smoking,Virginia,24,19,0,20.2,17.9
+2014,Annual,Smoking,Washington,7,16.1,-0.82,17,15.1
+2014,Annual,Smoking,West Virginia,50,27.3,2,28.7,25.8
+2014,Annual,Smoking,Wisconsin,22,18.7,-0.09,20.2,17.1
+2014,Annual,Smoking,Wyoming,34,20.6,0.45,22.2,19.1
+2014,Annual,Smoking,United States,,19,,18.5,18
+2014,Annual,Smoking,District of Columbia,,18.8,,20.8,16.8
+2014,Annual,Stroke,Alabama,50,4.7,2,5.3,4.1
+2014,Annual,Stroke,Alaska,4,2.2,-0.85,2.7,1.7
+2014,Annual,Stroke,Arizona,24,2.8,0,3.5,2.2
+2014,Annual,Stroke,Arkansas,48,4.5,2,5.3,3.8
+2014,Annual,Stroke,California,4,2.2,-0.85,2.5,1.9
+2014,Annual,Stroke,Colorado,1,1.8,-1.42,2,1.6
+2014,Annual,Stroke,Connecticut,7,2.3,-0.71,2.7,1.9
+2014,Annual,Stroke,Delaware,37,3.5,0.99,4,2.9
+2014,Annual,Stroke,Florida,40,3.7,1.28,4.1,3.3
+2014,Annual,Stroke,Georgia,24,2.8,0,3.2,2.4
+2014,Annual,Stroke,Hawaii,19,2.7,-0.14,3.2,2.2
+2014,Annual,Stroke,Idaho,7,2.3,-0.71,2.7,1.8
+2014,Annual,Stroke,Illinois,24,2.8,0,3.4,2.2
+2014,Annual,Stroke,Indiana,32,3.1,0.43,3.4,2.7
+2014,Annual,Stroke,Iowa,24,2.8,0,3.2,2.4
+2014,Annual,Stroke,Kansas,30,3,0.28,3.2,2.7
+2014,Annual,Stroke,Kentucky,47,4.2,1.98,4.7,3.7
+2014,Annual,Stroke,Louisiana,45,4,1.7,4.8,3.2
+2014,Annual,Stroke,Maine,12,2.5,-0.43,2.9,2.1
+2014,Annual,Stroke,Maryland,30,3,0.28,3.5,2.6
+2014,Annual,Stroke,Massachusetts,10,2.4,-0.57,2.8,2.1
+2014,Annual,Stroke,Michigan,39,3.6,1.13,4,3.2
+2014,Annual,Stroke,Minnesota,3,2.1,-0.99,2.6,1.7
+2014,Annual,Stroke,Mississippi,48,4.5,2,5.1,3.9
+2014,Annual,Stroke,Missouri,34,3.2,0.57,3.7,2.7
+2014,Annual,Stroke,Montana,34,3.2,0.57,3.7,2.8
+2014,Annual,Stroke,Nebraska,12,2.5,-0.43,2.8,2.2
+2014,Annual,Stroke,Nevada,29,2.9,0.14,3.5,2.2
+2014,Annual,Stroke,New Hampshire,7,2.3,-0.71,2.7,1.9
+2014,Annual,Stroke,New Jersey,12,2.5,-0.43,2.9,2.2
+2014,Annual,Stroke,New Mexico,12,2.5,-0.43,2.8,2.1
+2014,Annual,Stroke,New York,10,2.4,-0.57,2.8,2
+2014,Annual,Stroke,North Carolina,40,3.7,1.28,4.1,3.2
+2014,Annual,Stroke,North Dakota,12,2.5,-0.43,2.9,2.1
+2014,Annual,Stroke,Ohio,40,3.7,1.28,4.2,3.3
+2014,Annual,Stroke,Oklahoma,37,3.5,0.99,3.9,3.1
+2014,Annual,Stroke,Oregon,32,3.1,0.43,3.6,2.7
+2014,Annual,Stroke,Pennsylvania,36,3.3,0.71,3.7,2.8
+2014,Annual,Stroke,Rhode Island,19,2.7,-0.14,3.1,2.2
+2014,Annual,Stroke,South Carolina,40,3.7,1.28,4.2,3.3
+2014,Annual,Stroke,South Dakota,24,2.8,0,3.3,2.3
+2014,Annual,Stroke,Tennessee,45,4,1.7,4.6,3.4
+2014,Annual,Stroke,Texas,12,2.5,-0.43,2.9,2.1
+2014,Annual,Stroke,Utah,2,2,-1.13,2.3,1.8
+2014,Annual,Stroke,Vermont,19,2.7,-0.14,3.2,2.2
+2014,Annual,Stroke,Virginia,19,2.7,-0.14,3.1,2.3
+2014,Annual,Stroke,Washington,12,2.5,-0.43,2.9,2.2
+2014,Annual,Stroke,West Virginia,44,3.9,1.56,4.5,3.4
+2014,Annual,Stroke,Wisconsin,4,2.2,-0.85,2.7,1.7
+2014,Annual,Stroke,Wyoming,19,2.7,-0.14,3.1,2.3
+2014,Annual,Stroke,United States,,2.8,,3,2.8
+2014,Annual,Stroke,District of Columbia,,3.2,,3.8,2.5
+2014,Annual,Suicide,Alabama,30,15,0.492,16.1,13.9
+2014,Annual,Suicide,Alaska,49,23.2,2,26.9,19.6
+2014,Annual,Suicide,Arizona,41,18,1.195,19,16.9
+2014,Annual,Suicide,Arkansas,36,16.7,0.89,18.1,15.2
+2014,Annual,Suicide,California,8,10.5,-0.562,10.8,10.1
+2014,Annual,Suicide,Colorado,45,20.2,1.71,21.5,19
+2014,Annual,Suicide,Connecticut,6,10,-0.679,11,8.9
+2014,Annual,Suicide,Delaware,22,13.5,0.141,15.9,11.2
+2014,Annual,Suicide,Florida,29,14.9,0.469,15.4,14.3
+2014,Annual,Suicide,Georgia,9,12,-0.211,12.7,11.3
+2014,Annual,Suicide,Hawaii,22,13.5,0.141,15.4,11.6
+2014,Annual,Suicide,Idaho,44,19.4,1.523,21.6,17.2
+2014,Annual,Suicide,Illinois,6,10,-0.679,10.6,9.5
+2014,Annual,Suicide,Indiana,26,14.5,0.375,15.5,13.6
+2014,Annual,Suicide,Iowa,13,12.6,-0.07,13.9,11.4
+2014,Annual,Suicide,Kansas,39,17.7,1.125,19.3,16.2
+2014,Annual,Suicide,Kentucky,35,16.4,0.82,17.6,15.2
+2014,Annual,Suicide,Louisiana,12,12.5,-0.094,13.6,11.5
+2014,Annual,Suicide,Maine,28,14.8,0.445,16.9,12.8
+2014,Annual,Suicide,Maryland,5,9.8,-0.726,10.6,9
+2014,Annual,Suicide,Massachusetts,3,8.8,-0.961,9.5,8.1
+2014,Annual,Suicide,Michigan,13,12.6,-0.07,13.3,11.9
+2014,Annual,Suicide,Minnesota,10,12.2,-0.164,13.1,11.2
+2014,Annual,Suicide,Mississippi,24,14.1,0.281,15.5,12.7
+2014,Annual,Suicide,Missouri,34,15.2,0.539,16.1,14.2
+2014,Annual,Suicide,Montana,48,23,2,26,20.1
+2014,Annual,Suicide,Nebraska,17,12.7,-0.047,14.3,11
+2014,Annual,Suicide,Nevada,43,19.1,1.453,20.8,17.5
+2014,Annual,Suicide,New Hampshire,26,14.5,0.375,16.5,12.5
+2014,Annual,Suicide,New Jersey,1,7.5,-1.265,8.1,7
+2014,Annual,Suicide,New Mexico,47,21.6,2,23.6,19.5
+2014,Annual,Suicide,New York,2,8.5,-1.031,9,8.1
+2014,Annual,Suicide,North Carolina,19,13.2,0.07,13.9,12.5
+2014,Annual,Suicide,North Dakota,30,15,0.492,17.9,12.1
+2014,Annual,Suicide,Ohio,19,13.2,0.07,13.9,12.6
+2014,Annual,Suicide,Oklahoma,40,17.8,1.148,19.1,16.4
+2014,Annual,Suicide,Oregon,42,18.3,1.265,19.7,17
+2014,Annual,Suicide,Pennsylvania,13,12.6,-0.07,13.2,12
+2014,Annual,Suicide,Rhode Island,4,9.7,-0.75,11.6,7.8
+2014,Annual,Suicide,South Carolina,25,14.2,0.305,15.2,13.1
+2014,Annual,Suicide,South Dakota,37,17.2,1.008,20.1,14.4
+2014,Annual,Suicide,Tennessee,30,15,0.492,16,14.1
+2014,Annual,Suicide,Texas,10,12.2,-0.164,12.7,11.8
+2014,Annual,Suicide,Utah,46,21.4,1.992,23.3,19.6
+2014,Annual,Suicide,Vermont,21,13.3,0.094,16.5,10.7
+2014,Annual,Suicide,Virginia,18,12.9,0,13.7,12.1
+2014,Annual,Suicide,Washington,30,15,0.492,15.9,14.1
+2014,Annual,Suicide,West Virginia,38,17.3,1.031,19.2,15.4
+2014,Annual,Suicide,Wisconsin,13,12.6,-0.07,13.5,11.7
+2014,Annual,Suicide,Wyoming,50,29.9,2,34.4,25.4
+2014,Annual,Suicide,United States,,12.9,,13,12.8
+2014,Annual,Suicide,District of Columbia,,5.7,,8,4
+2014,Annual,Teen Birth Rate,Alabama,42,39.2,,,
+2014,Annual,Teen Birth Rate,Alaska,37,34.5,,,
+2014,Annual,Teen Birth Rate,Arizona,40,37.4,,,
+2014,Annual,Teen Birth Rate,Arkansas,47,45.7,,,
+2014,Annual,Teen Birth Rate,California,21,26.5,,,
+2014,Annual,Teen Birth Rate,Colorado,19,25.4,,,
+2014,Annual,Teen Birth Rate,Connecticut,3,15.1,,,
+2014,Annual,Teen Birth Rate,Delaware,18,25,,,
+2014,Annual,Teen Birth Rate,Florida,25,28,,,
+2014,Annual,Teen Birth Rate,Georgia,35,33.8,,,
+2014,Annual,Teen Birth Rate,Hawaii,26,28.1,,,
+2014,Annual,Teen Birth Rate,Idaho,27,28.3,,,
+2014,Annual,Teen Birth Rate,Illinois,24,27.9,,,
+2014,Annual,Teen Birth Rate,Indiana,32,33,,,
+2014,Annual,Teen Birth Rate,Iowa,17,24.1,,,
+2014,Annual,Teen Birth Rate,Kansas,36,34.1,,,
+2014,Annual,Teen Birth Rate,Kentucky,43,41.5,,,
+2014,Annual,Teen Birth Rate,Louisiana,44,43.1,,,
+2014,Annual,Teen Birth Rate,Maine,7,19.4,,,
+2014,Annual,Teen Birth Rate,Maryland,11,22.1,,,
+2014,Annual,Teen Birth Rate,Massachusetts,2,14.1,,,
+2014,Annual,Teen Birth Rate,Michigan,20,26.3,,,
+2014,Annual,Teen Birth Rate,Minnesota,6,18.5,,,
+2014,Annual,Teen Birth Rate,Mississippi,48,46.1,,,
+2014,Annual,Teen Birth Rate,Missouri,31,32.2,,,
+2014,Annual,Teen Birth Rate,Montana,28,28.8,,,
+2014,Annual,Teen Birth Rate,Nebraska,23,26.8,,,
+2014,Annual,Teen Birth Rate,Nevada,34,33.4,,,
+2014,Annual,Teen Birth Rate,New Hampshire,1,13.8,,,
+2014,Annual,Teen Birth Rate,New Jersey,5,16.7,,,
+2014,Annual,Teen Birth Rate,New Mexico,50,47.5,,,
+2014,Annual,Teen Birth Rate,New York,8,19.7,,,
+2014,Annual,Teen Birth Rate,North Carolina,30,31.8,,,
+2014,Annual,Teen Birth Rate,North Dakota,21,26.5,,,
+2014,Annual,Teen Birth Rate,Ohio,29,29.8,,,
+2014,Annual,Teen Birth Rate,Oklahoma,49,47.3,,,
+2014,Annual,Teen Birth Rate,Oregon,16,23.8,,,
+2014,Annual,Teen Birth Rate,Pennsylvania,15,23.7,,,
+2014,Annual,Teen Birth Rate,Rhode Island,9,19.9,,,
+2014,Annual,Teen Birth Rate,South Carolina,39,36.6,,,
+2014,Annual,Teen Birth Rate,South Dakota,33,33.3,,,
+2014,Annual,Teen Birth Rate,Tennessee,41,38.5,,,
+2014,Annual,Teen Birth Rate,Texas,46,44.4,,,
+2014,Annual,Teen Birth Rate,Utah,13,23.3,,,
+2014,Annual,Teen Birth Rate,Vermont,4,16.3,,,
+2014,Annual,Teen Birth Rate,Virginia,12,22.9,,,
+2014,Annual,Teen Birth Rate,Washington,14,23.4,,,
+2014,Annual,Teen Birth Rate,West Virginia,45,44.1,,,
+2014,Annual,Teen Birth Rate,Wisconsin,10,21.9,,,
+2014,Annual,Teen Birth Rate,Wyoming,38,34.7,,,
+2014,Annual,Teen Birth Rate,United States,,29.4,,,
+2014,Annual,Teen Birth Rate,District of Columbia,,38.6,,,
+2014,Annual,Teeth Extractions,Alabama,45,8.5,1.41,9.3,7.8
+2014,Annual,Teeth Extractions,Alaska,10,3.9,-0.68,4.7,3.2
+2014,Annual,Teeth Extractions,Arizona,11,4.2,-0.55,4.8,3.6
+2014,Annual,Teeth Extractions,Arkansas,47,9.1,1.68,10.1,8.2
+2014,Annual,Teeth Extractions,California,2,2.4,-1.36,2.7,2.1
+2014,Annual,Teeth Extractions,Colorado,6,3.4,-0.91,3.8,3.1
+2014,Annual,Teeth Extractions,Connecticut,9,3.7,-0.77,4.2,3.2
+2014,Annual,Teeth Extractions,Delaware,25,5.4,0,6.1,4.6
+2014,Annual,Teeth Extractions,Florida,28,5.7,0.14,6.4,5
+2014,Annual,Teeth Extractions,Georgia,33,6,0.27,6.7,5.3
+2014,Annual,Teeth Extractions,Hawaii,1,2,-1.55,2.5,1.6
+2014,Annual,Teeth Extractions,Idaho,20,4.9,-0.23,5.7,4.1
+2014,Annual,Teeth Extractions,Illinois,18,4.7,-0.32,5.4,4.1
+2014,Annual,Teeth Extractions,Indiana,40,7.1,0.77,7.7,6.4
+2014,Annual,Teeth Extractions,Iowa,28,5.7,0.14,6.3,5.2
+2014,Annual,Teeth Extractions,Kansas,31,5.8,0.18,6.3,5.4
+2014,Annual,Teeth Extractions,Kentucky,46,8.9,1.59,9.6,8.2
+2014,Annual,Teeth Extractions,Louisiana,48,9.6,1.91,10.5,8.8
+2014,Annual,Teeth Extractions,Maine,44,8.2,1.27,8.8,7.6
+2014,Annual,Teeth Extractions,Maryland,13,4.3,-0.5,4.8,3.8
+2014,Annual,Teeth Extractions,Massachusetts,17,4.6,-0.36,5,4.2
+2014,Annual,Teeth Extractions,Michigan,20,4.9,-0.23,5.5,4.4
+2014,Annual,Teeth Extractions,Minnesota,5,3.3,-0.95,3.7,3
+2014,Annual,Teeth Extractions,Mississippi,42,8,1.18,8.7,7.4
+2014,Annual,Teeth Extractions,Missouri,43,8.1,1.23,9,7.3
+2014,Annual,Teeth Extractions,Montana,34,6.1,0.32,6.7,5.5
+2014,Annual,Teeth Extractions,Nebraska,13,4.3,-0.5,4.7,4
+2014,Annual,Teeth Extractions,Nevada,25,5.4,0,6.4,4.5
+2014,Annual,Teeth Extractions,New Hampshire,15,4.4,-0.45,5,3.9
+2014,Annual,Teeth Extractions,New Jersey,11,4.2,-0.55,4.6,3.8
+2014,Annual,Teeth Extractions,New Mexico,24,5.3,-0.05,5.8,4.8
+2014,Annual,Teeth Extractions,New York,15,4.4,-0.45,5.1,3.7
+2014,Annual,Teeth Extractions,North Carolina,38,6.9,0.68,7.4,6.3
+2014,Annual,Teeth Extractions,North Dakota,22,5,-0.18,5.7,4.4
+2014,Annual,Teeth Extractions,Ohio,39,7,0.73,7.6,6.4
+2014,Annual,Teeth Extractions,Oklahoma,41,7.6,1,8.2,7
+2014,Annual,Teeth Extractions,Oregon,18,4.7,-0.32,5.3,4
+2014,Annual,Teeth Extractions,Pennsylvania,32,5.9,0.23,6.3,5.5
+2014,Annual,Teeth Extractions,Rhode Island,8,3.6,-0.82,4.1,3
+2014,Annual,Teeth Extractions,South Carolina,37,6.3,0.41,6.9,5.8
+2014,Annual,Teeth Extractions,South Dakota,28,5.7,0.14,6.5,4.8
+2014,Annual,Teeth Extractions,Tennessee,48,9.6,1.91,10.4,8.7
+2014,Annual,Teeth Extractions,Texas,7,3.5,-0.86,3.9,3
+2014,Annual,Teeth Extractions,Utah,3,3.1,-1.05,3.4,2.7
+2014,Annual,Teeth Extractions,Vermont,34,6.1,0.32,6.8,5.4
+2014,Annual,Teeth Extractions,Virginia,25,5.4,0,6,4.7
+2014,Annual,Teeth Extractions,Washington,4,3.2,-1,3.6,2.9
+2014,Annual,Teeth Extractions,West Virginia,50,13.9,2,14.9,12.9
+2014,Annual,Teeth Extractions,Wisconsin,22,5,-0.18,5.8,4.2
+2014,Annual,Teeth Extractions,Wyoming,34,6.1,0.32,6.9,5.3
+2014,Annual,Teeth Extractions,United States,,5.4,,5.2,5
+2014,Annual,Teeth Extractions,District of Columbia,,3,,3.7,2.4
+2014,Annual,Underemployment Rate,Alabama,20,12.2,-0.625,,
+2014,Annual,Underemployment Rate,Alaska,18,12.1,-0.664,,
+2014,Annual,Underemployment Rate,Arizona,48,16,0.859,,
+2014,Annual,Underemployment Rate,Arkansas,30,13.7,-0.039,,
+2014,Annual,Underemployment Rate,California,51,17.3,1.367,,
+2014,Annual,Underemployment Rate,Colorado,21,12.5,-0.508,,
+2014,Annual,Underemployment Rate,Connecticut,35,13.9,0.039,,
+2014,Annual,Underemployment Rate,Delaware,28,13.5,-0.117,,
+2014,Annual,Underemployment Rate,Florida,39,14.3,0.195,,
+2014,Annual,Underemployment Rate,Georgia,44,14.8,0.391,,
+2014,Annual,Underemployment Rate,Hawaii,13,11.5,-0.898,,
+2014,Annual,Underemployment Rate,Idaho,23,12.7,-0.43,,
+2014,Annual,Underemployment Rate,Illinois,48,16,0.859,,
+2014,Annual,Underemployment Rate,Indiana,25,13.2,-0.234,,
+2014,Annual,Underemployment Rate,Iowa,5,9.2,-1.797,,
+2014,Annual,Underemployment Rate,Kansas,11,11,-1.094,,
+2014,Annual,Underemployment Rate,Kentucky,45,15,0.469,,
+2014,Annual,Underemployment Rate,Louisiana,23,12.7,-0.43,,
+2014,Annual,Underemployment Rate,Maine,30,13.7,-0.039,,
+2014,Annual,Underemployment Rate,Maryland,21,12.5,-0.508,,
+2014,Annual,Underemployment Rate,Massachusetts,25,13.2,-0.234,,
+2014,Annual,Underemployment Rate,Michigan,46,15.3,0.586,,
+2014,Annual,Underemployment Rate,Minnesota,9,10.6,-1.25,,
+2014,Annual,Underemployment Rate,Mississippi,40,14.6,0.313,,
+2014,Annual,Underemployment Rate,Missouri,15,11.6,-0.859,,
+2014,Annual,Underemployment Rate,Montana,15,11.6,-0.859,,
+2014,Annual,Underemployment Rate,Nebraska,3,8,-2,,
+2014,Annual,Underemployment Rate,Nevada,52,18.1,1.68,,
+2014,Annual,Underemployment Rate,New Hampshire,10,10.9,-1.133,,
+2014,Annual,Underemployment Rate,New Jersey,41,14.7,0.352,,
+2014,Annual,Underemployment Rate,New Mexico,30,13.7,-0.039,,
+2014,Annual,Underemployment Rate,New York,33,13.8,0,,
+2014,Annual,Underemployment Rate,North Carolina,41,14.7,0.352,,
+2014,Annual,Underemployment Rate,North Dakota,1,5.6,-2,,
+2014,Annual,Underemployment Rate,Ohio,29,13.6,-0.078,,
+2014,Annual,Underemployment Rate,Oklahoma,8,10.2,-1.406,,
+2014,Annual,Underemployment Rate,Oregon,50,16.5,1.055,,
+2014,Annual,Underemployment Rate,Pennsylvania,27,13.4,-0.156,,
+2014,Annual,Underemployment Rate,Rhode Island,47,15.5,0.664,,
+2014,Annual,Underemployment Rate,South Carolina,36,14,0.078,,
+2014,Annual,Underemployment Rate,South Dakota,2,7.1,-2,,
+2014,Annual,Underemployment Rate,Tennessee,41,14.7,0.352,,
+2014,Annual,Underemployment Rate,Texas,12,11.3,-0.977,,
+2014,Annual,Underemployment Rate,Utah,7,9.7,-1.602,,
+2014,Annual,Underemployment Rate,Vermont,6,9.3,-1.758,,
+2014,Annual,Underemployment Rate,Virginia,13,11.5,-0.898,,
+2014,Annual,Underemployment Rate,Washington,36,14,0.078,,
+2014,Annual,Underemployment Rate,West Virginia,17,12,-0.703,,
+2014,Annual,Underemployment Rate,Wisconsin,18,12.1,-0.664,,
+2014,Annual,Underemployment Rate,Wyoming,4,8.4,-2,,
+2014,Annual,Underemployment Rate,United States,,13.8,,,
+2014,Annual,Underemployment Rate,District of Columbia,,14.1,,,
+2014,Annual,"Unemployment Rate, Annual",Alabama,18,6.5,-0.572,,
+2014,Annual,"Unemployment Rate, Annual",Alaska,18,6.5,-0.572,,
+2014,Annual,"Unemployment Rate, Annual",Arizona,40,8,0.382,,
+2014,Annual,"Unemployment Rate, Annual",Arkansas,34,7.5,0.064,,
+2014,Annual,"Unemployment Rate, Annual",California,49,8.9,0.954,,
+2014,Annual,"Unemployment Rate, Annual",Colorado,26,6.8,-0.382,,
+2014,Annual,"Unemployment Rate, Annual",Connecticut,39,7.8,0.254,,
+2014,Annual,"Unemployment Rate, Annual",Delaware,23,6.7,-0.445,,
+2014,Annual,"Unemployment Rate, Annual",Florida,30,7.2,-0.127,,
+2014,Annual,"Unemployment Rate, Annual",Georgia,42,8.2,0.509,,
+2014,Annual,"Unemployment Rate, Annual",Hawaii,8,4.8,-1.654,,
+2014,Annual,"Unemployment Rate, Annual",Idaho,15,6.2,-0.763,,
+2014,Annual,"Unemployment Rate, Annual",Illinois,50,9.2,1.145,,
+2014,Annual,"Unemployment Rate, Annual",Indiana,34,7.5,0.064,,
+2014,Annual,"Unemployment Rate, Annual",Iowa,6,4.6,-1.781,,
+2014,Annual,"Unemployment Rate, Annual",Kansas,11,5.4,-1.272,,
+2014,Annual,"Unemployment Rate, Annual",Kentucky,45,8.3,0.572,,
+2014,Annual,"Unemployment Rate, Annual",Louisiana,15,6.2,-0.763,,
+2014,Annual,"Unemployment Rate, Annual",Maine,23,6.7,-0.445,,
+2014,Annual,"Unemployment Rate, Annual",Maryland,22,6.6,-0.509,,
+2014,Annual,"Unemployment Rate, Annual",Massachusetts,29,7.1,-0.191,,
+2014,Annual,"Unemployment Rate, Annual",Michigan,48,8.8,0.89,,
+2014,Annual,"Unemployment Rate, Annual",Minnesota,9,5.1,-1.463,,
+2014,Annual,"Unemployment Rate, Annual",Mississippi,47,8.6,0.763,,
+2014,Annual,"Unemployment Rate, Annual",Missouri,18,6.5,-0.572,,
+2014,Annual,"Unemployment Rate, Annual",Montana,14,5.6,-1.145,,
+2014,Annual,"Unemployment Rate, Annual",Nebraska,3,3.9,-2,,
+2014,Annual,"Unemployment Rate, Annual",Nevada,52,9.8,1.527,,
+2014,Annual,"Unemployment Rate, Annual",New Hampshire,10,5.3,-1.336,,
+2014,Annual,"Unemployment Rate, Annual",New Jersey,42,8.2,0.509,,
+2014,Annual,"Unemployment Rate, Annual",New Mexico,27,6.9,-0.318,,
+2014,Annual,"Unemployment Rate, Annual",New York,37,7.7,0.191,,
+2014,Annual,"Unemployment Rate, Annual",North Carolina,40,8,0.382,,
+2014,Annual,"Unemployment Rate, Annual",North Dakota,1,2.9,-2,,
+2014,Annual,"Unemployment Rate, Annual",Ohio,31,7.4,0,,
+2014,Annual,"Unemployment Rate, Annual",Oklahoma,11,5.4,-1.272,,
+2014,Annual,"Unemployment Rate, Annual",Oregon,37,7.7,0.191,,
+2014,Annual,"Unemployment Rate, Annual",Pennsylvania,31,7.4,0,,
+2014,Annual,"Unemployment Rate, Annual",Rhode Island,51,9.5,1.336,,
+2014,Annual,"Unemployment Rate, Annual",South Carolina,36,7.6,0.127,,
+2014,Annual,"Unemployment Rate, Annual",South Dakota,2,3.8,-2,,
+2014,Annual,"Unemployment Rate, Annual",Tennessee,42,8.2,0.509,,
+2014,Annual,"Unemployment Rate, Annual",Texas,17,6.3,-0.7,,
+2014,Annual,"Unemployment Rate, Annual",Utah,4,4.4,-1.908,,
+2014,Annual,"Unemployment Rate, Annual",Vermont,4,4.4,-1.908,,
+2014,Annual,"Unemployment Rate, Annual",Virginia,13,5.5,-1.208,,
+2014,Annual,"Unemployment Rate, Annual",Washington,28,7,-0.254,,
+2014,Annual,"Unemployment Rate, Annual",West Virginia,18,6.5,-0.572,,
+2014,Annual,"Unemployment Rate, Annual",Wisconsin,23,6.7,-0.445,,
+2014,Annual,"Unemployment Rate, Annual",Wyoming,6,4.6,-1.781,,
+2014,Annual,"Unemployment Rate, Annual",United States,,7.4,,,
+2014,Annual,"Unemployment Rate, Annual",District of Columbia,,8.3,,,
+2014,Annual,Vegetables,Alabama,37,1.75,-1,1.8,1.7
+2014,Annual,Vegetables,Alaska,5,2.03,1,2.09,1.97
+2014,Annual,Vegetables,Arizona,10,1.99,0.71,2.09,1.89
+2014,Annual,Vegetables,Arkansas,33,1.78,-0.79,1.87,1.68
+2014,Annual,Vegetables,California,1,2.21,2,2.26,2.17
+2014,Annual,Vegetables,Colorado,9,2,0.79,2.03,1.97
+2014,Annual,Vegetables,Connecticut,20,1.93,0.29,2.01,1.86
+2014,Annual,Vegetables,Delaware,45,1.68,-1.5,1.73,1.63
+2014,Annual,Vegetables,Florida,15,1.95,0.43,1.99,1.91
+2014,Annual,Vegetables,Georgia,25,1.87,-0.14,1.91,1.82
+2014,Annual,Vegetables,Hawaii,11,1.98,0.64,2.03,1.93
+2014,Annual,Vegetables,Idaho,20,1.93,0.29,1.98,1.88
+2014,Annual,Vegetables,Illinois,23,1.89,0,1.94,1.83
+2014,Annual,Vegetables,Indiana,38,1.74,-1.07,1.8,1.69
+2014,Annual,Vegetables,Iowa,46,1.67,-1.57,1.71,1.64
+2014,Annual,Vegetables,Kansas,27,1.85,-0.29,1.87,1.83
+2014,Annual,Vegetables,Kentucky,40,1.72,-1.21,1.76,1.68
+2014,Annual,Vegetables,Louisiana,49,1.64,-1.79,1.7,1.57
+2014,Annual,Vegetables,Maine,7,2.01,0.86,2.05,1.97
+2014,Annual,Vegetables,Maryland,23,1.89,0,1.93,1.85
+2014,Annual,Vegetables,Massachusetts,19,1.94,0.36,1.98,1.91
+2014,Annual,Vegetables,Michigan,31,1.81,-0.57,1.84,1.77
+2014,Annual,Vegetables,Minnesota,33,1.78,-0.79,1.82,1.74
+2014,Annual,Vegetables,Mississippi,50,1.58,-2,1.62,1.54
+2014,Annual,Vegetables,Missouri,32,1.79,-0.71,1.84,1.75
+2014,Annual,Vegetables,Montana,15,1.95,0.43,2.01,1.9
+2014,Annual,Vegetables,Nebraska,30,1.84,-0.36,1.88,1.8
+2014,Annual,Vegetables,Nevada,7,2.01,0.86,2.09,1.93
+2014,Annual,Vegetables,New Hampshire,4,2.05,1.14,2.12,1.98
+2014,Annual,Vegetables,New Jersey,25,1.87,-0.14,1.91,1.84
+2014,Annual,Vegetables,New Mexico,14,1.96,0.5,2,1.92
+2014,Annual,Vegetables,New York,15,1.95,0.43,2.01,1.88
+2014,Annual,Vegetables,North Carolina,27,1.85,-0.29,1.94,1.75
+2014,Annual,Vegetables,North Dakota,46,1.67,-1.57,1.71,1.62
+2014,Annual,Vegetables,Ohio,42,1.71,-1.29,1.74,1.67
+2014,Annual,Vegetables,Oklahoma,46,1.67,-1.57,1.7,1.64
+2014,Annual,Vegetables,Oregon,2,2.12,1.64,2.17,2.06
+2014,Annual,Vegetables,Pennsylvania,35,1.77,-0.86,1.81,1.73
+2014,Annual,Vegetables,Rhode Island,12,1.97,0.57,2.06,1.88
+2014,Annual,Vegetables,South Carolina,42,1.71,-1.29,1.75,1.68
+2014,Annual,Vegetables,South Dakota,39,1.73,-1.14,1.78,1.68
+2014,Annual,Vegetables,Tennessee,42,1.71,-1.29,1.75,1.66
+2014,Annual,Vegetables,Texas,27,1.85,-0.29,1.9,1.81
+2014,Annual,Vegetables,Utah,12,1.97,0.57,2.01,1.94
+2014,Annual,Vegetables,Vermont,3,2.06,1.21,2.12,2.01
+2014,Annual,Vegetables,Virginia,22,1.91,0.14,1.95,1.87
+2014,Annual,Vegetables,Washington,6,2.02,0.93,2.07,1.97
+2014,Annual,Vegetables,West Virginia,40,1.72,-1.21,1.75,1.68
+2014,Annual,Vegetables,Wisconsin,36,1.76,-0.93,1.81,1.71
+2014,Annual,Vegetables,Wyoming,15,1.95,0.43,2.01,1.89
+2014,Annual,Vegetables,United States,,1.89,,1.9,1.88
+2014,Annual,Vegetables,District of Columbia,,2.06,,2.16,1.95
+2014,Annual,Violent Crime,Alabama,37,449.9,0.487,,
+2014,Annual,Violent Crime,Alaska,48,603.2,1.672,,
+2014,Annual,Violent Crime,Arizona,36,428.9,0.325,,
+2014,Annual,Violent Crime,Arkansas,40,469.1,0.636,,
+2014,Annual,Violent Crime,California,35,423.1,0.28,,
+2014,Annual,Violent Crime,Colorado,23,308.9,-0.603,,
+2014,Annual,Violent Crime,Connecticut,19,283,-0.803,,
+2014,Annual,Violent Crime,Delaware,45,547.4,1.241,,
+2014,Annual,Violent Crime,Florida,43,487.1,0.775,,
+2014,Annual,Violent Crime,Georgia,30,378.9,-0.062,,
+2014,Annual,Violent Crime,Hawaii,10,239.2,-1.142,,
+2014,Annual,Violent Crime,Idaho,7,207.9,-1.384,,
+2014,Annual,Violent Crime,Illinois,34,414.8,0.216,,
+2014,Annual,Violent Crime,Indiana,26,345.7,-0.319,,
+2014,Annual,Violent Crime,Iowa,16,263.9,-0.951,,
+2014,Annual,Violent Crime,Kansas,29,354.6,-0.25,,
+2014,Annual,Violent Crime,Kentucky,8,222.6,-1.27,,
+2014,Annual,Violent Crime,Louisiana,44,496.9,0.851,,
+2014,Annual,Violent Crime,Maine,1,122.7,-2,,
+2014,Annual,Violent Crime,Maryland,42,476.8,0.695,,
+2014,Annual,Violent Crime,Massachusetts,31,405.5,0.144,,
+2014,Annual,Violent Crime,Michigan,39,454.5,0.523,,
+2014,Annual,Violent Crime,Minnesota,9,230.9,-1.206,,
+2014,Annual,Violent Crime,Mississippi,15,260.8,-0.975,,
+2014,Annual,Violent Crime,Missouri,38,450.9,0.495,,
+2014,Annual,Violent Crime,Montana,17,272.2,-0.887,,
+2014,Annual,Violent Crime,Nebraska,14,259.4,-0.986,,
+2014,Annual,Violent Crime,Nevada,49,607.6,1.706,,
+2014,Annual,Violent Crime,New Hampshire,3,187.9,-1.539,,
+2014,Annual,Violent Crime,New Jersey,20,290.2,-0.748,,
+2014,Annual,Violent Crime,New Mexico,47,559.1,1.331,,
+2014,Annual,Violent Crime,New York,32,406.8,0.154,,
+2014,Annual,Violent Crime,North Carolina,28,353.4,-0.259,,
+2014,Annual,Violent Crime,North Dakota,11,244.7,-1.1,,
+2014,Annual,Violent Crime,Ohio,22,299.7,-0.674,,
+2014,Annual,Violent Crime,Oklahoma,41,469.3,0.637,,
+2014,Annual,Violent Crime,Oregon,12,247.6,-1.077,,
+2014,Annual,Violent Crime,Pennsylvania,27,348.7,-0.295,,
+2014,Annual,Violent Crime,Rhode Island,13,252.4,-1.04,,
+2014,Annual,Violent Crime,South Carolina,46,558.8,1.329,,
+2014,Annual,Violent Crime,South Dakota,25,321.8,-0.503,,
+2014,Annual,Violent Crime,Tennessee,50,643.6,1.985,,
+2014,Annual,Violent Crime,Texas,33,408.6,0.168,,
+2014,Annual,Violent Crime,Utah,6,205.8,-1.4,,
+2014,Annual,Violent Crime,Vermont,2,142.6,-1.889,,
+2014,Annual,Violent Crime,Virginia,4,190.1,-1.522,,
+2014,Annual,Violent Crime,Washington,21,295.6,-0.706,,
+2014,Annual,Violent Crime,West Virginia,24,316.3,-0.546,,
+2014,Annual,Violent Crime,Wisconsin,18,280.5,-0.823,,
+2014,Annual,Violent Crime,Wyoming,5,201.4,-1.434,,
+2014,Annual,Violent Crime,United States,,386.9,,,
+2014,Annual,Violent Crime,District of Columbia,0,1243.7,,,
+2014,Annual,Youth Smoking,Alabama,,18.0,,20.8,15.5
+2014,Annual,Youth Smoking,Alaska,,10.6,,13.4,8.2
+2014,Annual,Youth Smoking,Arizona,,14.1,,16.6,11.8
+2014,Annual,Youth Smoking,Arkansas,,19.1,,22.2,16.4
+2014,Annual,Youth Smoking,California,,,,,
+2014,Annual,Youth Smoking,Colorado,,,,,
+2014,Annual,Youth Smoking,Connecticut,,13.5,,16.3,11.1
+2014,Annual,Youth Smoking,Delaware,,14.2,,16,12.5
+2014,Annual,Youth Smoking,Florida,,10.8,,12,9.7
+2014,Annual,Youth Smoking,Georgia,,12.8,,16.6,9.8
+2014,Annual,Youth Smoking,Hawaii,,10.4,,11.9,9.1
+2014,Annual,Youth Smoking,Idaho,,12.2,,15,9.8
+2014,Annual,Youth Smoking,Illinois,,14.1,,17.4,11.3
+2014,Annual,Youth Smoking,Indiana,,,,,
+2014,Annual,Youth Smoking,Iowa,,,,,
+2014,Annual,Youth Smoking,Kansas,,10.2,,11.9,8.8
+2014,Annual,Youth Smoking,Kentucky,,17.9,,21.2,15
+2014,Annual,Youth Smoking,Louisiana,,12.1,,15.2,9.5
+2014,Annual,Youth Smoking,Maine,,12.8,,14.5,11.3
+2014,Annual,Youth Smoking,Maryland,,11.9,,12.4,11.4
+2014,Annual,Youth Smoking,Massachusetts,,10.7,,12.1,9.5
+2014,Annual,Youth Smoking,Michigan,,11.8,,15.5,8.9
+2014,Annual,Youth Smoking,Minnesota,,,,,
+2014,Annual,Youth Smoking,Mississippi,,17.2,,20.4,14.5
+2014,Annual,Youth Smoking,Missouri,,14.9,,17.2,12.9
+2014,Annual,Youth Smoking,Montana,,15.2,,17.2,13.4
+2014,Annual,Youth Smoking,Nebraska,,10.9,,12.9,9.1
+2014,Annual,Youth Smoking,Nevada,,10.3,,13.2,8.1
+2014,Annual,Youth Smoking,New Hampshire,,13.8,,16.4,11.6
+2014,Annual,Youth Smoking,New Jersey,,12.9,,15.3,10.8
+2014,Annual,Youth Smoking,New Mexico,,14.4,,17,12.2
+2014,Annual,Youth Smoking,New York,,10.6,,12.2,9.3
+2014,Annual,Youth Smoking,North Carolina,,15.0,,17.3,12.8
+2014,Annual,Youth Smoking,North Dakota,,19.0,,21.7,16.6
+2014,Annual,Youth Smoking,Ohio,,15.1,,19.6,11.5
+2014,Annual,Youth Smoking,Oklahoma,,18.5,,22,15.5
+2014,Annual,Youth Smoking,Oregon,,,,,
+2014,Annual,Youth Smoking,Pennsylvania,,,,,
+2014,Annual,Youth Smoking,Rhode Island,,8.0,,11,5.8
+2014,Annual,Youth Smoking,South Carolina,,16.0,,19,13.3
+2014,Annual,Youth Smoking,South Dakota,,16.5,,21.4,12.5
+2014,Annual,Youth Smoking,Tennessee,,15.4,,18.3,13
+2014,Annual,Youth Smoking,Texas,,14.1,,16.8,11.9
+2014,Annual,Youth Smoking,Utah,,4.4,,5.9,3.2
+2014,Annual,Youth Smoking,Vermont,,,,,
+2014,Annual,Youth Smoking,Virginia,,11.1,,12.7,9.6
+2014,Annual,Youth Smoking,Washington,,,,,
+2014,Annual,Youth Smoking,West Virginia,,19.6,,22.7,16.8
+2014,Annual,Youth Smoking,Wisconsin,,11.8,,14.1,9.9
+2014,Annual,Youth Smoking,Wyoming,,17.4,,20.4,14.7
+2014,Annual,Youth Smoking,United States,,15.7,,18.1,13.5
+2014,Annual,Youth Smoking,District of Columbia,,,,,
