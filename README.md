@@ -16,11 +16,11 @@ Notebook 02: processnotebook02_Analysis_and_Conclusion.ipynb contains data analy
 
 ## Non-standard Python libraries used 
 Python Twitter API
-<https://code.google.com/p/python-twitter/>
+<https://code.google.com/p/python-twitter/> 
 Natural Language Toolkit
-<http://www.nltk.org/>
+<http://www.nltk.org/> 
 Python Geocoding Toolbox
-<https://pypi.python.org/pypi/geopy/>
+<https://pypi.python.org/pypi/geopy/> 
 
 
 ## Outside code
