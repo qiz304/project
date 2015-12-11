@@ -11,7 +11,7 @@ Demo provided with screencast
 <http://hackersforhumanhealth.me/screencast.html>
 
 ## Details for teaching team
-Notebook 01: processnotebook01_DataAcquisition_and_Processing.ipynb contains project overview, initial questions, data acquisition and data processing functions.
+Notebook 01: processnotebook01_DataAcquisition_and_Processing.ipynb contains project overview, initial questions, data acquisition and data processing functions.<br />
 Notebook 02: processnotebook02_Analysis_and_Conclusion.ipynb contains data analysis, summary and conclusion.
 
 ## Non-standard Python libraries used 
