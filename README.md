@@ -14,6 +14,10 @@ Demo provided with screencast
 Notebook 01: processnotebook01_DataAcquisition_and_Processing.ipynb contains project overview, initial questions, data acquisition and data processing functions.
 Notebook 02: processnotebook02_Analysis_and_Conclusion.ipynb contains data analysis, summary and conclusion.
 
+## Non-standard Python libraries used 
+Python Twitter API
+<https://code.google.com/p/python-twitter/>
+
 ## Outside code
 *Live URL makes use of pure css side menu template http://purecss.io/layouts/ 
 
